@@ -3,7 +3,7 @@
 
 <div align="center">
  <abc> 
-<img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="800" height="400" ><br>
+<img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="650" height="250" ><br>
   <br>   
  </abc>
 </div> 
