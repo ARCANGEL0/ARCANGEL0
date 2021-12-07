@@ -3,7 +3,7 @@
  <abc>
  <br>Hi there
   
-  ! <img src="https://i.pinimg.com/originals/2e/0d/84/2e0d842575ee5586bcfea75e42b16fe4.gif" width="30"><br>
+  ! <img src="https://i.pinimg.com/originals/2e/0d/84/2e0d842575ee5586bcfea75e42b16fe4.gif" width="100"><br>
   <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
   <br>   
  </abc>
