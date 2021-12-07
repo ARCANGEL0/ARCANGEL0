@@ -3,9 +3,7 @@
 
 <div align="center">
  <abc> 
-  <h1> ARCANGELO </h1>
-
-<img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
+<img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="800" height="400" ><br>
   <br>   
  </abc>
 </div> 
@@ -33,10 +31,7 @@ class ARCANGELO:
             'misc': ['Design Gráfico', 'CyberSecurity', 'SCRUM', 'Windows', 'GNU/Linux', 'MVC', 'Kali Linux' ]
       
       }
-      
-      
-      
-      
+ 
 ```
 
 
