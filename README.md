@@ -9,7 +9,19 @@
   <br>   
  </abc>
 </div> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+
+<h2 align="left">👨🏻‍💻 Sobre :</h2>
+
+- :computer: I'm currently working on MERN Stack
+- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+
+<h2 align="left">:hammer_and_wrench: Ferramentas e tecnologias:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -28,21 +40,7 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+<h2 align="left">:link: Links:</h2>
 
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-henriquearcangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) 
-
-[![Facebook_Badge](https://img.shields.io/badge/-henrique_arcangelo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henriquearcangel)](https://facebook.com/henriquearcangel) 
-
-[![Instagram Badge](https://img.shields.io/badge/-@henryy_arc-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/henryy_arc)](https://www.instagram.com/henryy_arc)
-[![Linkedin Badge](https://img.shields.io/badge/-arcangelo.dev-red?style=flat-square&logo=appveyor&logoColor=white&link=https://arcangelo.dev/)](https://arcangelo.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-henriquearcangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) [![Facebook_Badge](https://img.shields.io/badge/-henry_arcangelo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henriquearcangel)](https://facebook.com/henriquearcangel) [![Instagram Badge](https://img.shields.io/badge/-@henryy_arc-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/henryy_arc)](https://www.instagram.com/henryy_arc)[![Linkedin Badge](https://img.shields.io/badge/-arcangelo.dev-red?style=flat-square&logo=appveyor&logoColor=white&link=https://arcangelo.dev/)](https://arcangelo.dev/)
