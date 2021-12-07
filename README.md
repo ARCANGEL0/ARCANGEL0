@@ -2,8 +2,9 @@
  
 
 <div align="center">
- <h2> ARCANGELO </h2>
- <abc>
+ <abc> 
+  <h1> ARCANGELO </h1>
+
 <img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
   <br>   
  </abc>
