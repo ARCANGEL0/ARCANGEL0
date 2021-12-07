@@ -1,7 +1,7 @@
-  ## ARCANGEL0
-
-<h2 align="left">
  
+
+<h2 align="center">
+  <center> <h1> ARCANGELO </h2> </center>
  <abc>
 <img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
   <br>   
