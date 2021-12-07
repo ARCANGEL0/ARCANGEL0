@@ -25,12 +25,6 @@ class ARCANGELO:
             'misc': ['Design Gráfico', 'Kali Linux', 'SCRUM', 'CyberSecurity', 'GNU/Linux','Windows']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
-
-   
-
-if __name__ == '__main__':
-    me = RafnixG()
-
 ```
 
 <h2 align="left">:hammer_and_wrench: Ferramentas e tecnologias:</h2>
