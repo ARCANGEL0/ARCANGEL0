@@ -1,7 +1,7 @@
 <h2 align="left">
  
  <abc>
-<img src="https://i.pinimg.com/originals/a4/a5/88/a4a58852928c1eb6f86d12ca33020309.gif" width="800" height="200" ><br>
+<img src="https://i.pinimg.com/originals/a4/a5/88/a4a58852928c1eb6f86d12ca33020309.gif" width="900" height="300" ><br>
   <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
   <br>   
  </abc>
