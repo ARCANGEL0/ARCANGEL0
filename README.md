@@ -1,9 +1,9 @@
-  # ARCANGEL0
+  ## ARCANGEL0
 
 <h2 align="left">
  
  <abc>
-<img src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
+<img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
   <br>   
  </abc>
 </h2> 
