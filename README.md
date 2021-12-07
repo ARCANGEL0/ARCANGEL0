@@ -1,7 +1,7 @@
 <h2 align="left">
  
  <abc>
-<img src="https://thumbs.gfycat.com/BoldRelievedChickadee-size_restricted.gif" width="900" height="300" ><br>
+<img src="https://thumbs.gfycat.com/BoldRelievedChickadee-size_restricted.gif" width="600" height="200" ><br>
   <br> I'm Siv Ram Shastri, Full Stack Web Developer :computer:<br>
   <br>   
  </abc>
