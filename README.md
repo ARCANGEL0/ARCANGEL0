@@ -12,9 +12,7 @@
 
 <h2 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30" height="30" >    Sobre :</h2>
 ```python
-
 class ARCANGELO:
-
     def __init__(self):
         self.name = 'Henrique Arcangelo'
         self.web = 'https://arcangelo.dev'
@@ -24,7 +22,7 @@ class ARCANGELO:
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'NPM'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Postman', 'Photoshop', 'PHPMyAdmin', 'Illustrator', 'Visual Studio Code','Atom', 'Sublime Text','SQLite Browser',],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'misc': ['Design Gráfico', 'Kali Linux', 'SCRUM', 'CyberSecurity', 'GNU/Linux','Windows']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
