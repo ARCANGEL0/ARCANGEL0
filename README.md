@@ -42,8 +42,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-henriquearcangelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) 
 
-[![Faceboo_Badge](https://img.shields.io/badge/-henrique arcangelo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henriquearcangel)](https://facebook.com/henriquearcangel) 
-
+[![Facebook_Badge](https://img.shields.io/badge/-henrique_arcangelo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henriquearcangel)](https://facebook.com/henriquearcangel) 
 
 [![Instagram Badge](https://img.shields.io/badge/-@henryy_arc-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/henryy_arc)](https://www.instagram.com/henryy_arc)
 [![Linkedin Badge](https://img.shields.io/badge/-arcangelo.dev-red?style=flat-square&logo=appveyor&logoColor=white&link=https://arcangelo.dev/)](https://arcangelo.dev/)
