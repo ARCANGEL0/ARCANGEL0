@@ -1,8 +1,8 @@
 <h2 align="left">
  
  <abc>
+  # ARCANGEL0
 <img src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
-  <br> ARCANGEL0 :computer:<br>
   <br>   
  </abc>
 </h2> 
