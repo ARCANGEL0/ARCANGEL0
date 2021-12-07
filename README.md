@@ -1,13 +1,13 @@
 
  
 
-<h2 align="center">
-  <center> <h1> ARCANGELO </h2> </center>
+<div align="center">
+  <ARCANGELO 
  <abc>
 <img style="margin-left: 10%" src="https://thumbs.gfycat.com/ForthrightMiserlyDogwoodtwigborer-size_restricted.gif" width="600" height="200" ><br>
   <br>   
  </abc>
-</h2> 
+</div> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
