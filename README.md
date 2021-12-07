@@ -10,7 +10,7 @@
  </abc>
 </div> 
 
-<h2 align="left">👨🏻‍💻 Sobre :</h2>
+<h2 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728"> Sobre :</h2>
 
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
