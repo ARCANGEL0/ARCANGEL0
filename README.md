@@ -11,20 +11,33 @@
 </div> 
 
 <h2 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30" height="30" >    Sobre :</h2>
+
 ```python
-class ARCANGELO:
+class RafnixG:
+
     def __init__(self):
-        self.name = 'Henrique Arcangelo'
-        self.web = 'https://arcangelo.dev'
-        self.bio = ''
+        self.username = 'rafnixg'
+        self.name = 'Rafnix Guzmán'
+        self.web = 'https://rafnixg.dev'
+        self.twitter = '@rafnixg'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native', 'Boostrap', 'Jquery'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'NPM'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Postman', 'Photoshop', 'PHPMyAdmin', 'Illustrator', 'Visual Studio Code','Atom', 'Sublime Text','SQLite Browser',],
-            'misc': ['Design Gráfico', 'Kali Linux', 'SCRUM', 'CyberSecurity', 'GNU/Linux','Windows']
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = RafnixG()
+
+
 ```
 
 <h2 align="left">:hammer_and_wrench: Ferramentas e tecnologias:</h2>
