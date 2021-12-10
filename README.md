@@ -19,8 +19,9 @@ class ARCANGELO:
 
     def __init__(self):
         self.name = 'Henry Arcangelo'
+        self.age = 21
+        self.country = 'Brazil'
         self.web = 'https://arcangelo.dev'
-        self.instagram = '@henryy_arc'
         self.phone = '+55 13 988504778'
         self.skills = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native', 'Boostrap', 'Jquery'],
