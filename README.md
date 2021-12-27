@@ -1,9 +1,9 @@
 
  
 
-<div align="right">
+<div align="left">
  <abc> 
-<img style="margin-left: 10%" src="61b4000fdf706012549312.gif" width="650" height="250" ><br>
+<img style="margin-left: 10%" src="61b4000fdf706012549312.gif" width="450" height="250" ><br>
   <br>   
  </abc>
 </div> 
