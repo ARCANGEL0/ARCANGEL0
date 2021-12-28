@@ -27,7 +27,7 @@ class ARCANGELO:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native', 'Boostrap', 'Jquery'],
             'backend': ['Java', 'Python', 'PHP', 'NPM', 'Django', 'Laravel', 'NodeJS', 'Electron','CakePHP', 'Symfony' ],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Postman', 'Visual Studio Code', 'SQLite Browser', 'Atom', 'IdeaJS IDE', 'Datagrip IDE', 'PHPStorm', 'Imsonia', 'Nginx', 'Apache', 'Adobe Illustrator', 'Adobe Photoshop', 'CorelDraw X8' ],
+            'tools': ['GIT', 'Postman', 'Visual Studio Code', 'SQLite Browser', 'Atom', 'IdeaJS IDE', 'Datagrip IDE', 'PHPStorm', 'Imsonia', 'Nginx', 'Apache', 'Adobe Illustrator', 'Adobe Photoshop', 'CorelDraw X8' ],
             'misc': ['Design', 'CyberSecurity', 'SCRUM', 'Windows', 'GNU/Linux', 'MVC', 'DBMS's' ]
       
       }
