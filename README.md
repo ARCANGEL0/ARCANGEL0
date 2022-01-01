@@ -18,7 +18,7 @@
 class ARCANGELO:
 
     def __init__(self):
-        self.name = 'Henry Arcangelo'
+        self.name = 'Henrique Arcangelo'
         self.age = 21
         self.country = 'Brazil'
         self.web = 'https://arcangelo.dev'
