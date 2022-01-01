@@ -20,16 +20,17 @@ class ARCANGELO:
     def __init__(self):
         self.nome = 'Henrique Arcangelo'
         self.idade = 21
-        self.pais = 'Brazil'
+        self.pais = 'Brasil'
         self.site = 'https://arcangelo.dev'
         self.telefone = '+55 13 988504778'
         self.tecnologias = {
-            'FrontEnd': ['CSS', 'JavaScript', 'React', 'React Native', 'Boostrap', 'Jquery'],
-            'BackEnd': ['Java', 'Python', 'PHP', 'NPM', 'Django', 'Laravel', 'NodeJS', 'Electron','CakePHP', 'Symfony' ],
-            'Banco de Dados': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server', 'Firebase'],
+            'FrontEnd': ['CSS', 'JavaScript', ,'TypeScript', 'React', 'React Native', 'Jquery'],
+            'BackEnd': ['Java', 'Python', 'PHP', 'NodeJS'],
+            'Banco de Dados': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
             'Softwares e utensílios': { 
                  'Design': ['InkScape', 'Adobe Photoshop CC', 'Adobe Illustrator CC', 'CorelDraw X8', 'Adobe Premiere', 'Canvas' ],
-                 'Teste e Desenvolvimento': ['Postman', 'Nginx', 'Apache', 'Insomnia','GIT', 'SQLite Browser', 'Electron'],
+                 'Teste e Desenvolvimento': [ 'NPM', 'Yarn', 'Postman', 'Nginx', 'Apache', 'Insomnia','GIT', 'SQLite Browser'],
+                 'Frameworks': ['Electron', 'Expo', 'Symfony', 'Laravel', 'Django', 'Express', 'Firebase', 'Boostrap']
                  'IDEs': ['Visual Studio Code', 'Atom', 'IdeaJS', 'Datagrip', 'PHPStorm']
            },
            'Cybersecurity': ['Ataques LFI/RFI', 'Cross-Side Scripting (XSS)', 'Injeções SQL', 'Busca por vulnerabilidades, serviços e portas (Nmap,Openvas)', 'Exploração de vulnerabilidades', 'Ataques por overflow de buffer'],
