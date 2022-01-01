@@ -18,18 +18,22 @@
 class ARCANGELO:
 
     def __init__(self):
-        self.name = 'Henrique Arcangelo'
-        self.age = 21
-        self.country = 'Brazil'
-        self.web = 'https://arcangelo.dev'
-        self.phone = '+55 13 988504778'
-        self.skills = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native', 'Boostrap', 'Jquery'],
-            'backend': ['Java', 'Python', 'PHP', 'NPM', 'Django', 'Laravel', 'NodeJS', 'Electron','CakePHP', 'Symfony' ],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
-            'tools': ['GIT', 'Postman', 'Visual Studio Code', 'SQLite Browser', 'Atom', 'IdeaJS IDE', 'Datagrip IDE', 'PHPStorm', 'Imsonia', 'Nginx', 'Apache', 'Adobe Illustrator', 'Adobe Photoshop', 'CorelDraw X8' ],
-            'misc': ['Design', 'CyberSecurity', 'SCRUM', 'Windows', 'GNU/Linux', 'MVC', 'DBMS's' ]
-      
+        self.nome = 'Henrique Arcangelo'
+        self.idade = 21
+        self.pais = 'Brazil'
+        self.site = 'https://arcangelo.dev'
+        self.telefone = '+55 13 988504778'
+        self.tecnologias = {
+            'FrontEnd': ['CSS', 'JavaScript', 'React', 'React Native', 'Boostrap', 'Jquery'],
+            'BackEnd': ['Java', 'Python', 'PHP', 'NPM', 'Django', 'Laravel', 'NodeJS', 'Electron','CakePHP', 'Symfony' ],
+            'Banco de Dados': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server', 'Firebase'],
+            'Softwares e utensílios': { 
+                 'Design': ['InkScape', 'Adobe Photoshop CC', 'Adobe Illustrator CC', 'CorelDraw X8', 'Adobe Premiere', 'Canvas' ],
+                 'Teste e Desenvolvimento': ['Postman', 'Nginx', 'Apache', 'Insomnia','GIT', 'SQLite Browser', 'Electron'],
+                 'IDEs': ['Visual Studio Code', 'Atom', 'IdeaJS', 'Datagrip', 'PHPStorm']
+           },
+           'Cybersecurity': ['Ataques LFI/RFI', 'Cross-Side Scripting (XSS)', 'Injeções SQL', 'Busca por vulnerabilidades, serviços e portas (Nmap,Openvas)', 'Exploração de vulnerabilidades', 'Ataques por overflow de buffer'],
+            'misc': ['Metodologia SCRUM', 'Windows', 'GNU/Linux', 'Modelagem MVC', 'Sistemas Gerenciadores de Bancos de Dados', 'Sistemas CMS' ]
       }
  
 ```
