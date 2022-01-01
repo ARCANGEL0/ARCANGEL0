@@ -12,10 +12,13 @@
 
 ```python
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
 
-class ARCANGELO:
+
+class Arcangelo:
 
     def __init__(self):
         self.nome = 'Henrique Arcangelo'
@@ -30,7 +33,7 @@ class ARCANGELO:
             'Softwares e utensílios': { 
                  'Design': ['InkScape', 'Adobe Photoshop CC', 'Adobe Illustrator CC', 'CorelDraw X8', 'Adobe Premiere', 'Canvas' ],
                  'Teste e Desenvolvimento': [ 'NPM', 'Yarn', 'Postman', 'Nginx', 'Apache', 'Insomnia','GIT', 'SQLite Browser'],
-                 'Frameworks': ['Electron', 'Expo', 'Symfony', 'Laravel', 'Django', 'Express', 'Firebase', 'Boostrap']
+                 'Frameworks': ['Electron', 'Expo', 'Symfony', 'Laravel', 'Django', 'Express', 'Firebase', 'Boostrap'],
                  'IDEs': ['Visual Studio Code', 'Atom', 'IdeaJS', 'Datagrip', 'PHPStorm']
            },
            'Cybersecurity': ['Ataques LFI/RFI', 'Cross-Side Scripting (XSS)', 'Injeções SQL', 'Busca por vulnerabilidades, serviços e portas (Nmap,Openvas)', 'Exploração de vulnerabilidades', 'Ataques por overflow de buffer'],
