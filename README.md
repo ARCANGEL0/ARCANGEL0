@@ -32,12 +32,12 @@ class Arcangelo:
             'Banco de Dados': ['PostgreSQL', 'MySQL', 'SQLite3', 'SQL Server'],
             'Softwares e utensílios': { 
                  'Design': ['InkScape', 'Adobe Photoshop CC', 'Adobe Illustrator CC', 'CorelDraw X8', 'Adobe Premiere', 'Canvas' ],
-                 'Teste e Desenvolvimento': [ 'NPM', 'Yarn', 'Postman', 'Nginx', 'Apache', 'Insomnia','GIT', 'SQLite Browser'],
+                 'Teste e Desenvolvimento': [ 'NPM', 'Yarn', 'Postman', 'Nginx', 'Apache', 'Insomnia','GIT', 'SQLite Browser', 'Firebase'],
                  'Frameworks': ['Electron', 'Expo', 'Symfony', 'Laravel', 'Django', 'Express', 'Firebase', 'Boostrap'],
                  'IDEs': ['Visual Studio Code', 'Atom', 'IdeaJS', 'Datagrip', 'PHPStorm']
            },
            'Cybersecurity': ['Ataques LFI/RFI', 'Cross-Side Scripting (XSS)', 'Injeções SQL', 'Busca por vulnerabilidades, serviços e portas (Nmap,Openvas)', 'Exploração de vulnerabilidades', 'Ataques por overflow de buffer'],
-            'misc': ['Metodologia SCRUM', 'Windows', 'GNU/Linux', 'Modelagem MVC', 'Sistemas Gerenciadores de Bancos de Dados', 'Sistemas CMS' ]
+           'Misc': ['Metodologia SCRUM', 'Windows', 'GNU/Linux', 'Modelagem MVC', 'Sistemas Gerenciadores de Bancos de Dados', 'Sistemas CMS' ]
       }
  
 ```
