@@ -3,7 +3,7 @@
 
 <div align="left">
  <abc> 
-<img style="margin-left: 10%" src="61b4000fdf706012549312.gif" width="110%" height="250" ><br>
+<img style="margin-left: 10%" src="61b4000fdf706012549312.gif" width="70%" height="250" ><br>
   <br>   
  </abc>
 </div> 
