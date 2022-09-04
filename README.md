@@ -24,7 +24,7 @@ class Arcangelo:
         self.nome = 'Henrique Arcangelo'
         self.idade = 21
         self.pais = 'Brasil'
-        self.site = 'https://arcangelo.dev'
+        self.site = 'https://arcangel0.github.io'
         self.telefone = '+55 13 988504778'
         self.tecnologias = {
             'FrontEnd': ['CSS', 'JavaScript', ,'TypeScript', 'React', 'React Native', 'Jquery'],
