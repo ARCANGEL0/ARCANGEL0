@@ -25,7 +25,7 @@ class Arcangelo:
         self.idade = 21
         self.pais = 'Brasil'
         self.site = 'https://arcangel0.github.io'
-        self.telefone = '+55 13 988504778'
+        self.telefone = '+55 13 98855-2976'
         self.tecnologias = {
             'FrontEnd': ['CSS', 'JavaScript', ,'TypeScript', 'React', 'React Native', 'Jquery'],
             'BackEnd': ['Java', 'Python', 'PHP', 'NodeJS'],
@@ -46,4 +46,4 @@ class Arcangelo:
 
 <h2 align="left">:link: Links:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) [![Facebook_Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henryyssn)](https://facebook.com/henryyssn)  [![whats_ Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send/?phone=5513988504778)](https://web.whatsapp.com/send/?phone=5513988504778) [![site_ Badge](https://img.shields.io/badge/-Website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://arcangel0.github.io/ARC_UI/)](https://arcangel0.github.io/ARC_UI/) [![Email Badge](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=protonmail&logoColor=white&link=mailto:rick_arcangelo@hotmail.com)](mailto:rick_arcangelo@hotmail.com) [![HTB Badge](https://img.shields.io/badge/-HackTheBox-brightgreen?style=flat-square&logo=hackthebox&logoColor=white&link=https://app.hackthebox.com/profile/795113)](https://app.hackthebox.com/profile/795113)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) [![Facebook_Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henryyssn)](https://facebook.com/henryyssn)  [![whats_ Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send/?phone=5513988504778)](https://web.whatsapp.com/send/?phone=5513988552976) [![site_ Badge](https://img.shields.io/badge/-Website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://arcangel0.github.io/)](https://arcangel0.github.io/) [![Email Badge](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=protonmail&logoColor=white&link=mailto:rick_arcangelo@hotmail.com)](mailto:rick_arcangelo@hotmail.com) [![HTB Badge](https://img.shields.io/badge/-HackTheBox-brightgreen?style=flat-square&logo=hackthebox&logoColor=white&link=https://app.hackthebox.com/profile/795113)](https://app.hackthebox.com/profile/795113)
