@@ -25,8 +25,9 @@ class Arcangelo:
         self.idade = 21
         self.pais = 'Brasil'
         self.portfolio = 'https://arcangello.com'
-        self.portfolio = 'https://lnadigital.com'
+        self.website = 'https://lnadigital.com'
         self.telefone = '+55 13 98855-2976'
+        self.emails = ('henry@arcangello.com','henri.arcangelo@gmail.com')
         self.tecnologias = {
             'FrontEnd': ['CSS', 'JavaScript', ,'TypeScript', 'React', 'React Native', 'Jquery'],
             'BackEnd': ['Java', 'Python', 'PHP', 'NodeJS'],
