@@ -3,10 +3,18 @@
 
 <div align="left">
  <abc> 
-<img style="margin-left: 10%" src="61b4000fdf706012549312.gif" width="100%" height="250" ><br>
+<img style="margin-left: 10%" src="banner.gif" width="200%" height="250%" ><br>
   <br>   
+
  </abc>
 </div> 
+<abc>
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn%20-3e1616.svg?&style=for-the-badge&logo=linkedin&logoColor=f43131&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) [![Facebook_Badge](https://img.shields.io/badge/Facebook%20-3e1616.svg?&style=for-the-badge&logo=facebook&logoColor=f43131&link=https://facebook.com/henryyssn)](https://facebook.com/henryyssn)  [![whats_ Badge](https://img.shields.io/badge/WhatsApp%20-3e1616.svg?&style=for-the-badge&logo=whatsapp&logoColor=f43131&link=https://web.whatsapp.com/send/?phone=5513988552976)](https://web.whatsapp.com/send/?phone=5513988552976) [![site_ Badge](https://img.shields.io/badge/Portfolio%20-3e1616.svg?&style=for-the-badge&logo=atom&logoColor=f43131&link=https://arcangello.com)](https://arcangello.com/) <br> [![site_ Badge2](https://img.shields.io/badge/Website%20-3e1616.svg?&style=for-the-badge&logo=appveyor&logoColor=f43131&link=https://lnadigital.com)](https://lnadigital.com/) [![Email Badge](https://img.shields.io/badge/Email%20-3e1616.svg?&style=for-the-badge&logo=protonmail&logoColor=f43131&link=mailto:henry@arcangello.com,henri.arcangelo@gmail.com)](mailto:henry@arcangello.com,henri.arcangelo@gmail.com) [![HTB Badge](https://img.shields.io/badge/HackTheBox%20-3e1616.svg?&style=for-the-badge&logo=hackthebox&logoColor=f43131&link=https://app.hackthebox.com/profile/795113)](https://app.hackthebox.com/profile/795113)
+</div>
+
+  </abc>
 
 <h2 align="left"> <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" width="30" height="30" >    Sobre :</h2>
 
@@ -46,6 +54,3 @@ class Arcangelo:
 
 
 
-<h2 align="left">:link: Links:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/)](https://www.linkedin.com/in/henrique-carreira-b-arcangelo-7965841bb/) [![Facebook_Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://facebook.com/henryyssn)](https://facebook.com/henryyssn)  [![whats_ Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send/?phone=5513988504778)](https://web.whatsapp.com/send/?phone=5513988552976) [![site_ Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=atom&logoColor=white&link=https://arcangello.com)](https://arcangello.com/) [![site_ Badge2](https://img.shields.io/badge/-Website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://lnadigital.com)](https://lnadigital.com/) [![Email Badge](https://img.shields.io/badge/-Email-gray?style=flat-square&logo=protonmail&logoColor=white&link=mailto:henry@arcangello.com)](mailto:henry@arcangello.com) [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:henri.arcangelo@gmail.com)](mailto:henri.arcangelo@gmail.com) [![HTB Badge](https://img.shields.io/badge/-HackTheBox-brightgreen?style=flat-square&logo=hackthebox&logoColor=white&link=https://app.hackthebox.com/profile/795113)](https://app.hackthebox.com/profile/795113)
