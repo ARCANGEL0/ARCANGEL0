@@ -1,5 +1,8 @@
 
- 
+ <div align="center">
+      <img style="margin-bottom: -20%" width="15%" height="15%"src="skills.png">
+      <h1 style="margin-top: -5%">𝕎𝕖𝕝𝕔𝕠𝕞𝕖</h1> 
+ </div>
 
 <div align="left">
  <abc> 
