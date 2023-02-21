@@ -72,7 +72,7 @@
   <tr>
     <td valign="top">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=fallTerminal&theme=radical)](https://github.com/ARCANGEL0/fallTerminal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=MinervaGPT&theme=radical)](https://github.com/ARCANGEL0/MinervaGPT)
 
   </td>
     <td valign="top">
