@@ -81,18 +81,6 @@ linux
 -->
 </details>
 
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
-Outros, aprendendo
 
 <details>
   <summary><b>:brain: &nbsp;Outros, aprendendo</b></summary>
