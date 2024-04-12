@@ -16,7 +16,7 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
 
 
 <br>
-### :space_invader: &nbsp;About Me
+### About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
