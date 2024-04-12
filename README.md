@@ -1,4 +1,4 @@
-<img src="standard (2).gif"></img>
+<img src="banner.gif"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
