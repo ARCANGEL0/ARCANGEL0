@@ -2,13 +2,11 @@
 </table><img src="img/standard (2).gif"></img>
 
 <table align="right">
+ <tr><td>⛦</td></tr>
  <tr><td><a href="README.md"><img src="img/us-flag.png" height="13"> English</a></td></tr>
- 
  <tr><td><a href="README_fr.md"><img src="img/fr-flag.png" height="13"> Français</a></td></tr>
- 
  <tr><td><a href="README_pt.md"><img src="img/br-flag.png" height="13"> Português</a></td></tr>
 </table>
-
 <img align="left" src="https://orhun.dev/img/crow.png">
 
 ### Hey!
