@@ -44,7 +44,7 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
   <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,arch,atom,aws,arduino,bash,blender,bootstrap,cofrpen,css,debian,bots,django,electron,express,figma,firebase,flask,gcp,git,github,godot,gradle,html,htmx,idea,ai,js,jquery,kali,laravel,less,linux,md,materialui,mint,mongodb,mysql,neovim,nginx,nodejs,npm,opencv,ps,php,phpstorm,postgres,postman,py,pytorch,react,redhat,redux,sqlite,styledcomponents,sublime,sklearn,symfony,ts,ubuntu,visualstudio,vscode,webpack,windows,wordpress,yarn&perline=10" />
+    <img src="https://skillicons.dev/icons?i=angular,arch,atom,aws,arduino,bash,blender,babel,bootstrap,cofrpen,css,debian,bots,django,electron,express,figma,firebase,flask,gcp,git,githubhtml,htmx,idea,ai,js,jquery,kali,laravel,linux,md,materialui,mint,mongodb,mysql,neovim,nginx,nodejs,npm,opencv,ps,php,phpstorm,postgres,postman,py,pytorch,react,redhat,redux,sqlite,styledcomponents,sublime,sklearn,symfony,ts,ubuntu,visualstudio,vscode,webpack,windows,wordpress,yarn&perline=10" />
   </a>
 </p>
 
@@ -77,13 +77,13 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge, currently learning</b></summary>
   <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
   </a>
-    <img src="https://skillicons.dev/icons?i=cs,cpp,cmake,docker,dotnet,flutter,java,kubernetes,nextjs,r,solidjs,tensorflow,threejs,vue&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,cmake,docker,dotnet,flutter,godot,gradle,unity,less,java,kubernetes,nextjs,r,solidjs,tensorflow,threejs,vue&perline=10" />
 </p>
 
 </details>
