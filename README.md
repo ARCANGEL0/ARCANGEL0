@@ -139,6 +139,6 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </p>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=ARCANGEL0&style=for-the-badge&label=Views&color=eeeeee"><img>
+<img src="https://komarev.com/ghpvc/?username=ARCANGEL0&style=for-the-badge&label=Views&color=111111"><img>
 
 </p>
