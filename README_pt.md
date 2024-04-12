@@ -95,7 +95,7 @@ linux
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;Statistiques GitHub</b></summary>
+  <summary><b>:gear: &nbsp; Estatísticas GitHub</b></summary>
   <br/>
   
 <<div align="center">
