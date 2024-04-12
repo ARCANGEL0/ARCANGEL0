@@ -27,10 +27,10 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
 
 <p align="center">
   <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry"><img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100089128511446"><img src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100089128511446"><img src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/henryy.xn/"><img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/henryarcangelo/"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/henryy.xn/"><img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/henryarcangelo/"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=cyan" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/henryy.xn/"><img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=red" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arcangelo.net"><img src="https://img.shields.io/badge/Website-black.svg?&style=for-the-badge&logo=accenture&logoColor=green" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://arcangelo.net?tr=m"><img src="https://img.shields.io/badge/ROBCO TERMINAL-%23092e13.svg?&style=for-the-badge&logo=codio&logoColor=%2367B438" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <!--
