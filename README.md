@@ -166,6 +166,9 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <hr/>
+<details>
+![ARCANGEL0's Stats](https://github-readme-stats.vercel.app/api?username=ARCANGEL0&theme=dark&show_icons=true&hide_border=true&count_private=true)
+</details>
 
 <p align="center">
  <a href="https://ko-fi.com/X8X48056Q">
