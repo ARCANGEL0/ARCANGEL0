@@ -19,12 +19,12 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
 <h1> ⌬ About Me </h1>
 
 &nbsp;&nbsp;&nbsp;🎓&nbsp; Graduated in Software analysis and development.\
-&nbsp;&nbsp;&nbsp;💻 &nbsp; Currently looking for jobs. \
+&nbsp;&nbsp;&nbsp;💻&nbsp; Currently looking for jobs. \
 &nbsp;&nbsp;&nbsp;🩵 &nbsp;Likeness with problem solving, puzzles, enigmas and daily routines automation.\
 &nbsp;&nbsp;&nbsp;🔬 &nbsp;Currently researching software architecture, Datascience, and AI.\
 &nbsp;&nbsp;&nbsp;📆 &nbsp;Coding since 15 years old.\
 &nbsp;&nbsp;&nbsp;📍 &nbsp;Living in Porto, Portugal.
-
+<div align='center'>
 <p align="center">
   <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry"><img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100089128511446"><img src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
   </a>
   -->
 </p>
-
+</div>
 <hr/>
 
 
@@ -121,7 +121,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <hr/>
 
 <p align="center">
- <a href="https://ko-fi.com/X8X48056Q">
+ <a href="https://ko-fi.com/henryarcangelo">
    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
  </a>
 </p>
