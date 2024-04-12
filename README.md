@@ -1,4 +1,4 @@
-<img src="banner.gif"></img>
+<img src="img/standard (2).gif"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -6,6 +6,15 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
+<img align="left" src="https://orhun.dev/img/crow.png">
+
+### Hey!
+
+I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
+
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+
+<br>
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
