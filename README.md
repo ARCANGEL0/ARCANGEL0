@@ -160,9 +160,17 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" height="137px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" height="137px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" height="137px" width="auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" width="auto" height="137px">
 </div>
+
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=transparent" height="137px" width="auto">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=transparent&utcOffset=+1" width="auto" height="137px">
+</div>
+
+
 </details>
 
 
