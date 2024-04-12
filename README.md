@@ -157,18 +157,20 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  
+<div style="display:flex; flex-direction:column; align-items:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" style="width:100%;">
+
+    <div style="display:flex; justify-content:space-between; width:100%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" style="flex:1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" style="flex:1;">
+    </div>
+</div>
     </p>
 </details>
 
+
 <hr/>
-<details>
-![ARCANGEL0's Stats](https://github-readme-stats.vercel.app/api?username=ARCANGEL0&theme=dark&show_icons=true&hide_border=true&count_private=true)
-</details>
 
 <p align="center">
  <a href="https://ko-fi.com/X8X48056Q">
