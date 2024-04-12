@@ -37,10 +37,7 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
 </p>
 
 <hr/>
-📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ARCANGEL0&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-  
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -158,15 +155,14 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
   
-<div style="display:flex; flex-direction:column; align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" style="width:100%;">
-
-    <div style="display:flex; justify-content:space-between; width:100%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" style="flex:1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" style="flex:1;">
-    </div>
+<<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" width="100%">
 </div>
-    </p>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" height="137px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" height="137px">
+</div>
 </details>
 
 
