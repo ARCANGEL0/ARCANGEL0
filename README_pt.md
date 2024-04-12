@@ -20,10 +20,10 @@ Meu nome é **Henry**, um desenvolvedor JS e Node apaixonado por inovação e co
 
 &nbsp;&nbsp;&nbsp;🎓&nbsp; Pós-Graduação em Análise e Desenvolvimento de Software.\
 &nbsp;&nbsp;&nbsp;💻&nbsp; Atualmente procurando emprego. \
-&nbsp;&nbsp;&nbsp;🩵 &nbsp; Entusiasta por resolução de problemas, quebra-cabeças, ler, ouvir música e automatizar de rotinas diárias.\
-&nbsp;&nbsp;&nbsp;🔬 &nbsp; Atualmente estou pesquiAtualmente procurando emprego. ciência de dados e IA.\
-&nbsp;&nbsp;&nbsp;📆 &nbsp; Codificando desde os 15 anos.\
-&nbsp;&nbsp;&nbsp;📍 &nbsp; Morando no Porto, Portugal.
+&nbsp;&nbsp;&nbsp;🩵&nbsp; Entusiasta por resolução de problemas, quebra-cabeças, ler, ouvir música e automatizar de rotinas diárias.\
+&nbsp;&nbsp;&nbsp;🔬&nbsp; Atualmente estou pesquisando arquitetura de software. ciência de dados e IA.\
+&nbsp;&nbsp;&nbsp;📆&nbsp; Codificando desde os 15 anos.\
+&nbsp;&nbsp;&nbsp;📍&nbsp; Morando no Porto, Portugal.
 <div align='center'>
 <p align="center">
   <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry"><img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" /></a>&nbsp;
