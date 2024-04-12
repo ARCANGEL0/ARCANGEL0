@@ -20,7 +20,7 @@ I'm **Henry**, a JS and Node developer passionate for innovating and creating th
 
 &nbsp;&nbsp;&nbsp;🎓&nbsp; Graduated in Software analysis and development.\
 &nbsp;&nbsp;&nbsp;💻&nbsp; Currently looking for jobs. \
-&nbsp;&nbsp;&nbsp;🩵 &nbsp;Likeness with problem solving, puzzles, enigmas and daily routines automation.\
+&nbsp;&nbsp;&nbsp;🩵 &nbsp; Enthusiastic about problem solving, puzzles, reading, listening to music and automating daily routines.\
 &nbsp;&nbsp;&nbsp;🔬 &nbsp;Currently researching software architecture, Datascience, and AI.\
 &nbsp;&nbsp;&nbsp;📆 &nbsp;Coding since 15 years old.\
 &nbsp;&nbsp;&nbsp;📍 &nbsp;Living in Porto, Portugal.
