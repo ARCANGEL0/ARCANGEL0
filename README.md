@@ -138,8 +138,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </td>
 
 <td>
- <a href="https://github.com/ARCANGEL0/WhatsappBOT">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=WhatsappBOT&theme=gotham"  style="max-width: 100%;">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=Whatsapp-MD&theme=gotham"  style="max-width: 100%;">
+ <a href="https://github.com/ARCANGEL0/Whatsapp-MD">
  </a>
 </td>
 </tr>
@@ -154,8 +154,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </td>
 
 <td>
- <a href="https://github.com/ARCANGEL0/WhatsappBOT">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=WhatsappBOT&theme=gotham"  style="max-width: 100%;">
+ <a href="https://github.com/ARCANGEL0/Whatsapp-MD">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=Whatsapp-MD&theme=gotham"  style="max-width: 100%;">
  </a>
 </td>
 </tr>
