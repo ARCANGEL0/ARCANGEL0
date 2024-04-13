@@ -112,7 +112,7 @@ linux
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&locale=pt-br" height="137px" width="auto">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=pt-br" width="60%" height="137px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&theme=gotham&locale=pt-br" width="auto" height="137px">
+  
 </div>
 
 
