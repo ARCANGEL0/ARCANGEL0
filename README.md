@@ -112,18 +112,19 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <br/>
   
 <<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham&locale=en" width="100%">
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" height="137px" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" width="50%" height="137px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=gotham&locale=en" height="137px" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=gotham&locale=en" width="50%" height="137px">
 </div>
 
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=github_dark" height="137px" width="auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=github_dark&utcOffset=+1" width="auto" height="137px">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&locale=en" height="137px" width="auto">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=en" width="auto" height="137px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&theme=gotham&locale=en" width="auto" height="137px">
 </div>
 
 
