@@ -123,7 +123,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&locale=en" height="137px" width="auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=en" width="auto" height="137px">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=en" width="60%" height="137px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&theme=gotham&locale=en" width="auto" height="137px">
 </div>
 
