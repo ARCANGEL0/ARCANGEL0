@@ -12,7 +12,7 @@
 ### Hey!
 
 ╭━━━━━━━━━⬣
-Meu nome é **Henry**, um desenvolvedor JS e Node apaixonado por inovação e construção. Gosto de escrever frameworks CLI, sistemas, automação e projetos de IA.
+Meu nome é **Henry**, um desenvolvedor JS e Node apaixonado por inovação e tecnologia. Gosto de escrever frameworks CLI, sistemas, automação e projetos de IA.
 ⬣━━━━━━━━━━━━━━╯
 
 
