@@ -117,14 +117,14 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=gotham&locale=fr" height="137px" width="45%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=fr" width="60%" height="137px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&theme=gotham&locale=fr" width="auto" height="137px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=gotham&locale=fr" width="50%" height="137px">
 </div>
 
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&locale=fr" height="137px" width="auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&locale=fr&utcOffset=+1" width="auto" height="137px">
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=fr" width="60%" height="137px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&theme=gotham&locale=fr" width="auto" height="137px">
 </div>
 
 
