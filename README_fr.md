@@ -124,7 +124,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&locale=fr" height="137px" width="auto">
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&locale=fr" width="60%" height="137px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&theme=gotham&locale=fr" width="auto" height="137px">
+ 
 </div>
 
 
