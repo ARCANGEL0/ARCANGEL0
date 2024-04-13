@@ -130,7 +130,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 
 </details>
-[![WhatsApp-MD](https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=Whatsapp-MD&theme=gotham)](https://github.com/ARCANGEL0/Whatsapp-MD)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=Whatsapp-MD&theme=gotham">
 
 <hr/>
 
