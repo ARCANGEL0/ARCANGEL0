@@ -112,7 +112,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <br/>
   
 <<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham" width="100%">
 </div>
 
 <div align="center">
@@ -132,10 +132,11 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <table>
 <tr>
 <td>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/ARCANGEL0/FlowManager">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=gotham"  style="max-width: 100%;">
+ </a>
 </td>
 <td>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 </table>
