@@ -129,6 +129,16 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 </details>
 
+<table>
+<tr>
+<td>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+<td>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+</tr>
+</table>
 
 <hr/>
 
