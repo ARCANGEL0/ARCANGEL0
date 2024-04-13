@@ -9,7 +9,7 @@
 </table>
 <img align="left" src="https://orhun.dev/img/crow.png">
 
-### Hey!
+### Hey .ᐟ
 
 ╭━━━━━━━━━⬣
 Je m'appelle **Henry**, un développeur JS et Node passionné par l'innovation et la création de choses. J'aime écrire des frameworks de ligne de commande, des projets d'automatisation et d'IA.
