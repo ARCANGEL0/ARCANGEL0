@@ -100,22 +100,58 @@ linux
   <br/>
   
 <<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham&locale=pt" width="100%">
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=dark" height="137px" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" width="50%" height="137px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=gotham&locale=pt" height="137px" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=gotham&locale=pt" width="50%" height="137px">
 </div>
 
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=github_dark" height="137px" width="auto">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=github_dark&utcOffset=+1" width="auto" height="137px">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&locale=pt" height="137px" width="auto">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&locale=pt&utcOffset=+1" width="auto" height="137px">
 </div>
 
 
 </details>
+
+
+<table>
+<tr>
+<td>
+ <a href="https://github.com/ARCANGEL0/FlowManager">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=gotham"  style="max-width: 100%;">
+ </a>
+</td>
+
+<td>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=Whatsapp-MD&theme=gotham"  style="max-width: 100%;">
+ <a href="https://github.com/ARCANGEL0/Whatsapp-MD">
+ </a>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+ <a href="https://github.com/ARCANGEL0/PortSys">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=PortSys&theme=gotham"  style="max-width: 100%;">
+ </a>
+</td>
+
+<td>
+ <a href="https://github.com/ARCANGEL0/MinervaGPT">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=MinervaGPT&theme=gotham"  style="max-width: 100%;">
+ </a>
+</td>
+</tr>
+
+
+
+</table>
 
 
 <hr/>
