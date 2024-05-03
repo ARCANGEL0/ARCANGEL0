@@ -141,8 +141,9 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </td>
 
 <td>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=Whatsapp-MD&theme=gotham"  style="max-width: 100%;">
- <a href="https://github.com/ARCANGEL0/Whatsapp-MD">
+ <a href="https://github.com/ARCANGEL0/EdgarBot-MD">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarBot-MD&theme=gotham"  style="max-width: 100%;">
+
  </a>
 </td>
 </tr>
