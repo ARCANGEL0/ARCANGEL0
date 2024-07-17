@@ -31,7 +31,6 @@ Sur moi
   <a href="https://www.facebook.com/profile.php?id=100089128511446"><img src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=blue" /></a>&nbsp;
   <a href="https://wa.me/351927285125"><img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/henryarcangelo/"><img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=cyan" /></a>&nbsp;
-  <a href="https://lnadigital.com"><img src="https://img.shields.io/badge/LNA-black.svg?&style=for-the-badge&logo=webmoney&logoColor=yellow" /></a>&nbsp;
    <a href="https://arcangel0.github.io/ARC_UI"><img src="https://img.shields.io/badge/>ARC_.UI-black.svg?&style=for-the-badge&logo=cilium&logoColor=pink" /></a>&nbsp;
   <a href="https://www.instagram.com/henryy.xn/"><img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=red" /></a>&nbsp;
   <a href="https://arcangelo.net"><img src="https://img.shields.io/badge/Website-black.svg?&style=for-the-badge&logo=accenture&logoColor=green" /></a>&nbsp;
