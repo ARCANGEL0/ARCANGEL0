@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
   <div style="flex: 1; padding: 20px; border: 1px solid #ccc; border-radius: 8px; margin-right: 20px;">
     <p>🎓 Software Development Graduate</p>
@@ -13,7 +13,7 @@
     <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
   </div>
 
-<div style="display: flex; flex-direction: column; justify-content: center;">
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: flex-end;">
     <a href="README_pt.md">
       <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30px; height: 20px; margin: 5px 0;">
     </a>
