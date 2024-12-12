@@ -12,15 +12,15 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-    <td style="width: 15%; text-align: center; vertical-align: top;">
+    <td style="width: 15%; text-align: center; vertical-align: center; justify-content: center; align-items: center;">
       <a href="README_pt.md">
-        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 50%; height: auto; margin: 2% auto; display: block;">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 15%; height: auto; display: block;">
       </a>
       <a href="README_fr.md">
-        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 50%; height: auto; margin: 2% auto; display: block;">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 15%; height: auto; display: block;">
       </a>
       <a href="README.md">
-        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 50%; height: auto; margin: 2% auto; display: block;">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 15%; height: auto; display: block;">
       </a>
     </td>
   </tr>
