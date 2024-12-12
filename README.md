@@ -4,7 +4,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="border: 1px solid #ccc; border-radius: 8px; padding: 2%;">
+    <td style="border: 1px solid #ccc; width: 80%; border-radius: 8px; padding: 2%;">
       <p>🎓 Software Development Graduate</p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
       <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
@@ -15,17 +15,17 @@
     <td style="width: 2%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: 15%; display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: 15%;  display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: 15%; display: block;">
         </a>
       </div>
     </td>
