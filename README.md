@@ -1,5 +1,5 @@
 ┍━━━━━━━━━━━━━━━━━━━ \
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -13,24 +13,19 @@
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
     <td style="width: 15%; text-align: center; vertical-align: top;">
-      <div>
-        <a href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
-        </a>
-      </div>
-      <div>
-        <a href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
-        </a>
-      </div>
-      <div>
-        <a href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
-        </a>
-      </div>
+      <a href="README_pt.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 50%; height: auto; margin: 2% auto; display: block;">
+      </a>
+      <a href="README_fr.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 50%; height: auto; margin: 2% auto; display: block;">
+      </a>
+      <a href="README.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 50%; height: auto; margin: 2% auto; display: block;">
+      </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
