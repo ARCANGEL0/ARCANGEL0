@@ -5,14 +5,14 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ccc; border-radius: 8px; padding: 2%;">
-      🎓 Software Development Graduate<br>
-      🚀 Currently on the hunt for a new job opportunity.<br>
-      🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.<br>
-      🔍 Currently studying with the goal of achieving my dream in cybersecurity and security auditing.<br>
-      💾 Coding since 0b1111 years old.<br>
-      🌐 My localhost is proudly set up in Porto, Portugal.
+      <p>🎓 Software Development Graduate</p>
+      <p>🚀 Currently on the hunt for a new job opportunity.</p>
+      <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
+      <p>🔍 Currently studying with the goal of achieving my dream in cybersecurity and security auditing.</p>
+      <p>💾 Coding since 0b1111 years old.</p>
+      <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-    <td style="width: 15%; text-align: center;">
+    <td style="width: 15%; text-align: center; vertical-align: top;">
       <div>
         <a href="README_pt.md">
           <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
@@ -31,6 +31,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
  
