@@ -1,4 +1,4 @@
-┍━━━━━━━━━━━━━━━━━━━ \
+1┍━━━━━━━━━━━━━━━━━━━ \
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
@@ -12,7 +12,7 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-    <td style="width: auto; text-align: center; vertical-align: top;">
+    <td style="width: 2%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
           <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
