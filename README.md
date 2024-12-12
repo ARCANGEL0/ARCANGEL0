@@ -14,18 +14,17 @@
     </td>
     <td style="width: 15%; text-align: center;">
       <a href="README_pt.md">
-        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: auto; margin: 2% 0;">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: auto; margin: 2% 0;">
       </a><br>
       <a href="README_fr.md">
-        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 30%; height: auto; margin: 2% 0;">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: auto; margin: 2% 0;">
       </a><br>
       <a href="README.md">
-        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 30%; height: auto; margin: 2% 0;">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: auto; margin: 2% 0;">
       </a>
     </td>
   </tr>
 </table>
-
 
 ---
 
