@@ -340,7 +340,7 @@
 
 
 <details>
-  <summary><strong> Business Process Management & Orchestration </strong> </summary>
+  <summary><strong> Management & Projects  </strong> </summary>
 
 
 ###### Project Management & Collaboration
