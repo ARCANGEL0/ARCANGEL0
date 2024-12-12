@@ -15,17 +15,17 @@
     <td style="width: 2%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: 15%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: auto; height: auto; display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: 15%;  display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: auto; height: auto;  display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: 15%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: auto; height: auto; display: block;">
         </a>
       </div>
     </td>
