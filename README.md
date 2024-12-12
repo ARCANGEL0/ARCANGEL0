@@ -13,21 +13,21 @@
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
     <td style="width: 15%; text-align: center; vertical-align: top;">
-      <div>
+      <tr>
         <a href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
         </a>
-      </div>
-      <div>
+      </tr>
+      <tr>
         <a href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
         </a>
-      </div>
-      <div>
+      </tr>
+      <tr>
         <a href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: auto; margin: 2% auto; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 20%; height: 15%; margin: 2% auto; display: block;">
         </a>
-      </div>
+      </tr>
     </td>
   </tr>
 </table>
