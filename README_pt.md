@@ -434,35 +434,35 @@ Eu escrevo códigos que quase sempre funcionam, crio interfaces limpas e desenvo
 <br>
 
 #### Um pouco sobre mim:
-> 𓊈Techie de Coração𓊉: Tenho formação em Desenvolvimento e Análise de Software.
+❱ 𓊈Techie de Coração𓊉: Tenho formação em Desenvolvimento e Análise de Software.
 Trabalho principalmente com backend, mas sei me virar no frontend também. Estou
 sempre buscando melhorar e sempre aprender mais.
 
-> 𓊈Entusiasta de IA e Cibersegurança𓊉: Sou fascinado por Inteligência Artificial e cibersegurança. Já experimentei criar meus próprios modelos de IA e, no momento, estou aprendendo sobre cibersegurança porque acho incrível. Meu objetivo é me especializar em red teaming e, no futuro, conquistar a certificação OSCP.
+❱ 𓊈Entusiasta de IA e Cibersegurança𓊉: Sou fascinado por Inteligência Artificial e cibersegurança. Já experimentei criar meus próprios modelos de IA e, no momento, estou aprendendo sobre cibersegurança porque acho incrível. Meu objetivo é me especializar em red teaming e, no futuro, conquistar a certificação OSCP.
 
-> 𓊈Smart thinking𓊉: Adoro enfrentar desafios e encontrar soluções criativas. É como um quebra-cabeça que me mantém engajado e animado.
+❱ 𓊈Smart thinking𓊉: Adoro enfrentar desafios e encontrar soluções criativas. É como um quebra-cabeça que me mantém engajado e animado.
 
 
 <br>
 
 ####  Lado Criativo:
-> 𓊈Livrofílico𓊉: Gosto de livros que realmente deixam uma marca, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas A Metamorfose e Noites Brancas estão entre os preferidos.
+❱ 𓊈Livrofílico𓊉: Gosto de livros que realmente deixam uma marca, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas A Metamorfose e Noites Brancas estão entre os preferidos.
 
-> 𓊈Apaixonado por Música𓊉: Música é minha vibe. Toco guitarra e também sei compor. A
+❱ 𓊈Apaixonado por Música𓊉: Música é minha vibe. Toco guitarra e também sei compor. A
 música é meu porto seguro.
 
-> 𓊈Arte & Desenho𓊉: Curto desenhar e criar ilustrações. Gosto de colocar minhas ideias em uma tela digital e ver onde elas me levam.
+❱ 𓊈Arte & Desenho𓊉: Curto desenhar e criar ilustrações. Gosto de colocar minhas ideias em uma tela digital e ver onde elas me levam.
 
 
 <br> 
 
 #### Curiosidades:
 
-> 𓊈Idiomas𓊉: Falo português, francês e inglês. 
+❱ 𓊈Idiomas𓊉: Falo português, francês e inglês. 
 
-> 𓊈Sonhos em Família𓊉: Sou apaixonado pela minha namorada, e sonhamos com um futuro juntos com dois filhos. Família é algo muito importante para mim. Amante dos Animais: Sou fã de carteirinha dos animais, especialmente dos gatos. Eles são os melhores companheiros que existem.
+❱ 𓊈Sonhos em Família𓊉: Sou apaixonado pela minha namorada, e sonhamos com um futuro juntos com dois filhos. Família é algo muito importante para mim. Amante dos Animais: Sou fã de carteirinha dos animais, especialmente dos gatos. Eles são os melhores companheiros que existem.
 
-> 𓊈Vibes Tranquilas𓊉: Amo programação e tecnologia, mas também curto dar uma pausa nas telas de vez em quando. Em um mundo de 1s e 0s, é bom desconectar e relaxar um pouco.
+❱ 𓊈Vibes Tranquilas𓊉: Amo programação e tecnologia, mas também curto dar uma pausa nas telas de vez em quando. Em um mundo de 1s e 0s, é bom desconectar e relaxar um pouco.
 
 
 
