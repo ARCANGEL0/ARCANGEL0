@@ -429,7 +429,6 @@
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/standard%20(2).gif"></img>
 </p>
 
-
 > ❱❱❱  Bonjour! Je suis Henry - un développeur, un joueur et un créateur numérique qui cherche à repousser les limites de la technologie (et parfois de sa propre patience).  
 J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propres et je crée des applications qui visent à rendre le Web un peu plus excitant. Mes pronoms ? TCP/IP.
 
@@ -437,30 +436,30 @@ J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propr
 
 #### Ce que je fais :
 
-❱ 𓊈Passionné de technologie𓊉: J’ai un diplôme en Développement et Analyse Logicielle. Je travaille principalement sur le backend, mais je m’occupe aussi des tâches frontend. Mon objectif est de m’améliorer chaque jour !
-❱ 𓊈Passionné par l’IA et la cybersécurité𓊉: L’intelligence artificielle et la cybersécurité m’intéressent énormément. J’ai expérimenté la création de mes propres modèles d’IA et je me forme actuellement à la cybersécurité, car c’est un domaine fascinant. Mon but est de me spécialiser en red teaming et d’obtenir la certification OSCP.
-❱ 𓊈Résolveur de problèmes𓊉: J’adore relever des défis et trouver des solutions créatives. C’est comme un puzzle qui me garde engagé et enthousiaste.
+> 「Passionné de technologie」: J’ai un diplôme en Développement et Analyse Logicielle. Je travaille principalement sur le backend, mais je m’occupe aussi des tâches frontend. Mon objectif est de m’améliorer chaque jour !
+> 「Passionné par l’IA et la cybersécurité」: L’intelligence artificielle et la cybersécurité m’intéressent énormément. J’ai expérimenté la création de mes propres modèles d’IA et je me forme actuellement à la cybersécurité, car c’est un domaine fascinant. Mon but est de me spécialiser en red teaming et d’obtenir la certification OSCP.
+> 「Résolveur de problèmes」: J’adore relever des défis et trouver des solutions créatives. C’est comme un puzzle qui me garde engagé et enthousiaste.
 <br>
 
 #### Côté créatif :
 
-❱ 𓊈Lecteur avide𓊉: J’adore les livres qui font réfléchir, comme ceux de Dostoïevski, Orwell, Huxley, Tolstoï et Kafka. Je n’arrive pas à choisir un favori, mais *La Métamorphose* et *Les Nuits Blanches* figurent certainement parmi mes préférés.
-❱ 𓊈Amoureux de la musique𓊉: La musique, c’est ma passion ! Je joue de la guitare et j’adore composer. C’est un excellent moyen de m’exprimer et de me détendre.
-❱ 𓊈Art et dessin𓊉: J’aime dessiner et créer des illustrations. J’aime poser mes pensées et idées sur une toile numérique et voir où cela me mène.
+> 「Lecteur avide」: J’adore les livres qui font réfléchir, comme ceux de Dostoïevski, Orwell, Huxley, Tolstoï et Kafka. Je n’arrive pas à choisir un favori, mais *La Métamorphose* et *Les Nuits Blanches* figurent certainement parmi mes préférés.
+> 「Amoureux de la musique」: La musique, c’est ma passion ! Je joue de la guitare et j’adore composer. C’est un excellent moyen de m’exprimer et de me détendre.
+> 「Art et dessin」: J’aime dessiner et créer des illustrations. J’aime poser mes pensées et idées sur une toile numérique et voir où cela me mène.
 
 <br>
 
 #### Un peu à propos de moi :
 
-❱ 𓊈Langues𓊉: Je parle portugais, français et anglais. C’est amusant de connecter avec des gens de différents horizons.
-❱ 𓊈Rêves familiaux𓊉: Je suis amoureux de ma petite amie, et nous rêvons d’un avenir ensemble avec deux enfants. La famille compte beaucoup pour moi.
-❱ 𓊈Amoureux des animaux𓊉: Je suis un grand fan des animaux, surtout des chats. Ce sont les meilleurs compagnons.
-❱ 𓊈Ambiance détendue𓊉: J’adore le codage et la technologie, mais j’apprécie aussi de faire une pause loin de l’écran de temps en temps. Dans un monde de 1 et de 0, c’est agréable de se déconnecter et de simplement se détendre un moment.
+> 「Langues」: Je parle portugais, français et anglais. C’est amusant de connecter avec des gens de différents horizons.
+> 「Rêves familiaux」: Je suis amoureux de ma petite amie, et nous rêvons d’un avenir ensemble avec deux enfants. La famille compte beaucoup pour moi.
+> 「Amoureux des animaux」: Je suis un grand fan des animaux, surtout des chats. Ce sont les meilleurs compagnons.
+> 「Ambiance détendue」: J’adore le codage et la technologie, mais j’apprécie aussi de faire une pause loin de l’écran de temps en temps. Dans un monde de 1 et de 0, c’est agréable de se déconnecter et de simplement se détendre un moment.
 
 <br>
 
 
-##### 𓊈🎵 En ce moment, j'écoute𓊉:
+##### 「🎵 En ce moment, j'écoute」:
 
 <div align="center">
   
