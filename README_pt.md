@@ -481,11 +481,11 @@ música é meu porto seguro.
 
 <br/>
 
-📩 **Hey, get in touch!**:
+📩 **Hey, entre em contato!**:
 
 
 <details>
-  <summary> Contact me here </summary>
+  <summary>Meus links </summary>
   <br>
 
 
