@@ -145,7 +145,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3B4252?style=flat&logo=typescript&logoColor=EBCB8B)
 ![Node.js Badge](https://img.shields.io/badge/-Node.js-3B4252?style=flat&logo=node.js&logoColor=A3BE8C)
 ![npm Badge](https://img.shields.io/badge/-npm-3B4252?style=flat&logo=npm&logoColor=BF616A)
-k
+
 ###### Frameworks & Bibliotecas
 > ![React Badge](https://img.shields.io/badge/-React-3B4252?style=flat&logo=react&logoColor=blue)
 > ![React Badge](https://img.shields.io/badge/-Redux-3B4252?style=flat&logo=redux&logoColor=purple)
