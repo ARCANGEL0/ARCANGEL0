@@ -444,8 +444,8 @@ sempre buscando melhorar e sempre aprender mais.
 
 
 <br>
-####  Lado Criativo:
 
+####  Lado Criativo:
 > 𓊈Livrofílico𓊉: Gosto de livros que realmente deixam uma marca, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas A Metamorfose e Noites Brancas estão entre os preferidos.
 
 > 𓊈Apaixonado por Música𓊉: Música é minha vibe. Toco guitarra e também sei compor. A
