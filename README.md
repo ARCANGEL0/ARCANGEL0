@@ -435,7 +435,7 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 > 「Techie at Heart」: I’ve got a degree in Software Development and Analysis. I mainly work on backend stuff, but I can handle frontend tasks too. Just trying to get better every day! \
 > 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification. \
-> 「Problem Solver」: I enjoy tackling challenges and finding creative solutions. It’s like a puzzle that keeps me engaged and excited. \
+> 「Problem Solver」: I enjoy tackling challenges and finding creative solutions. It’s like a puzzle that keeps me engaged and excited. 
 
 <br>
 
@@ -443,7 +443,7 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 > 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* and *White Nights* are definitely up there. \
 > 「Music Lover」: Music is my jam! I play guitar and love composing. It’s a great way to express myself and unwind. \
-> 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me. \
+> 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me. 
 
 <br>
 
@@ -451,8 +451,8 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 > 「Languages」: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds. \
 > 「Family Dreams」: I’m in love with my girlfriend, and we’re dreaming of a future together with two kids. Family means a lot to me. \
-> 「Animal Lover」: I’m a big fan of animals, especially cats. They’re just the best companions.
-> 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. \
+> 「Animal Lover」: I’m a big fan of animals, especially cats. They’re just the best companions. \
+> 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. 
 
 <br>
 
