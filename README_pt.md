@@ -297,10 +297,10 @@
 > ![Aircrack-ng Badge](https://img.shields.io/badge/-Aircrack--ng-3B4252?style=flat&logo=github&logoColor=white)
 > ![Pydictor Badge](https://img.shields.io/badge/-Pydictor-3B4252?style=flat&logo=github&logoColor=white)
 > ![CrackMapExec Badge](https://img.shields.io/badge/-CrackMapExec-3B4252?style=flat&logo=github&logoColor=white)
-###### Incident Response
+###### Relatório de incidente
 > ![Fortinet Badge](https://img.shields.io/badge/-Fortinet-3B4252?style=flat&logo=fortinet&logoColor=ff4500)
 > ![Cortex Badge](https://img.shields.io/badge/-Cortex-3B4252?style=flat&logo=paloaltonetworks&logoColor=0096FF)
-###### Threat Intelligence & Endpoint Security
+###### IPS & Segurança Endpoint 
 > ![CrowdStrike Falcon Badge](https://img.shields.io/badge/-CrowdStrike%20Falcon-3B4252?style=flat&logo=falcon&logoColor=ff4400)
 > ![Palo Alto Networks Threat Intelligence Badge](https://img.shields.io/badge/-Palo%20Alto-3B4252?style=flat&logo=paloaltonetworks&logoColor=red)
 
