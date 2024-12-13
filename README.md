@@ -433,31 +433,31 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 #### What I’m About:
 
-❱ 𓊈Techie at Heart𓊉: I’ve got a degree in Software Development and Analysis. I mainly work on backend stuff, but I can handle frontend tasks too. Just trying to get better every day!
-❱ 𓊈AI & Cybersecurity Enthusiast𓊉: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification.
-❱ 𓊈Problem Solver𓊉: I enjoy tackling challenges and finding creative solutions. It’s like a puzzle that keeps me engaged and excited.
+> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis. I mainly work on backend stuff, but I can handle frontend tasks too. Just trying to get better every day!
+> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification.
+> 「Problem Solver」: I enjoy tackling challenges and finding creative solutions. It’s like a puzzle that keeps me engaged and excited.
 
 <br>
 
 #### Creative Side:
 
-❱ 𓊈Bookworm𓊉: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* and *White Nights* are definitely up there.
-❱ 𓊈Music Lover𓊉: Music is my jam! I play guitar and love composing. It’s a great way to express myself and unwind.
-❱ 𓊈Art & Drawing𓊉: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me.
+> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* and *White Nights* are definitely up there.
+> 「Music Lover」: Music is my jam! I play guitar and love composing. It’s a great way to express myself and unwind.
+> 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me.
 
 <br>
 
 #### A Bit About Me:
 
-❱ 𓊈Languages𓊉: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds.
-❱ 𓊈Family Dreams𓊉: I’m in love with my girlfriend, and we’re dreaming of a future together with two kids. Family means a lot to me.
-❱ 𓊈Animal Lover𓊉: I’m a big fan of animals, especially cats. They’re just the best companions.
-❱ 𓊈Chill Vibes𓊉: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit.
+> 「Languages」: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds.
+> 「Family Dreams」: I’m in love with my girlfriend, and we’re dreaming of a future together with two kids. Family means a lot to me.
+> 「Animal Lover」: I’m a big fan of animals, especially cats. They’re just the best companions.
+> 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit.
 
 <br>
 
 
-##### 🎵 Currently listening to:
+##### 「 🎵 Currently listening to 」
 
 <div align="center">
   
