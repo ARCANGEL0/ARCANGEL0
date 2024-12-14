@@ -15,17 +15,17 @@
     <td style="width: 2%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 60%; height: 60%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: auto; height: auto; display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 60%; height: 60%;  display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: auto; height: auto;  display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 60%; height: 60%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: auto; height: auto; display: block;">
         </a>
       </div>
     </td>
@@ -434,41 +434,41 @@ Eu escrevo códigos que quase sempre funcionam, crio interfaces limpas e desenvo
 <br>
 
 #### Um pouco sobre mim:
-> 「Techie de Coração」: Tenho formação em Desenvolvimento e Análise de Software.
+> 𓊈Techie de Coração𓊉: Tenho formação em Desenvolvimento e Análise de Software.
 Trabalho principalmente com backend, mas sei me virar no frontend também. Estou
 sempre buscando melhorar e sempre aprender mais.
 
-> 「Entusiasta de IA e Cibersegurança」: Sou fascinado por Inteligência Artificial e cibersegurança. Já experimentei criar meus próprios modelos de IA e, no momento, estou aprendendo sobre cibersegurança porque acho incrível. Meu objetivo é me especializar em red teaming e, no futuro, conquistar a certificação OSCP.
+> 𓊈Entusiasta de IA e Cibersegurança𓊉: Sou fascinado por Inteligência Artificial e cibersegurança. Já experimentei criar meus próprios modelos de IA e, no momento, estou aprendendo sobre cibersegurança porque acho incrível. Meu objetivo é me especializar em red teaming e, no futuro, conquistar a certificação OSCP.
 
-> 「Smart thinking」: Adoro enfrentar desafios e encontrar soluções criativas. É como um quebra-cabeça que me mantém engajado e animado.
+> 𓊈Smart thinking𓊉: Adoro enfrentar desafios e encontrar soluções criativas. É como um quebra-cabeça que me mantém engajado e animado.
 
 
 <br>
 
 ####  Lado Criativo:
-> 「Livrofílico」: Gosto de livros que realmente deixam uma marca, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas A Metamorfose e Noites Brancas estão entre os preferidos.
+> 𓊈Livrofílico𓊉: Gosto de livros que realmente deixam uma marca, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas A Metamorfose e Noites Brancas estão entre os preferidos.
 
-> 「Apaixonado por Música」: Música é minha vibe. Toco guitarra e também sei compor. A
+> 𓊈Apaixonado por Música𓊉: Música é minha vibe. Toco guitarra e também sei compor. A
 música é meu porto seguro.
 
-> 「Arte & Desenho」: Curto desenhar e criar ilustrações. Gosto de colocar minhas ideias em uma tela digital e ver onde elas me levam.
+> 𓊈Arte & Desenho𓊉: Curto desenhar e criar ilustrações. Gosto de colocar minhas ideias em uma tela digital e ver onde elas me levam.
 
 
 <br> 
 
 #### Curiosidades:
 
-> 「Idiomas」: Falo português, francês e inglês. 
+> 𓊈Idiomas𓊉: Falo português, francês e inglês. 
 
-> 「Sonhos em Família」: Sou apaixonado pela minha namorada, e sonhamos com um futuro juntos com dois filhos. Família é algo muito importante para mim. Amante dos Animais: Sou fã de carteirinha dos animais, especialmente dos gatos. Eles são os melhores companheiros que existem.
+> 𓊈Sonhos em Família𓊉: Sou apaixonado pela minha namorada, e sonhamos com um futuro juntos com dois filhos. Família é algo muito importante para mim. Amante dos Animais: Sou fã de carteirinha dos animais, especialmente dos gatos. Eles são os melhores companheiros que existem.
 
-> 「Vibes Tranquilas」: Amo programação e tecnologia, mas também curto dar uma pausa nas telas de vez em quando. Em um mundo de 1s e 0s, é bom desconectar e relaxar um pouco.
-
-
+> 𓊈Vibes Tranquilas𓊉: Amo programação e tecnologia, mas também curto dar uma pausa nas telas de vez em quando. Em um mundo de 1s e 0s, é bom desconectar e relaxar um pouco.
 
 
 
-##### 「🎵 Atualmente ouvindo」:
+
+
+##### 𓊈🎵 Atualmente ouvindo𓊉:
 
 <div align="center">
   
@@ -532,7 +532,7 @@ música é meu porto seguro.
         </a>
       </td>
       <td align="center">
-        <a href="https://arcangel0.github.io/RobcoTERMINAL?tr=robco">
+        <a href="https://arcangel0.github.io/robco?run=terminal">
           <img src="https://img.shields.io/badge/Fallout%20terminal-%23092e13.svg?&style=for-the-badge&logo=codio&logoColor=%2367B438" />
         </a>
       </td>
