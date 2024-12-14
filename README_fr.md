@@ -523,7 +523,7 @@ J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propr
         </a>
       </td>
       <td align="center">
-        <a href="https://arcangel0.github.io/RobcoTERMINAL?tr=robco">
+        <a href="https://arcangel0.github.io/robco?run=terminal">
           <img src="https://img.shields.io/badge/Fallout%20terminal-%23092e13.svg?&style=for-the-badge&logo=codio&logoColor=%2367B438" />
         </a>
       </td>
