@@ -1,5 +1,5 @@
 ┍━━━━━━━━━━━━━━━━━━━ \
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+(%CC%B6m%CC%B6y%CC%B6+%CC%B6g%CC%B6f%CC%B6)%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+.around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&duration=1000&pause=50&color=1DF71F&background=00000024&multiline=true&repeat=false&width=750&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Henry!+;I'm+just+a+chill+guy+who+loves+%CC%B6+to+code%2C+drink+coffee+and+play+games.+.+.+;Welcome+to+my+OS!+;Feel+free+to+explore+my+portfolio+and+tweak+.around+%3A)+;+++++++++++-+-+-+%F0%9F%92%BB+-+-+-+" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -450,7 +450,6 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 #### A Bit About Me:
 
 > 「Languages」: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds. \
-> 「Family Dreams」: I’m in love with my girlfriend, and we’re dreaming of a future together with two kids. Family means a lot to me. \
 > 「Animal Lover」: I’m a big fan of animals, especially cats. They’re just the best companions. \
 > 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. 
 
