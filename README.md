@@ -3,7 +3,6 @@
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <!-- First column: 90% -->
     <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
       <p>🎓 Software Development Graduate</p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
@@ -13,7 +12,7 @@
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
 
-    <!-- Second column: 10% -->
+
     <td style="width: 10%; text-align: center; vertical-align: top;">
       <div>
         <a href="README_pt.md">
