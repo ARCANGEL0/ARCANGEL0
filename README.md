@@ -11,8 +11,6 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-
-
     <td style="width: 10%; text-align: center; vertical-align: top;">
       <div>
         <a href="README_pt.md">
