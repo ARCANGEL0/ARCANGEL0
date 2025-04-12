@@ -15,17 +15,17 @@
     <td style="width: 10% !important; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: 30%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 100%; height: 100%; display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 30%; height: 30%;  display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 100%; height: 100%;  display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 30%; height: 30%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 100%; height: 100%; display: block;">
         </a>
       </div>
     </td>
@@ -36,7 +36,7 @@
 
  
 <h2>
-  <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;65px; padding-left: 5%; align:middle ">  <br>
+  <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;135px; padding-left: 5%; align:middle ">  <br>
   <a style="color: inherit"> My Tech Stack
 </a>
 </h2>
