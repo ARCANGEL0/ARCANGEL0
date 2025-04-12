@@ -1,6 +1,6 @@
-┍━━━━━━━━━━━━━━━━━━━ \
-<a href="https://github/ARCANGEL0"><img src="img/term.gif" alt="Typing SVG" /></a> \
-┕━━━━━━━━━━━━━━━━━━━
+
+<a href="https://github/ARCANGEL0"><img src="img/term.gif" alt="Typing SVG" /></a> 
+
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
