@@ -9,7 +9,7 @@
 <p>🔍 Actuellement en apprentissage avec l'objectif de réaliser mon rêve dans la cybersécurité et l'audit de sécurité.</p>
 <p>💾 Je code depuis l'âge de 0b1111 ans.</p>
 <p>🌐 Mon localhost est fièrement installé à Porto, au Portugal.</p>
-<td style="width: 2%; text-align: center; vertical-align: top;">
+<td style="width: 10%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
           <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: 30%; display: block;">
@@ -539,7 +539,7 @@ J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propr
 <br>
 <br>
 
-<p align=center> <sub> Arcangelo ©2024 </sub> </p>
+<p align=center> <sub> Arcangelo ©2025 </sub> </p>
 
 
 <hr/>

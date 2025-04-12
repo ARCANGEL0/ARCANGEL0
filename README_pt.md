@@ -11,7 +11,7 @@
 <p>💾 Programando desde os 0b1111 anos de idade.</p>
 <p>🌐 Meu localhost está orgulhosamente configurado em Porto, Portugal.</p>
     </td>
-    <td style="width: 2%; text-align: center; vertical-align: top;">
+    <td style="width: 10%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
           <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: auto; height: auto; display: block;">
@@ -550,7 +550,7 @@ música é meu porto seguro.
 <br>
 <br>
 
-<p align=center> <sub> Arcangelo ©2024 </sub> </p>
+<p align=center> <sub> Arcangelo ©2025 </sub> </p>
 
 
 <hr/>
