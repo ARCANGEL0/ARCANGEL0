@@ -471,8 +471,8 @@ música é meu porto seguro.
 
 <div align="center">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145g5gttpioibosks65ckvvkm4i&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145g5gttpioibosks65ckvvkm4i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
 
 </div>
 

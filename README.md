@@ -12,7 +12,7 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-    <td style="width: 10%; text-align: center; vertical-align: top;">
+    <td style="width: 10% !important; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
           <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: 30%; display: block;">
@@ -460,8 +460,8 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 <div align="center">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145g5gttpioibosks65ckvvkm4i&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3145g5gttpioibosks65ckvvkm4i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
 
 </div>
 
