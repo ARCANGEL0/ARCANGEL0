@@ -12,20 +12,20 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-   <td style="width: 10%;">
-      <div dir="auto">
-        <a href="/ARCANGEL0/ARCANGEL0/blob/master/README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 100%; height: 100%; max-width: 100%;">
+<td style="width: 10% !important; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+      <div style="text-align: center; ">
+        <a style="text-decoration:none; color: inherit" href="README_pt.md">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: 30%; display: block;">
         </a>
       </div>
-      <div dir="auto">
-        <a href="/ARCANGEL0/ARCANGEL0/blob/master/README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 100%; height: 100%; max-width: 100%;">
+      <div style="text-align: center; ">
+        <a style="text-decoration:none; color: inherit" href="README_fr.md">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 30%; height: 30%;  display: block;">
         </a>
       </div>
-      <div dir="auto">
-        <a href="/ARCANGEL0/ARCANGEL0/blob/master/README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 100%; height: 100%; max-width: 100%;">
+      <div style="text-align: center; ">
+        <a style="text-decoration:none; color: inherit" href="README.md">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 30%; height: 30%; display: block;">
         </a>
       </div>
     </td>
