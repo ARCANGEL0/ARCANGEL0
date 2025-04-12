@@ -1,5 +1,5 @@
 <a href="https://github/ARCANGEL0"><img src="img/term.gif" alt="Typing SVG" /></a> 
-
+ 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;">
@@ -12,17 +12,17 @@
 <td style="width: 2%; text-align: center; vertical-align: top;">
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 60%; height: 60%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: 30%; display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 60%; height: 60%;  display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 30%; height: 30%;  display: block;">
         </a>
       </div>
       <div style="text-align: center; ">
         <a style="text-decoration:none; color: inherit" href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 60%; height: 60%; display: block;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 30%; height: 30%; display: block;">
         </a>
       </div>
     </td>
