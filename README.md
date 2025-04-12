@@ -1,5 +1,5 @@
 ┍━━━━━━━━━━━━━━━━━━━ \
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=32&duration=333&pause=33&color=F70000&background=FF00000B&multiline=true&repeat=false&width=805&height=600&lines=%F0%90%A6%B5+Hello+There!;%EA%86%B9+I'm+%E1%9A%BA%F0%9D%96%BE%C9%B3%F0%9D%97%8B%F0%9D%97%92+%F0%9D%9D%BA%F0%9D%90%AB%F0%9D%90%9C%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8;%E0%BD%A6+I'm+just+a+guy+who+loves+coding%2C+;solving+puzzles%2C+and+jamming+on+my+guitar;+;%EA%8F%9C+Welcome+to+my+Git;%EA%8D%AF+Feel+free+to+explore+%EA%8D%AF" alt="Typing SVG" /></a> \
+<a href="https://github/ARCANGEL0"><img src="img/term.gif" alt="Typing SVG" /></a> \
 ┕━━━━━━━━━━━━━━━━━━━
 
 <table style="width: 100%; border-collapse: collapse;">
