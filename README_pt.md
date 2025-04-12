@@ -3,7 +3,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;">
+    <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;  width: 90%">
 <p>🎓 Graduado em Desenvolvimento de Software</p>
 <p>🚀 Atualmente em busca de uma nova oportunidade de emprego.</p>
 <p>🧠 Sou apaixonado por programação e resolução de problemas, criando interfaces envolventes e apreciando uma boa xícara de café para impulsionar minha criatividade.</p>

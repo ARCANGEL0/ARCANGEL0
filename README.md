@@ -4,7 +4,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;">
+    <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%; width: 90%">
       <p>🎓 Software Development Graduate</p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
       <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
