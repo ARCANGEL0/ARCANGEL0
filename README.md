@@ -3,7 +3,8 @@
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td style="border: 1px solid #ccc; width: 90%; font-size: 12px; border-radius: 8px; padding: 2%;">
+    <!-- First column: 90% -->
+    <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
       <p>🎓 Software Development Graduate</p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
       <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
@@ -11,20 +12,22 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
+
+    <!-- Second column: 10% -->
     <td style="width: 10%; text-align: center; vertical-align: top;">
       <div>
         <a href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: auto; display: block; margin: auto;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 100%; height: auto; display: block;">
         </a>
       </div>
       <div>
         <a href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 30%; height: auto; display: block; margin: auto;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 100%; height: auto; display: block;">
         </a>
       </div>
       <div>
         <a href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 30%; height: auto; display: block; margin: auto;">
+          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 100%; height: auto; display: block;">
         </a>
       </div>
     </td>
