@@ -9,22 +9,16 @@
 <p>🔍 Actuellement en apprentissage avec l'objectif de réaliser mon rêve dans la cybersécurité et l'audit de sécurité.</p>
 <p>💾 Je code depuis l'âge de 0b1111 ans.</p>
 <p>🌐 Mon localhost est fièrement installé à Porto, au Portugal.</p>
-<td style="width: 10%; text-align: center; vertical-align: top;">
-      <div style="text-align: center; ">
-        <a style="text-decoration:none; color: inherit" href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 30%; height: 30%; display: block;">
-        </a>
-      </div>
-      <div style="text-align: center; ">
-        <a style="text-decoration:none; color: inherit" href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 30%; height: 30%;  display: block;">
-        </a>
-      </div>
-      <div style="text-align: center; ">
-        <a style="text-decoration:none; color: inherit" href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 30%; height: 30%; display: block;">
-        </a>
-      </div>
+  <td style="width: 60px; text-align: center; vertical-align: top;">
+      <a href="README_pt.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" width="50">
+      </a><br>
+      <a href="README_fr.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" width="50">
+      </a><br>
+      <a href="README.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" width="50">
+      </a>
     </td>
   </tr>
 </table>
