@@ -11,22 +11,16 @@
       <p>💾 Coding since 0b1111 years old.</p>
       <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
     </td>
-    <td style="width: 10%; text-align: center; vertical-align: top;">
-      <div>
-        <a href="README_pt.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" alt="Brazil Flag" style="width: 100%; height: auto; display: block;">
-        </a>
-      </div>
-      <div>
-        <a href="README_fr.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" alt="France Flag" style="width: 100%; height: auto; display: block;">
-        </a>
-      </div>
-      <div>
-        <a href="README.md">
-          <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" alt="USA Flag" style="width: 100%; height: auto; display: block;">
-        </a>
-      </div>
+     <td style="width: 60px; text-align: center; vertical-align: top;">
+      <a href="README_pt.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" width="50">
+      </a><br>
+      <a href="README_fr.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" width="50">
+      </a><br>
+      <a href="README.md">
+        <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" width="50">
+      </a>
     </td>
   </tr>
 </table>
