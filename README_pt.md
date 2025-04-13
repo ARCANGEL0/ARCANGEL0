@@ -1,4 +1,4 @@
-<a href="https://github/ARCANGEL0"><img src="img/term.gif" alt="Typing SVG" /></a> 
+<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/term.gif" alt="Typing SVG" /></a> 
 
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -414,9 +414,12 @@
 
 <br>
 
-<p align="center" style="font-size:16px; margin-bottom: -5px">
+<p align="left" style="font-size:16px; margin-bottom: -5px"><a  href="https://arcangel0.github.io/robco?run=fallout">
+          <img style="height: 240px" src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" />
+        </a> 
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/standard%20(2).gif"></img>
 </p>
+</br>
 
 
 > ❱❱❱ E aí! Eu sou o Henry – desenvolvedor, gamer e criador digital, sempre buscando levar a tecnologia ao limite (e, às vezes, a minha paciência também).
@@ -479,65 +482,55 @@ música é meu porto seguro.
 
 <details>
   <summary>Meus links </summary>
-  <br>
+   <br>
+
+<a href="https://arcangelo.net">
+          <img src="https://img.shields.io/badge/ArcangelOS-black.svg?&style=for-the-badge&logo=uikit&logoColor=grey" />
+        </a> 
+        </br>
 
 
 
-  <table border="1" width="80%">
-    <tr>
-      <td align="center">
-        <a href="https://wa.me/351927285125">
+ <a href="https://wa.me/351927285125">
           <img src="https://img.shields.io/badge/whatsapp-black.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry">
-          <img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/henryarcangelo/">
-          <img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=cyan" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.facebook.com/profile.php?id=100089128511446">
-          <img src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=blue" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://app.hackthebox.com/profile/795113">
-          <img src="https://img.shields.io/badge/Hack%20the%20Box-black.svg?&style=for-the-badge&logo=hackthebox&logoColor=%2367B438" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/h.arcangelo/">
-          <img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=red" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://arcangelo.net">
-          <img src="https://img.shields.io/badge/Arcangel.OS-black.svg?&style=for-the-badge&logo=accenture&logoColor=green" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://arcangel0.github.io/robco?run=terminal">
-          <img src="https://img.shields.io/badge/Fallout%20terminal-%23092e13.svg?&style=for-the-badge&logo=codio&logoColor=%2367B438" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://discord.com/users/arcangel0">
-          <img src="https://img.shields.io/badge/discord-black.svg?&style=for-the-badge&logo=discord&logoColor=7289da" />
-        </a>
-      </td>
-    </tr>
-  </table>
+        </a> 
+        </br>
 
+
+
+
+
+ 
+ <a href="https://www.instagram.com/h.arcangelo/">
+          <img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=red" />
+        </a> 
+        </br>
+
+
+
+
+ 
+ <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry">
+          <img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
+        </a> 
+        </br>
+
+
+
+
+ 
+ <a href="https://www.linkedin.com/in/henryarcangelo/">
+          <img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=lospec&logoColor=cyan" />
+        </a> 
+        </br>
+
+
+
+</ul>
+ 
 </details>
+
+
 
 
 
