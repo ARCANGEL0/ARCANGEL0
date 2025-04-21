@@ -489,6 +489,10 @@ música é meu porto seguro.
         </a> 
         </br>
 
+<a href="https://arcangelo.net/fallout">
+          <img src="https://img.shields.io/badge/Robco_TERMINAL-darkgreen.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
+        </a> 
+        </br>
 
 
  <a href="https://wa.me/351927285125">
@@ -543,13 +547,7 @@ música é meu porto seguro.
 <hr/>
 
 <p align="center">
- <a href="https://ko-fi.com/henryarcangelo">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
+ <a href='https://ko-fi.com/J3J7WTYV7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
-<p align="right">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arcangel0&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
-</p>
+ ![](https://komarev.com/ghpvc/?username=ARCANGEL0&color=000000&style=for-the-badge&color=000000)
