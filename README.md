@@ -437,8 +437,8 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 #### Creative Side:
 
-> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* and *White Nights* are definitely up there. \
-> 「Music Lover」: Music is my jam! I play guitar and love composing. It’s a great way to express myself and unwind. \
+> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* , *White Nights* and *1984* are definitely up there. \
+> 「Music Lover」: I play guitar and write too. Music has always been my vibe. \
 > 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me. 
 
 <br>
@@ -446,7 +446,7 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 #### A Bit About Me:
 
 > 「Languages」: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds. \
-> 「Animal Lover」: I’m a big fan of animals, especially cats. They’re just the best companions. \
+> 「Animal Lover」: I’m an animal person, especially cats. If I could, I'd adopt every single one of them. \
 > 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. 
 
 <br>
@@ -456,8 +456,7 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 <div align="center">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xcn7bswzqkxegpi2j2ovwpawr4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xcn7bswzqkxegpi2j2ovwpawr4&redirect=true)
 
 </div>
 
