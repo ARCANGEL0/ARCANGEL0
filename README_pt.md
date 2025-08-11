@@ -4,12 +4,12 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;  width: 90%">
-<p>🎓 Graduado em Desenvolvimento de Software</p>
+<p>🎓 Estudando Engenharia da Computação</p>
 <p>🚀 Atualmente em busca de uma nova oportunidade de emprego.</p>
 <p>🧠 Sou apaixonado por programação e resolução de problemas, criando interfaces envolventes e apreciando uma boa xícara de café para impulsionar minha criatividade.</p>
 <p>🔍 Atualmente estudando com o objetivo de alcançar meu sonho em cibersegurança e auditoria de segurança.</p>
 <p>💾 Programando desde os 0b1111 anos de idade.</p>
-<p>🌐 Meu localhost está orgulhosamente configurado em Porto, Portugal.</p>
+<p>🌐 localhost configurado em Porto, Portugal.</p>
     </td>
   <td style="width: 60px; text-align: center; vertical-align: top;">
       <a href="README_pt.md">
