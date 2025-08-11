@@ -3,7 +3,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;  width: 90%">
-  <p>🎓 Diplômé en Développement Logiciel</p>
+  <p>🎓 Étudier l'ingénierie informatique</p>
 <p>🚀 Actuellement à la recherche d'une nouvelle opportunité professionnelle.</p>
 <p>🧠 Passionné par le codage et la résolution de problèmes, la conception d'interfaces attrayantes, et un bon café pour stimuler ma créativité.</p>
 <p>🔍 Actuellement en apprentissage avec l'objectif de réaliser mon rêve dans la cybersécurité et l'audit de sécurité.</p>
