@@ -29,7 +29,7 @@
 ---
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=transparent&bg_color=0000000&locale=en" height="137px" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&bg_color=00000000&hide=html,css,scss,less,blade,ipynb&hide_title=true&hide_border=true&layout=compact&langs_count=8&locale=en" width="50%" height="137px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&bg_color=00000000&hide=html,css,scss,less,blade,ipynb,pyc,jyp,pynb&hide_title=true&hide_border=true&layout=compact&langs_count=8&locale=en" width="50%" height="137px">
        <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=00000000&locale=en" width="100%">
 </div>
 
