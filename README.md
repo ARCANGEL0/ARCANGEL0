@@ -472,7 +472,7 @@
 
 #### Creative Side:
 
-> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* , *White Nights* and *1984* are definitely up there.  \
+> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* , *White Nights* and *1984* are definitely up there.  \ \
 > ㅤㅤㅤ
 > 「Music Lover」: I play guitar and write too. Music has always been my vibe. \
 >ㅤㅤㅤ
