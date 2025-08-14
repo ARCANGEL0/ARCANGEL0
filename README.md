@@ -502,7 +502,7 @@
 
 
 <details>
-  <summary> A b o u t  m e </summary>
+  <summary> A b o u t  -  m e </summary>
   <br>
 
 <a href="https://arcangelo.net">
