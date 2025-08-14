@@ -463,21 +463,27 @@
 
 #### What I’m About:
 
-> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis and I'm currently enrolled in Computer Engineering. I mainly work on backend stuff, but I can handle frontend tasks too. Always learnin' whenever I can. <br>
-> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity and forensic because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification. <br>
-> 「Problem Solver」: I enjoy mind fuzzing challenges and finding creative solutions. I'm the type that always has a chessboard and a Rubik cube on his desk (I actually do). <br>
+> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis and I'm currently enrolled in Computer Engineering. I mainly work on backend stuff, but I can handle frontend tasks too. Always learnin' whenever I can. 
+> ㅤㅤㅤ
+> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity and forensic because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification. 
+> ㅤㅤㅤ
+> 「Problem Solver」: I enjoy mind fuzzing challenges and finding creative solutions. I'm the type that always has a chessboard and a Rubik cube on his desk (I actually do). 
 
 
 #### Creative Side:
 
-> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* , *White Nights* and *1984* are definitely up there. \ <br>
-> 「Music Lover」: I play guitar and write too. Music has always been my vibe. \ <br>
+> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* , *White Nights* and *1984* are definitely up there.  
+> ㅤㅤㅤ
+> 「Music Lover」: I play guitar and write too. Music has always been my vibe. 
+>ㅤㅤㅤ
 > 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me. 
 
 #### A Bit About Me:
 
-> 「Languages」: I speak Portugues, English, and right now I'm trying to learn French. \ <br>
-> 「Animal Lover」: I’m an animal person, especially cats. If I could, I'd adopt every single one of them. \ <br>
+> 「Languages」: I speak Portugues, English, and right now I'm trying to learn French. 
+>ㅤㅤㅤ
+> 「Animal Lover」: I’m an animal person, especially cats. If I could, I'd adopt every single one of them.  
+>ㅤㅤㅤ
 > 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. 
 
 <br>
