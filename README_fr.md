@@ -25,6 +25,43 @@
 
 ---
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=transparent&bg_color=0000000&locale=en" height="137px" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&bg_color=00000000&hide=html,css,scss,less,blade,ipynb,pyc,jyp,pynb&hide_title=true&hide_border=true&layout=compact&langs_count=8&locale=en" width="50%" height="137px">
+       <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=00000000&locale=en" width="100%">
+</div>
+
+
+ <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
+  <a href="https://github.com/ARCANGEL0/NyxAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/EzyMap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/FlowManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/netrunner-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/robco-termlink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&theme=transparent" style="max-width: 100%;">
+  </a>
+
+</div>
+
+
+
  
 <h2>
   <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;135px; padding-left: 5%; align:middle ">  <br>

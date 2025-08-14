@@ -501,7 +501,6 @@
 <details>
   <summary> S o b r e  -  m i m  </summary>
   <br>
-
 <a href="https://arcangelo.net">
           <img src="https://img.shields.io/badge/ArcangelOS-black.svg?&style=for-the-badge&logo=uikit&logoColor=grey" />
         </a> 
@@ -544,7 +543,6 @@
           <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
         </a> 
         </br>
-
 
 
 </ul>
