@@ -4,7 +4,7 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
-      <p>🎓 Computer Engineering student</p>
+      <p>🎓 Grad. in Software Development and studying Computer Engineering/p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
       <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
       <p>🔍 Currently studying with the goal of achieving my dream in cybersecurity and security auditing.</p>
@@ -27,6 +27,78 @@
 
 
 ---
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=00000000&locale=en" width="100%">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=gotham&locale=en" height="137px" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&hbg_color=00000000&ide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=gotham&locale=en" width="50%" height="137px">
+</div>
+
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ARCANGEL0&theme=gotham&lbg_color=00000000&ocale=en" height="137px" width="auto">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARCANGEL0&theme=gotham&utcOffset=+1&bg_color=00000000&locale=en" width="60%" height="137px">
+  
+</div>
+
+
+</details>
+
+<table>
+<tr>
+<td>
+ <a href="https://github.com/ARCANGEL0/NyxAI">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&theme=gotham"  style="max-width: 100%;">
+ </a>
+</td>
+
+<td>
+ <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&theme=gotham"  style="max-width: 100%;">
+ 
+ </a>
+</td>
+
+<td>
+ <a href="https://github.com/ARCANGEL0/netrunner-cli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&theme=gotham"  style="max-width: 100%;">
+ 
+ </a>
+</td>
+
+
+</tr>
+
+
+
+<tr>
+<td>
+ <a href="https://github.com/ARCANGEL0/EzyMap">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&theme=gotham"  style="max-width: 100%;">
+ </a>
+</td>
+
+<td>
+ <a href="https://github.com/ARCANGEL0/FlowManager">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=gotham"  style="max-width: 100%;">
+ </a>
+</td>
+
+
+<td>
+ <a href="https://github.com/ARCANGEL0/robco-termlink">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&theme=gotham"  style="max-width: 100%;">
+ 
+ </a>
+</td>
+
+</tr>
+
+
+
+</table>
 
  
 <h2>
@@ -422,16 +494,15 @@
 </p>
 </br>
 
-> ❱❱❱  Hey there! I’m Henry – a developer, gamer, and digital creator who’s all about pushing the limits of tech (and sometimes my own patience).  
-I whip up code that *mostly* works, craft clean interfaces, and build apps that aim to make the web a bit more exciting. My pronouns? TCP/IP.
+> ❱❱❱  Hey there! I’m Henry — a developer, gamer, and musician who enjoys turning small ideas into working code. My pronouns? TCP/IP.
 
 <br>
 
 #### What I’m About:
 
-> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis. I mainly work on backend stuff, but I can handle frontend tasks too. Just trying to get better every day! \
-> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification. \
-> 「Problem Solver」: I enjoy tackling challenges and finding creative solutions. It’s like a puzzle that keeps me engaged and excited. 
+> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis and I'm currently enrolled in Computer Engineering. I mainly work on backend stuff, but I can handle frontend tasks too. Always learnin' whenever I can. \
+> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity and forensic because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification. \
+> 「Problem Solver」: I enjoy mind fuzzing challenges and finding creative solutions. I'm the type that always has a chessboard and a Rubik cube on his desk (I actually do).
 
 <br>
 
@@ -445,7 +516,7 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 #### A Bit About Me:
 
-> 「Languages」: I speak Portuguese, French, and English. It’s fun to connect with people from different backgrounds. \
+> 「Languages」: I speak Portugues, English, and right now I'm trying to learn French.\
 > 「Animal Lover」: I’m an animal person, especially cats. If I could, I'd adopt every single one of them. \
 > 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit. 
 
@@ -464,11 +535,11 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 <br/>
 
-📩 **Hey, get in touch!**:
+📩 **My social links**:
 
 
 <details>
-  <summary> Contact me here </summary>
+  <summary> A b o u t  m e </summary>
   <br>
 
 <a href="https://arcangelo.net">
@@ -478,7 +549,7 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
 
 
 <a href="https://arcangelo.net/fallout">
-          <img src="https://img.shields.io/badge/Robco_TERMINAL-darkgreen.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
+          <img src="https://img.shields.io/badge/Robco_TERMINAL-black.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
         </a> 
         </br>
 
@@ -487,11 +558,6 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
         </a> 
         </br>
 
-
-
-
-
-
  
  <a href="https://www.instagram.com/h.arcangelo/">
           <img src="https://img.shields.io/badge/instagram-black.svg?&style=for-the-badge&logo=instagram&logoColor=red" />
@@ -499,20 +565,23 @@ I whip up code that *mostly* works, craft clean interfaces, and build apps that 
         </br>
 
 
-
-
- 
  <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry">
           <img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
         </a> 
         </br>
 
 
-
-
- 
  <a href="https://www.linkedin.com/in/henryarcangelo/">
           <img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=lospec&logoColor=cyan" />
+        </a> 
+        </br>
+
+ <a href="https://www.steamcommunity.com/arcxlo">
+          <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
+        </a> 
+        </br>
+ <a href="https://open.spotify.com/intl-pt/artist/1mrVVaQFpF4SrdeqrqQdY8">
+          <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
         </a> 
         </br>
 
