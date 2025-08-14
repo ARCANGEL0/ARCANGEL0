@@ -4,7 +4,7 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
-      <p>🎓 Grad. in Software Development and studying Computer Engineering/p>
+      <p>🎓 Grad. in Software Development and studying Computer Engineering </p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
       <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
       <p>🔍 Currently studying with the goal of achieving my dream in cybersecurity and security auditing.</p>
