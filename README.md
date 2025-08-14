@@ -34,64 +34,33 @@
 </div>
 
 
- 
-<table style="border: none">
-<tr>
-<td>
- <a href="https://github.com/ARCANGEL0/NyxAI">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&theme=transparent"  style="max-width: 100%;">
- </a>
-</td>
+ <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 
-<td>
- <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent"  style="max-width: 100%;">
- 
- </a>
-</td>
+  <a href="https://github.com/ARCANGEL0/NyxAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
+  </a>
 
+  <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
+  </a>
 
+  <a href="https://github.com/ARCANGEL0/EzyMap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&theme=transparent" style="max-width: 100%;">
+  </a>
 
+  <a href="https://github.com/ARCANGEL0/FlowManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=transparent" style="max-width: 100%;">
+  </a>
 
-</tr>
+  <a href="https://github.com/ARCANGEL0/netrunner-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
+  </a>
 
+  <a href="https://github.com/ARCANGEL0/robco-termlink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&theme=transparent" style="max-width: 100%;">
+  </a>
 
-<tr>
-<td>
- <a href="https://github.com/ARCANGEL0/EzyMap">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&theme=transparent"  style="max-width: 100%;">
- </a>
-</td>
-
-<td>
- <a href="https://github.com/ARCANGEL0/FlowManager">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=transparent"  style="max-width: 100%;">
- </a>
-</td>
-
-
-
-</tr>
-
-
-<tr>
-<td>
- <a href="https://github.com/ARCANGEL0/netrunner-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&theme=transparent"  style="max-width: 100%;">
- 
- </a>
-</td>
-
-
-<td>
- <a href="https://github.com/ARCANGEL0/robco-termlink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&theme=transparent"  style="max-width: 100%;">
- 
- </a>
-</td>
-</tr>
-
-</table>
+</div>
 
  
 <h2>
