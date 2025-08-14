@@ -62,6 +62,7 @@
 
 
 
+
  
 <h2>
   <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;135px; padding-left: 5%; align:middle ">  <br>
@@ -462,13 +463,13 @@
 </br>
 
 > ❱❱❱  Bonjour! Je suis Henry - un développeur, un joueur et un créateur numérique qui cherche à repousser les limites de la technologie (et parfois de sa propre patience).  
-J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propres et je crée des applications qui visent à rendre le Web un peu plus excitant. Mes pronoms ? TCP/IP.
+> J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propres et je crée des applications qui visent à rendre le Web un peu plus excitant. Mes pronoms ? TCP/IP.
 
 <br>
 
 #### Ce que je fais :
 
-> 「Passionné de technologie」: J’ai un diplôme en Développement et Analyse Logicielle. Je travaille principalement sur le backend, mais je m’occupe aussi des tâches frontend. Mon objectif est de m’améliorer chaque jour !
+> 「Passionné de technologie」: Je suis diplômé en analyse de systèmes et j’étudie actuellement le génie informatique... Je travaille principalement sur le backend, mais je m’occupe aussi des tâches frontend. Mon objectif est de m’améliorer chaque jour !
 > 「Passionné par l’IA et la cybersécurité」: L’intelligence artificielle et la cybersécurité m’intéressent énormément. J’ai expérimenté la création de mes propres modèles d’IA et je me forme actuellement à la cybersécurité, car c’est un domaine fascinant. Mon but est de me spécialiser en red teaming et d’obtenir la certification OSCP.
 > 「Résolveur de problèmes」: J’adore relever des défis et trouver des solutions créatives. C’est comme un puzzle qui me garde engagé et enthousiaste.
 <br>
@@ -494,8 +495,7 @@ J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propr
 
 <div align="center">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jditvlpdtkmavupdm35nnxxdx4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=bababa&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jditvlpdtkmavupdm35nnxxdx4&redirect=true)
 
 </div>
 
@@ -509,26 +509,21 @@ J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propr
 <details>
   <summary> Contacte-moi ici </summary>
   <br>
-
 <a href="https://arcangelo.net">
           <img src="https://img.shields.io/badge/ArcangelOS-black.svg?&style=for-the-badge&logo=uikit&logoColor=grey" />
         </a> 
         </br>
 
+
 <a href="https://arcangelo.net/fallout">
-          <img src="https://img.shields.io/badge/Robco_TERMINAL-darkgreen.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
+          <img src="https://img.shields.io/badge/Robco_TERMINAL-black.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
         </a> 
         </br>
-
 
  <a href="https://wa.me/351927285125">
           <img src="https://img.shields.io/badge/whatsapp-black.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
         </a> 
         </br>
-
-
-
-
 
  
  <a href="https://www.instagram.com/h.arcangelo/">
@@ -537,23 +532,25 @@ J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propr
         </br>
 
 
-
-
- 
  <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry">
           <img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
         </a> 
         </br>
 
 
-
-
- 
  <a href="https://www.linkedin.com/in/henryarcangelo/">
           <img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=lospec&logoColor=cyan" />
         </a> 
         </br>
 
+ <a href="https://www.steamcommunity.com/id/arcxlo">
+          <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
+        </a> 
+        </br>
+ <a href="https://open.spotify.com/intl-pt/artist/1mrVVaQFpF4SrdeqrqQdY8">
+          <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
+        </a> 
+        </br>
 
 
 </ul>
