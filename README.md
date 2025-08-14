@@ -41,13 +41,13 @@
 <tr>
 <td>
  <a href="https://github.com/ARCANGEL0/NyxAI">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&bg_color=0000000"  style="max-width: 100%;">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&theme=transparent"  style="max-width: 100%;">
  </a>
 </td>
 
 <td>
  <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&bg_color=0000000"  style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent"  style="max-width: 100%;">
  
  </a>
 </td>
@@ -61,13 +61,13 @@
 <tr>
 <td>
  <a href="https://github.com/ARCANGEL0/EzyMap">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&bg_color=0000000"  style="max-width: 100%;">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&theme=transparent"  style="max-width: 100%;">
  </a>
 </td>
 
 <td>
  <a href="https://github.com/ARCANGEL0/FlowManager">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&bg_color=0000000"  style="max-width: 100%;">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=transparent"  style="max-width: 100%;">
  </a>
 </td>
 
@@ -79,7 +79,7 @@
 <tr>
 <td>
  <a href="https://github.com/ARCANGEL0/netrunner-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&bg_color=0000000"  style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&theme=transparent"  style="max-width: 100%;">
  
  </a>
 </td>
@@ -87,7 +87,7 @@
 
 <td>
  <a href="https://github.com/ARCANGEL0/robco-termlink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&bg_color=0000000"  style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&theme=transparent"  style="max-width: 100%;">
  
  </a>
 </td>
