@@ -539,7 +539,7 @@
         </a> 
         </br>
 
- <a href="https://www.steamcommunity.com/arcxlo">
+ <a href="https://www.steamcommunity.com/id/arcxlo">
           <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
         </a> 
         </br>
