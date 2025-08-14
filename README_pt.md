@@ -1,9 +1,9 @@
+
 <a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/term.gif" alt="Typing SVG" /></a> 
 
-
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;  width: 90%">
+    <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
 <p>🎓 Estudando Engenharia da Computação</p>
 <p>🚀 Atualmente em busca de uma nova oportunidade de emprego.</p>
 <p>🧠 Sou apaixonado por programação e resolução de problemas, criando interfaces envolventes e apreciando uma boa xícara de café para impulsionar minha criatividade.</p>
@@ -11,7 +11,8 @@
 <p>💾 Programando desde os 0b1111 anos de idade.</p>
 <p>🌐 localhost configurado em Porto, Portugal.</p>
     </td>
-  <td style="width: 60px; text-align: center; vertical-align: top;">
+    </td>
+     <td style="width: 60px; text-align: center; vertical-align: top;">
       <a href="README_pt.md">
         <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" width="50">
       </a><br>
@@ -25,15 +26,53 @@
   </tr>
 </table>
 
----
 
- 
-<h2>
-  <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;135px; padding-left: 5%; align:middle ">  <br>
-  <a style="color: inherit"> Minhas tecnologias
+---
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=true&theme=transparent&bg_color=0000000&locale=en" height="137px" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&bg_color=00000000&hide=html,css,scss,less,blade,ipynb,pyc,jyp,pynb&hide_title=true&hide_border=true&layout=compact&langs_count=8&locale=en" width="50%" height="137px">
+       <img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=00000000&locale=en" width="100%">
+</div>
+
+
+ <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
+  <a href="https://github.com/ARCANGEL0/NyxAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/EzyMap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=EzyMap&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/FlowManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=FlowManager&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/netrunner-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
+  </a>
+
+  <a href="https://github.com/ARCANGEL0/robco-termlink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARCANGEL0&repo=robco-termlink&theme=transparent" style="max-width: 100%;">
+  </a>
+
+</div>
+
+
+
+  <div align=center> 
+ <h2>
+  <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;65px; padding-left: 5%; align:middle ">  <br>
+  <a style="color: inherit"> Skills
 </a>
 </h2>
-
+</center>
+</div> 
 
 <details>
   <summary><strong> Linguagens & Bibliotecas </strong> </summary>
@@ -415,61 +454,40 @@
 <br>
 
 <p align="left" style="font-size:12px; margin-bottom: -5px"><a  href="https://arcangelo.net/fallout">
-          <img style="height: 240px" src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" />
+          <img style="height: 200px" src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" />
         </a> 
 <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/standard%20(2).gif"></img>
 </p>
 </br>
 
+> ❱❱❱ Olá! Eu sou Henry — desenvolvedor, gamer e músico que gosta de transformar pequenas ideias em código funcionando. Meus pronomes? TCP/IP.
 
-> ❱❱❱ E aí! Eu sou o Henry – desenvolvedor, gamer e criador digital, sempre buscando levar a tecnologia ao limite (e, às vezes, a minha paciência também).
-Eu escrevo códigos que quase sempre funcionam, crio interfaces limpas e desenvolvo aplicativos que tentam tornar a web um lugar mais interessante. Meus pronomes? TCP/IP.
+#### Sobre Mim:
 
+> 「Techie de Coração」: Tenho graduação em Desenvolvimento e Análise de Sistemas e atualmente estou cursando Engenharia da Computação. Trabalho mais com backend, mas também consigo lidar com frontend. Sempre aprendendo tudo que posso.  
+> 「IA & Cibersegurança」: Tenho muito interesse em IA e cibersegurança. Estudo um pouco sobre modelos LLM e também estou aprendendo sobre offensive security e computação forense porque acho incrível. Espero me especializar em red teaming e, eventualmente, conquistar a certificação OSCP.  
+> 「Resolutor de Problemas」: Gosto de desafios que desafiam a mente e a encontrar soluções criativas. Sou do tipo que sempre tem um tabuleiro de xadrez e um cubo mágico na mesa (eu tenho mesmo).  
 
+#### Lado Criativo:
+
+> 「Bookworm」: Curto livros que marcam, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas *A Metamorfose*, *Noites Brancas* e *1984* estão definitivamente entre os top.  
+> 「Amante da Música」: Toco guitarra e também escrevo músicas. Música sempre foi meu vibe.  
+> 「Arte & Desenho」: Gosto de desenhar e criar ilustrações. Adoro colocar meus pensamentos e ideias em uma tela digital e ver até onde elas vão.  
+
+#### Um Pouco Sobre Mim:
+
+> 「Idiomas」: Falo Português, Inglês e agora estou tentando aprender Francês.  
+> 「Amante de Animais」: Sou muito fã de animais, especialmente gatos. Se pudesse, adotaria todos eles.  
+> 「Vibes Tranquilas」: Amo codar e tecnologia, mas também curto dar uma pausa das telas de vez em quando. Num mundo de 0s e 1s, é bom se desconectar e relaxar um pouco.  
 
 <br>
 
-#### Um pouco sobre mim:
-> 𓊈Techie de Coração𓊉: Tenho formação em Desenvolvimento e Análise de Software.
-Trabalho principalmente com backend, mas sei me virar no frontend também. Estou
-sempre buscando melhorar e sempre aprender mais.
 
-> 𓊈Entusiasta de IA e Cibersegurança𓊉: Sou fascinado por Inteligência Artificial e cibersegurança. Já experimentei criar meus próprios modelos de IA e, no momento, estou aprendendo sobre cibersegurança porque acho incrível. Meu objetivo é me especializar em red teaming e, no futuro, conquistar a certificação OSCP.
-
-> 𓊈Smart thinking𓊉: Adoro enfrentar desafios e encontrar soluções criativas. É como um quebra-cabeça que me mantém engajado e animado.
-
-
-<br>
-
-####  Lado Criativo:
-> 𓊈Livrofílico𓊉: Gosto de livros que realmente deixam uma marca, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas A Metamorfose e Noites Brancas estão entre os preferidos.
-
-> 𓊈Apaixonado por Música𓊉: Música é minha vibe. Toco guitarra e também sei compor. A
-música é meu porto seguro.
-
-> 𓊈Arte & Desenho𓊉: Curto desenhar e criar ilustrações. Gosto de colocar minhas ideias em uma tela digital e ver onde elas me levam.
-
-
-<br> 
-
-#### Curiosidades:
-
-> 𓊈Idiomas𓊉: Falo português, francês e inglês. 
-
-> 𓊈Amante dos Animais𓊉: Sou fã de carteirinha dos animais, especialmente dos gatos. Eles são os melhores companheiros que existem.
-
-> 𓊈Vibes Tranquilas𓊉: Amo programação e tecnologia, mas também curto dar uma pausa nas telas de vez em quando. Em um mundo de 1s e 0s, é bom desconectar e relaxar um pouco.
-
-
-
-
-
-##### 𓊈🎵 Atualmente ouvindo𓊉:
+##### 「 🎵 Escutando: 」
 
 <div align="center">
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qfy2o2zyx2ts2g4d6mmbp457be&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=858585"></img></a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jditvlpdtkmavupdm35nnxxdx4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=bababa&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jditvlpdtkmavupdm35nnxxdx4&redirect=true)
 
 </div>
 
@@ -477,32 +495,28 @@ música é meu porto seguro.
 
 <br/>
 
-📩 **Hey, entre em contato!**:
+📩 **Meus links sociais**:
 
 
 <details>
-  <summary>Meus links </summary>
-   <br>
+  <summary> S o b r e  -  m i m  </summary>
+  <br>
 
 <a href="https://arcangelo.net">
           <img src="https://img.shields.io/badge/ArcangelOS-black.svg?&style=for-the-badge&logo=uikit&logoColor=grey" />
         </a> 
         </br>
 
+
 <a href="https://arcangelo.net/fallout">
-          <img src="https://img.shields.io/badge/Robco_TERMINAL-darkgreen.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
+          <img src="https://img.shields.io/badge/Robco_TERMINAL-black.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
         </a> 
         </br>
-
 
  <a href="https://wa.me/351927285125">
           <img src="https://img.shields.io/badge/whatsapp-black.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
         </a> 
         </br>
-
-
-
-
 
  
  <a href="https://www.instagram.com/h.arcangelo/">
@@ -511,20 +525,23 @@ música é meu porto seguro.
         </br>
 
 
-
-
- 
  <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry">
           <img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
         </a> 
         </br>
 
 
-
-
- 
  <a href="https://www.linkedin.com/in/henryarcangelo/">
           <img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=lospec&logoColor=cyan" />
+        </a> 
+        </br>
+
+ <a href="https://www.steamcommunity.com/id/arcxlo">
+          <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
+        </a> 
+        </br>
+ <a href="https://open.spotify.com/intl-pt/artist/1mrVVaQFpF4SrdeqrqQdY8">
+          <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
         </a> 
         </br>
 
@@ -533,8 +550,6 @@ música é meu porto seguro.
 </ul>
  
 </details>
-
-
 
 
 
