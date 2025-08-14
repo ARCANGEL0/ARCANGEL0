@@ -62,13 +62,15 @@
 
 </div>
 
- 
+
+
+  <div style="display: flex; align-items: center;">
 <h2>
   <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;65px; padding-left: 5%; align:middle ">  <br>
   <a style="color: inherit"> My Tech Stack
 </a>
 </h2>
-
+</div> 
 
 <details>
   <summary><strong> Languages & Libraries </strong> </summary>
