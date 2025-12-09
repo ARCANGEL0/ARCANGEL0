@@ -28,7 +28,7 @@
 
 ---
 <div align="center">
-    <img src="https://github-readme-stats.zcy.dev/api?username=ARCANGEL0&hide_border=true&theme=transparent&bg_color=0000000&locale=en" height="137px" width="45%">
+    <img src="https://github-readme-stats.zcy.dev/api?username=ARCANGEL0&hide_border=true&theme=transparent&locale=en" height="137px" width="45%">
     <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=ARCANGEL0&bg_color=00000000&hide=html,css,Ipynb,scss,less,javascript,qml,glsl,blade,ipynb,pyc,pynb,jyp,pynb,roff&hide_title=true&hide_border=true&layout=compact&langs_count=8&locale=en" width="50%" height="137px">
        
 </div>
