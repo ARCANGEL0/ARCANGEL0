@@ -57,8 +57,8 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
   </a>
 
-  <a href="https://github.com/ARCANGEL0/robco-termlink">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=robco-termlink&theme=transparent" style="max-width: 100%;">
+  <a href="https://github.com/ARCANGEL0/EVA">
+    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repoEVA&theme=transparent" style="max-width: 100%;">
   </a>
 
 </div>
