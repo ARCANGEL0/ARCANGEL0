@@ -57,7 +57,7 @@
   </a>
 
   <a href="https://github.com/ARCANGEL0/EVA">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repoEVA&theme=transparent" style="max-width: 100%;">
+     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
   </a>
 
 </div>
