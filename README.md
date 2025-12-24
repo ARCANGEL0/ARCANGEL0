@@ -40,11 +40,9 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
   </a>
 
-    <a href="https://github.com/ARCANGEL0/EVA">
+  <a href="https://github.com/ARCANGEL0/EVA">
      <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
   </a>
-
-
 
   <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
