@@ -1,5 +1,5 @@
 
-<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/term.gif" alt="Typing SVG" /></a> 
+<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/terminal.gif" alt="Typing SVG" /></a> 
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>

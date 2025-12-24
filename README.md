@@ -1,15 +1,15 @@
 
-<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/term.gif" alt="Typing SVG" /></a> 
+<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/terminal.gif" alt="Typing SVG" /></a> 
 
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
       <p>🎓 Grad. in Software Development and studying Computer Engineering </p>
       <p>🚀 Currently on the hunt for a new job opportunity.</p>
-      <p>🧠 I’m passionate about coding and problem-solving, designing engaging interfaces, and enjoying a good cup of coffee to boost my creativity.</p>
-      <p>🔍 Currently studying with the goal of achieving my dream in cybersecurity and security auditing.</p>
+      <p>🧠 Average software programming, Coffee-Machine hacker vibes, and automating stuff with power of lazyness </p>
+      <p>🔍 Seeking to achieve goals in cybersecurity fields and get roles in forensic or offensive security.</p>
       <p>💾 Coding since 0b1111 years old.</p>
-      <p>🌐 My localhost is proudly set up in Porto, Portugal.</p>
+      <p>🌐 My localhost is set up in Porto, Portugal.</p>
     </td>
      <td style="width: 60px; text-align: center; vertical-align: top;">
       <a href="README_pt.md">
@@ -40,6 +40,12 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
   </a>
 
+    <a href="https://github.com/ARCANGEL0/EVA">
+     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
+  </a>
+
+
+
   <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
   </a>
@@ -56,9 +62,6 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
   </a>
 
-  <a href="https://github.com/ARCANGEL0/EVA">
-     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
-  </a>
 
 </div>
 
@@ -459,26 +462,25 @@
 </p>
 </br>
 
-> ❱❱❱  Hey there! I’m Henry — a developer, gamer, and musician who enjoys turning small ideas into working code. My pronouns? TCP/IP.
+> ❱❱❱ I’m Henry — a developer, gamer, and musician who enjoys turning small ideas into working code (works on my end).
 
-#### What I’m About:
+#### About me:
 
-> 「Techie at Heart」: I’ve got a degree in Software Development and Analysis and I'm currently enrolled in Computer Engineering. I mainly work on backend stuff, but I can handle frontend tasks too. Always learnin' whenever I can.  
-> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity. I’ve experimented with creating my own AI models and I’m currently learning about cybersecurity and forensic because I find it fascinating. I hope to specialize in red teaming and eventually earn an OSCP certification.  
-> 「Problem Solver」: I enjoy mind fuzzing challenges and finding creative solutions. I'm the type that always has a chessboard and a Rubik cube on his desk (I actually do).  
+> 「Graduations: I have a degree in Software Development and Analysis and I'm currently enrolled in Computer Engineering. I mainly work on backend stuff, but I can handle frontend tasks too.
 
+> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity as one of my main goals in my current degree. 
+I have been working with AI projects a while and I have goals to specialize in security ops futurely.  
 
-#### Creative Side:
+> 「Enigmas: I enjoy mind fuzzing challenges,enigmas, and anything that kinda puts me to test. I'm the type that always has a chessboard and a Rubik cube on his desk (I actually do).  
 
-> 「Bookworm」: I’m all about books that hit hard, like those by Dostoevsky, Orwell, Huxley, Tolstoy, and Kafka. I can’t pick a favorite, but *Metamorphosis* , *White Nights* and *1984* are definitely up there.  
-> 「Music Lover」: I play guitar and write too. Music has always been my vibe.  
-> 「Art & Drawing」: I enjoy drawing and making illustrations. I like to put my thoughts and ideas on a digital canvas and see where it takes me.  
+> 「Bookworm」: I'm quite a reader and i love books that hit hard, like those by Dostoevsky, Camus, Huxley, Tolstoy, and Kafka. My favorite book of all time is definetly 1984 by George Orwell.  
 
-#### A Bit About Me:
+> 「Music Lover」: I'm 24/7 listening to music, I can't do stuff without having music on my ears, it's almost pathological. I also compose and sing too, and I play guitar. 
 
-> 「Languages」: I speak Portugues, English, and right now I'm trying to learn French.  
-> 「Animal Lover」: I’m an animal person, especially cats. If I could, I'd adopt every single one of them.  
-> 「Chill Vibes」: I love coding and tech, but I also enjoy taking a step back from the screen sometimes. In a world of 1s and 0s, it’s nice to log out and just relax for a bit.  
+> 「Nerdy」: I'm a complete nerd and I like not only to talk about pop culture, tv shows, games or movies, but also intelectual debates. I love politiks discussions, philosophy, history, esoterism, science, physics and related stuff.
+
+> 「Languages」: I speak Portuguese, English, French and I'm currently torturing myself to try learning Russian.  
+ 
 
 <br>
 

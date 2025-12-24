@@ -1,14 +1,16 @@
-<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/term.gif" alt="Typing SVG" /></a> 
+<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/terminal.gif" alt="Typing SVG" /></a> 
  
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="border: 1px solid #ccc; width: 80%; font-size: 10%; border-radius: 8px; padding: 2%;  width: 90%">
-  <p>🎓 Étudier l'ingénierie informatique</p>
-<p>🚀 Actuellement à la recherche d'une nouvelle opportunité professionnelle.</p>
-<p>🧠 Passionné par le codage et la résolution de problèmes, la conception d'interfaces attrayantes, et un bon café pour stimuler ma créativité.</p>
-<p>🔍 Actuellement en apprentissage avec l'objectif de réaliser mon rêve dans la cybersécurité et l'audit de sécurité.</p>
-<p>💾 Je code depuis l'âge de 0b1111 ans.</p>
-<p>🌐 Mon localhost est fièrement installé à Porto, au Portugal.</p>
+<p>🎓 Diplômé en développement logiciel et étudiant en génie informatique.</p>
+<p>🚀 Actuellement à la recherche d’une nouvelle opportunité professionnelle.</p>
+<p>🧠 Average programmation logicielle, hacker de machine à café vibes, et automatisation de trucs par le pouvoir de la flemme.</p>
+<p>🔍 Objectif : évoluer dans les domaines de la cybersécurité, notamment en forensic ou en sécurité offensive.</p>
+<p>💾 Je code depuis l’âge de 0b1111.</p>
+<p>🌐 Mon localhost est configuré à Porto, Portugal.</p>
+
+
   <td style="width: 60px; text-align: center; vertical-align: top;">
       <a href="README_pt.md">
         <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" width="50">
@@ -37,7 +39,9 @@
   <a href="https://github.com/ARCANGEL0/NyxAI">
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
   </a>
-
+<a href="https://github.com/ARCANGEL0/EVA">
+    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
+  </a>
   <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
   </a>
@@ -54,9 +58,7 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
   </a>
   
-  <a href="https://github.com/ARCANGEL0/EVA">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
-  </a>
+  
 
 </div>
 
@@ -462,31 +464,23 @@
 </p>
 </br>
 
-> ❱❱❱  Bonjour! Je suis Henry - un développeur, un joueur et un créateur numérique qui cherche à repousser les limites de la technologie (et parfois de sa propre patience).  
-> J'élabore du code qui fonctionne pratiquement, je conçois des interfaces propres et je crée des applications qui visent à rendre le Web un peu plus excitant. Mes pronoms ? TCP/IP.
+> ❱❱❱ Je suis Henry — developer, gamer et musicien qui aime transformer de petites idées en code fonctionnel (ça marche de mon côté).
 
-<br>
+#### À propos de moi :
 
-#### Ce que je fais :
+> 「Formation」: Je suis diplômé en Développement et Analyse de Logiciels et je suis actuellement en Génie Informatique. Je travaille principalement sur le backend, mais je gère aussi des tâches de frontend.
 
-> 「Passionné de technologie」: Je suis diplômé en analyse de systèmes et j’étudie actuellement le génie informatique... Je travaille principalement sur le backend, mais je m’occupe aussi des tâches frontend. Mon objectif est de m’améliorer chaque jour !
-> 「Passionné par l’IA et la cybersécurité」: L’intelligence artificielle et la cybersécurité m’intéressent énormément. J’ai expérimenté la création de mes propres modèles d’IA et je me forme actuellement à la cybersécurité, car c’est un domaine fascinant. Mon but est de me spécialiser en red teaming et d’obtenir la certification OSCP.
-> 「Résolveur de problèmes」: J’adore relever des défis et trouver des solutions créatives. C’est comme un puzzle qui me garde engagé et enthousiaste.
-<br>
+> 「Passionné par l’IA & la Cybersécurité」: J’ai un grand intérêt pour l’IA et la cybersécurité, qui font partie de mes principaux objectifs dans ma formation actuelle. Je travaille sur des projets d’IA depuis un moment déjà et j’ai pour objectif de me spécialiser à l’avenir en security ops.
 
-#### Côté créatif :
+> 「Énigmes」: J’aime les défis qui font chauffer le cerveau, les énigmes et tout ce qui stimule mon raisonnement. Je suis le genre de personne qui a toujours un échiquier et un Rubik’s Cube sur son setup (oui, vraiment).
 
-> 「Lecteur avide」: J’adore les livres qui font réfléchir, comme ceux de Dostoïevski, Orwell, Huxley, Tolstoï et Kafka. Je n’arrive pas à choisir un favori, mais *La Métamorphose* et *Les Nuits Blanches* figurent certainement parmi mes préférés.
-> 「Amoureux de la musique」: La musique, c’est ma passion ! Je joue de la guitare et j’adore composer. C’est un excellent moyen de m’exprimer et de me détendre.
-> 「Art et dessin」: J’aime dessiner et créer des illustrations. J’aime poser mes pensées et idées sur une toile numérique et voir où cela me mène.
+> 「Bookworm」: Je lis beaucoup et j’adore les livres qui ne sont pas faciles à digérer, comme ceux de Dostoïevski, Camus, Huxley, Tolstoï et Kafka. Mon livre préféré de tous les temps est définitivement 1984, de George Orwell.
 
-<br>
+> 「Musique」: J’écoute généralement de la musique 24/7, je n’arrive à rien faire sans avoir de la musique dans les oreilles, c’est presque pathologique. Je compose aussi, je chante et je joue de la guitare.
 
-#### Un peu à propos de moi :
+> 「Nerd」: Je suis un vrai nerd et j’aime parler non seulement de culture pop, séries, jeux ou films, mais aussi de débats intellectuels. J’adore discuter de politique, de philosophie, d’histoire, d’ésotérisme, de science, de physique et de tout ce genre de choses.
 
-> 「Langues」: Je parle portugais, français et anglais. C’est amusant de connecter avec des gens de différents horizons.
-> 「Amoureux des animaux」: Je suis un grand fan des animaux, surtout des chats. Ce sont les meilleurs compagnons.
-> 「Ambiance détendue」: J’adore le codage et la technologie, mais j’apprécie aussi de faire une pause loin de l’écran de temps en temps. Dans un monde de 1 et de 0, c’est agréable de se déconnecter et de simplement se détendre un moment.
+> 「Langues」: Je parle portugais, anglais et français, et actuellement je me torture en essayant d’apprendre le russe.
 
 <br>
 
