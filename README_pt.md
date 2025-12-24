@@ -4,12 +4,12 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
-<p>🎓 Estudando Engenharia da Computação</p>
-<p>🚀 Atualmente em busca de uma nova oportunidade de emprego.</p>
-<p>🧠 Sou apaixonado por programação e resolução de problemas, criando interfaces envolventes e apreciando uma boa xícara de café para impulsionar minha criatividade.</p>
-<p>🔍 Atualmente estudando com o objetivo de alcançar meu sonho em cibersegurança e auditoria de segurança.</p>
-<p>💾 Programando desde os 0b1111 anos de idade.</p>
-<p>🌐 localhost configurado em Porto, Portugal.</p>
+<p>🎓 Licenciado em Desenvolvimento de Software e a estudar Engenharia Informática.</p>
+<p>🚀 Atualmente à procura de uma nova oportunidade de trabalho.</p>
+<p>🧠 Average programação de software, hacker de máquina de café vibes, e automação de coisas com o poder da preguiça.</p>
+<p>🔍 A procurar atingir objetivos nas áreas de cibersegurança, com interesse em funções de forense ou segurança ofensiva.</p>
+<p>💾 A programar desde os 0b1111 anos.</p>
+<p>🌐 Localhost configurado em Porto, Portugal.</p>
     </td>
     </td>
      <td style="width: 60px; text-align: center; vertical-align: top;">
@@ -41,6 +41,11 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NyxAI&theme=transparent" style="max-width: 100%;">
   </a>
 
+
+  <a href="https://github.com/ARCANGEL0/EVA">
+    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
+  </a>
+
   <a href="https://github.com/ARCANGEL0/EdgarAllanBot">
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EdgarAllanBot&theme=transparent" style="max-width: 100%;">
   </a>
@@ -57,9 +62,6 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent" style="max-width: 100%;">
   </a>
 
-  <a href="https://github.com/ARCANGEL0/EVA">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent" style="max-width: 100%;">
-  </a>
 
 </div>
 
@@ -460,25 +462,23 @@
 </p>
 </br>
 
-> ❱❱❱ Olá! Eu sou Henry — desenvolvedor, gamer e músico que gosta de transformar pequenas ideias em código funcionando. Meus pronomes? TCP/IP.
+> ❱❱❱ Sou Henry — developer, gamer e músico que curte transformar pequenas ideias em código funcional (funciona do meu lado).
 
-#### Sobre Mim:
+#### Sobre mim:
 
-> 「Techie de Coração」: Tenho graduação em Desenvolvimento e Análise de Sistemas e atualmente estou cursando Engenharia da Computação. Trabalho mais com backend, mas também consigo lidar com frontend. Sempre aprendendo tudo que posso.  
-> 「IA & Cibersegurança」: Tenho muito interesse em IA e cibersegurança. Estudo um pouco sobre modelos LLM e também estou aprendendo sobre offensive security e computação forense porque acho incrível. Espero me especializar em red teaming e, eventualmente, conquistar a certificação OSCP.  
-> 「Resolutor de Problemas」: Gosto de desafios que desafiam a mente e a encontrar soluções criativas. Sou do tipo que sempre tem um tabuleiro de xadrez e um cubo mágico na mesa (eu tenho mesmo).  
+> 「Formação」: Sou graduado em Desenvolvimento e Análise de Software e atualmente estou cursando Engenharia da Computação. Trabalho principalmente com backend, mas também dou conta de tarefas de frontend.
 
-#### Lado Criativo:
+> 「Entusiasta de IA & Cibersegurança」: Tenho grande interesse em IA e cibersegurança como um dos principais focos da minha formação atual. Já venho trabalhando com projetos de IA há algum tempo e tenho como objetivo me especializar futuramente em security ops.
 
-> 「Bookworm」: Curto livros que marcam, como os de Dostoiévski, Orwell, Huxley, Tolstói e Kafka. Não consigo escolher um favorito, mas *A Metamorfose*, *Noites Brancas* e *1984* estão definitivamente entre os top.  
-> 「Amante da Música」: Toco guitarra e também escrevo músicas. Música sempre foi meu vibe.  
-> 「Arte & Desenho」: Gosto de desenhar e criar ilustrações. Adoro colocar meus pensamentos e ideias em uma tela digital e ver até onde elas vão.  
+> 「Enigmas」: Gosto de desafios que são um desafio pra cabeça, enigmas e qualquer coisa que me estimule pro raciocínio. Sou o tipo de pessoa que sempre tem um tabuleiro de xadrez e um cubo rubik no setup (Eu tenho mesmo).
 
-#### Um Pouco Sobre Mim:
+> 「Bookworm」: Leio bastante e adoro livros que não são facéis de digerir a leitura, como os de Dostoiévski, Camus, Huxley, Tolstói e Kafka. Meu livro favorito de todos os tempos é definitivamente 1984, de George Orwell.
 
-> 「Idiomas」: Falo Português, Inglês e agora estou tentando aprender Francês.  
-> 「Amante de Animais」: Sou muito fã de animais, especialmente gatos. Se pudesse, adotaria todos eles.  
-> 「Vibes Tranquilas」: Amo codar e tecnologia, mas também curto dar uma pausa das telas de vez em quando. Num mundo de 0s e 1s, é bom se desconectar e relaxar um pouco.  
+> 「Música」: Geralmente escuto música 24/7, não consigo fazer nada sem música nos ouvidos, é quase patológico. Também componho, canto e toco guitarra.
+
+> 「Nerd」: Sou um nerd completo e curto não só falar sobre cultura pop, séries, jogos ou filmes, mas também debates intelectuais. Adoro discutir política, filosofia, história, esoterismo, ciência e física e essas coisas.
+
+> 「Idiomas」: Falo português, inglês e francês, e atualmente estou me torturando tentando aprender russo
 
 <br>
 
@@ -539,7 +539,7 @@
           <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
         </a> 
         </br>
- <a href="https://open.spotify.com/intl-pt/artist/1mrVVaQFpF4SrdeqrqQdY8">
+ <a href="https://open.spotify.com/user/31jditvlpdtkmavupdm35nnxxdx4?si=2ec341a99999437e">
           <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
         </a> 
         </br>

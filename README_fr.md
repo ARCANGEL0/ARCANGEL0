@@ -541,7 +541,7 @@
           <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
         </a> 
         </br>
- <a href="https://open.spotify.com/intl-pt/artist/1mrVVaQFpF4SrdeqrqQdY8">
+ <a href="https://open.spotify.com/user/31jditvlpdtkmavupdm35nnxxdx4?si=2ec341a99999437e">
           <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
         </a> 
         </br>
