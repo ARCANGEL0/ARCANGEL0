@@ -44,8 +44,8 @@
     <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
   </a>
 
-  <a href="https://github.com/ARCANGEL0/FlowManager">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=FlowManager&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
+  <a href="https://github.com/ARCANGEL0/dotfiles-kde">
+    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
   </a>
 
   <a href="https://github.com/ARCANGEL0/netrunner-cli">
