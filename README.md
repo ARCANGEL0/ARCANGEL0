@@ -1,294 +1,260 @@
-
-<a href="https://github/ARCANGEL0"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/terminal.gif" alt="Typing SVG" /></a> 
-
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
-  <tr>
-    <td style="width: 90%; border: 1px solid #ccc; font-size: 14px; border-radius: 8px; padding: 2%;">
-      <p>🎓 Grad. in Software Development and studying Computer Engineering </p>
-      <p>🚀 Currently on the hunt for a new job opportunity.</p>
-      <p>🧠 Average software programming, Coffee-Machine hacker vibes, and automating stuff with power of lazyness </p>
-      <p>🔍 Seeking to achieve goals in cybersecurity fields and get roles in forensic or offensive security.</p>
-      <p>💾 Coding since 0b1111 years old.</p>
-      <p>🌐 My localhost is set up in Porto, Portugal.</p>
-    </td>
-   
-  </tr>
-</table>
+<div align="center">
  
----
-<div align="center">
-  
-![svg](https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/profile-3d-contrib/profile-night-green.svg)
-  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&theme=transparent&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00cc66&dates=00cc66&card_width=1000" />
-</div>
-
-<br>
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-
-  <a href="https://github.com/ARCANGEL0/NekoCLI">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoCLI&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
-  </a>
-
-  <a href="https://github.com/ARCANGEL0/NekoGPT">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoGPT&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
-  </a>
-
-  <a href="https://github.com/ARCANGEL0/EVA">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
-  </a>
-
-  <a href="https://github.com/ARCANGEL0/EzyMap">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
-  </a>
-
-  <a href="https://github.com/ARCANGEL0/dotfiles-kde">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
-  </a>
-
-  <a href="https://github.com/ARCANGEL0/netrunner-cli">
-    <img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" />
-  </a>
-
-</div>
-
-
-</div>
-
-
-
-  <div align=center> 
- <h2>
-  <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" style=" height:65px; width;65px; padding-left: 5%; align:middle ">  <br>
-  <a style="color: inherit"> My Tech Stack
-</a>
-</h2>
-</center>
-</div> 
-<div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=My%20main%20language:%20Typescript%20and%20Python;%20My%20Favorite%20OS:%20Garuda%20OS/Black%20Arch;My%20Favorite%20Editor:%20Pulsar/Atom;" alt="Typing SVG" />
-</div>
-
-<br>
-
-<details>
-  <summary><h3>⌿ Languages & Scripting</h3></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,php,nodejs,typescript,javascript,tailwind,jquery,react,redux,nextjs,java,lua,cs,dotnet,ruby,bash,powershell,cpp&perline=14" />
-  </p>
-</details>
-
-<details>
-  <summary><h3>☁ Cloud & Databases</h3></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=googlecloud,azure,aws,cf,mysql,cassandra,sqlite,mongodb,firebase" />
-  </p>
-</details>
-
-<details>
-  <summary><h3>⎋ Web & Frameworks</h3></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,electron,nodejs,express,django,flask,laravel,spring,bootstrap,nginx,heroku,babel,cf,jquery&perline=16" />
-    </p>
-</details>
-
-<details>
-  <summary><h3>♾ Tools & DevOps</h3></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,githubactions,github,emacs,vscode,sublime,atom,eclipse,postman,blender,illustrator,photoshop,figma,godot,unity,cmake,androidstudio&perline=16" />
-  </p>
-</details> 
-
-<details>
-  <summary><h3>🖥 Hardware & OS </h3></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=kali,linux,windows,nix,powershell,bash,raspberrypi,mint,redhat,arch&perline=16" />
-   </p>
-</details>
-
-<details> 
-<summary><h3>⚔️ Cybersecurity</h3></summary>
-<p align="center">
-  <br>
-  
-  <strong>[ 📡 Wireless & Network ]</strong><br>
-  <img src="https://img.shields.io/badge/Aircrack--ng-3B4252?style=flat&logo=wifi&logoColor=red">
-  <img src="https://img.shields.io/badge/Kismet-3B4252?style=flat&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Airgeddon-3B4252?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Wifite-3B4252?style=flat&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/Bettercap-3B4252?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Wireshark-3B4252?style=flat&logo=wireshark&logoColor=1679a7">
-  <img src="https://img.shields.io/badge/TCPDump-3B4252?style=flat&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/MITM%20Proxy-3B4252?style=flat&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/Reaver-3B4252?style=flat&logo=terminal&logoColor=white">
-  <img src="https://img.shields.io/badge/Fern%20Wifi-3B4252?style=flat&logo=wifi&logoColor=green">
-  <img src="https://img.shields.io/badge/Evil%20Twin-3B4252?style=flat&logo=router&logoColor=red">
-  <img src="https://img.shields.io/badge/Killer%20Bee-3B4252?style=flat&logo=zigbee&logoColor=yellow">
-  <br><br>
-
-  <strong>[ 🕷️ Reconnaissance ]</strong><br>
-  <img src="https://img.shields.io/badge/Nmap-3B4252?style=flat&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Shodan-3B4252?style=flat&logo=shodan&logoColor=crimson">
-  <img src="https://img.shields.io/badge/Maltego-3B4252?style=flat&logo=maltego&logoColor=white">
-  <img src="https://img.shields.io/badge/Recon--ng-3B4252?style=flat&logo=gnu&logoColor=white">
-  <img src="https://img.shields.io/badge/SpiderFoot-3B4252?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TheHarvester-3B4252?style=flat&logo=kali&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Dorks-3B4252?style=flat&logo=google&logoColor=red">
-  <img src="https://img.shields.io/badge/Sherlock-3B4252?style=flat&logo=github&logoColor=green">
-  <img src="https://img.shields.io/badge/OSINT%20Framework-3B4252?style=flat&logo=firefox&logoColor=orange">
-  <img src="https://img.shields.io/badge/Netcraft-3B4252?style=flat&logo=network&logoColor=blue">
-  <br><br>
-
-  <strong>[ 🔓 Pentesting ]</strong><br>
-  <img src="https://img.shields.io/badge/Metasploit-3B4252?style=flat&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp%20Suite-3B4252?style=flat&logo=burpsuite&logoColor=orange">
-  <img src="https://img.shields.io/badge/SQLMap-3B4252?style=flat&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Nikto-3B4252?style=flat&logo=perl&logoColor=white">
-  <img src="https://img.shields.io/badge/Gobuster-3B4252?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/WPScan-3B4252?style=flat&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/BeEF-3B4252?style=flat&logo=javascript&logoColor=red">
-  <img src="https://img.shields.io/badge/Commix-3B4252?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Acunetix-3B4252?style=flat&logo=acunetix&logoColor=red">
-  <img src="https://img.shields.io/badge/XSSer-3B4252?style=flat&logo=javascript&logoColor=yellow">
-  <br><br>
-
-  <strong>[ 🔑 PrivEsc & Cracking ]</strong><br>
-  <img src="https://img.shields.io/badge/Hashcat-3B4252?style=flat&logo=hashnode&logoColor=white">
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-3B4252?style=flat&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Hydra-3B4252?style=flat&logo=github&logoColor=blue">
-  <img src="https://img.shields.io/badge/Mimikatz-3B4252?style=flat&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Empire-3B4252?style=flat&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/BloodHound-3B4252?style=flat&logo=neo4j&logoColor=white">
-  <img src="https://img.shields.io/badge/LinPEAS-3B4252?style=flat&logo=linux&logoColor=green">
-  <img src="https://img.shields.io/badge/Responder-3B4252?style=flat&logo=python&logoColor=red">
-</p>
-</details>
-</div> 
-<h2 align="left">
-  <div style="display: flex; align-items: center;">
-    <div>
-      <img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="40px" width="60px"></img>
-    </div>
-    <div style="margin-left: 10px; text-align: center;">
-      $ whoami
-    </div>
-  </div>
-</h2>
-
-<br>
-
-<p align="left" style="font-size:12px; margin-bottom: -5px"><a  href="https://arcangelo.net/fallout">
-          <img style="height: 200px" src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" />
-        </a> 
-<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/standard%20(2).gif"></img>
-</p>
-</br>
-
-> ❱❱❱ I’m Henry — a developer, gamer, and musician who enjoys turning small ideas into working code (works on my end).
-
-#### About me:
-
-> 「Graduations: I have a degree in Software Development and Analysis and I'm currently enrolled in Computer Engineering. I mainly work on backend stuff, but I can handle frontend tasks too.
-
-> 「AI & Cybersecurity Enthusiast」: I’m really interested in AI and cybersecurity as one of my main goals in my current degree. 
-I have been working with AI projects a while and I have goals to specialize in security ops futurely.  
-
-> 「Enigmas: I enjoy mind fuzzing challenges,enigmas, and anything that kinda puts me to test. I'm the type that always has a chessboard and a Rubik cube on his desk (I actually do).  
-
-> 「Bookworm」: I'm quite a reader and i love books that hit hard, like those by Dostoevsky, Camus, Huxley, Tolstoy, and Kafka. My favorite book of all time is definetly 1984 by George Orwell.  
-
-> 「Music Lover」: I'm 24/7 listening to music, I can't do stuff without having music on my ears, it's almost pathological. I also compose and sing too, and I play guitar. 
-
-> 「Nerdy」: I'm a complete nerd and I like not only to talk about pop culture, tv shows, games or movies, but also intelectual debates. I love politiks discussions, philosophy, history, esoterism, science, physics and related stuff.
-
-> 「Languages」: I speak Portuguese, English, French and I'm currently torturing myself to try learning Russian.  
- 
-
-<br>
-
-
-##### 「 🎵 Currently listening to 」
-
-<div align="center">
-  
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31jditvlpdtkmavupdm35nnxxdx4">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31jditvlpdtkmavupdm35nnxxdx4" alt="Data Card for Spotify">
-</a>
-
-</div>
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&repeat=false&weight=700&size=42&pause=800&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=%24+whoami;developer+%2F+hacker+%2F+musician;%E2%9F%90+%CE%BBRCANGEL0" alt="Typing SVG" />
 
 <br/>
 
-📩 **My social links**:
+![](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-000000?style=for-the-badge&color=0066f88)
+&nbsp;
+![](https://img.shields.io/badge/Porto%20%F0%9F%87%B5%F0%9F%87%B9%20PT-000000?style=for-the-badge&color=111)
+&nbsp;
+![](https://img.shields.io/badge/CODING%20SINCE%200b1111-000000?style=for-the-badge&color=111)
+&nbsp;
+[![CV](https://img.shields.io/badge/MY%20CV-000?style=for-the-badge&logo=googledocs&logoColor=00ff88&color=111)](https://arcangelo.net/home/arcangelo/resume.pdf)
 
+</div>
+
+---
+
+<table style="width:100%;table-layout:fixed;"> 
+  <tr>
+<td width="600" valign="top">
+
+```zsh
+root@arcangel0 ~ $ cat about.conf
+```
+```ini
+[identity]
+name   = Henry Arcangelo
+handle = ARCANGEL0
+role   = Developer
+degree = Computer Engineering (enrolled)
+age    = √( 5! / 4! )⁴ 
+
+[stack]
+os       = Arch 𖤂
+editor   = Helix / Nano
+langs    = TypeScript · Python · PHP · Java
+frontend = React · Next.js · Vue.js · TailwindCSS
+backend  = Node.js · Django · Flask · Laravel
+infra    = Docker · Cloudflare · AWS · Azure · Nginx
+db       = PostgreSQL · MongoDB · SQLite · Firebase
+
+[mission]
+target   = Offensive Security · Backend · DevOps
+status   = OPEN TO WORK ●
+
+[locale]
+location = Porto, Portugal
+langs    = PT · EN · FR  
+```
+
+</td> <td width="15"  >
+  <a href="https://fallout.arcangelo.net">
+    <img src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" width="420" height="460"/>
+  </a>
+  <br/>
+ </td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────────────────────────────┐
+  │  "If you want to keep a secret, you must also hide it from       │
+  │   yourself."                         — George Orwell · 1984      │
+  └──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=<%20/%20Git%20Stats%20>&repeat=false" alt="stack typing" />
+
+![3D](https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/profile-3d-contrib/profile-night-green.svg)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&theme=transparent&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00cc66&dates=00cc66&card_width=1000" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88&ring_color=00ff88&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88&langs_count=8&hide=CSS,HTML,ROFF,LESS,blade,GLSL,Jupyter%20Notebook,SCSS" />
+
+<br/>
+ 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCANGEL0&theme=high-contrast&hide_border=true&bg_color=00000000&color=00ff88&line=00cc66&point=00ff88&area=true&area_color=00ff8822" />
+
+</div>
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=<%20/%20Tech%20Stack%20>&repeat=false" alt="stack typing" />
+
+<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/techstack.gif" height="60px"/>
+
+</div>
+
+<br/>
 
 <details>
-  <summary> A b o u t  -  m e </summary>
-  <br>
-
-<a href="https://arcangelo.net">
-          <img src="https://img.shields.io/badge/ArcangelOS-black.svg?&style=for-the-badge&logo=uikit&logoColor=grey" />
-        </a> 
-        </br>
-
-
-<a href="https://arcangelo.net/fallout">
-          <img src="https://img.shields.io/badge/Robco_TERMINAL-black.svg?&style=for-the-badge&logo=buddy&logoColor=green" />
-        </a> 
-        </br>
-
- <a href="https://wa.me/351927285125">
-          <img src="https://img.shields.io/badge/whatsapp-black.svg?&style=for-the-badge&logo=whatsapp&logoColor=green" />
-        </a> 
-        </br>
-
- <a href="mailto:henry.arcangello@gmail.com?subject=Olá%20Henry">
-          <img src="https://img.shields.io/badge/gmail-black.svg?&style=for-the-badge&logo=gmail&logoColor=orange" />
-        </a> 
-        </br>
-
-
- <a href="https://www.linkedin.com/in/henryarcangelo/">
-          <img src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=lospec&logoColor=cyan" />
-        </a> 
-        </br>
-
- <a href="https://www.steamcommunity.com/id/arcxlo">
-          <img src="https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=c7d5e0" />
-        </a> 
-        </br>
- <a href="https://open.spotify.com/user/31jditvlpdtkmavupdm35nnxxdx4?si=2ec341a99999437e">
-          <img src="https://img.shields.io/badge/spotify-black.svg?&style=for-the-badge&logo=spotify&logoColor=1DB954" />
-        </a> 
-        </br>
-
-
-
-</ul>
- 
+<summary><b>⌿ &nbsp;Languages & Scripting</b></summary><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,typescript,javascript,tailwind,jquery,react,redux,nextjs,java,lua,cs,dotnet,ruby,bash,powershell,cpp&perline=14" />
+</p>
 </details>
 
-
-
-<br>
-<br>
-
-<p align=center> <sub> Arcangelo ©2026 </sub> </p>
-
-
-<hr/>
-
+<details>
+<summary><b>☁ &nbsp;Cloud & Databases</b></summary><br/>
 <p align="center">
- <a href='https://ko-fi.com/J3J7WTYV7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<img src="https://skillicons.dev/icons?i=googlecloud,azure,aws,cf,mysql,cassandra,sqlite,mongodb,firebase" />
 </p>
+</details>
 
- <div align="left">
-  <h2><b>Profile Views</b></h2>
+<details>
+<summary><b>⎋ &nbsp;Web & Frameworks</b></summary><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,electron,nodejs,express,django,flask,laravel,spring,bootstrap,nginx,heroku,babel,cf,jquery&perline=16" />
+</p>
+</details>
+
+<details>
+<summary><b>♾ &nbsp;Tools & DevOps</b></summary><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,githubactions,github,emacs,vscode,sublime,atom,eclipse,postman,blender,illustrator,photoshop,figma,godot,unity,cmake,androidstudio&perline=16" />
+</p>
+</details>
+
+<details>
+<summary><b>🖥 &nbsp;Hardware & OS</b></summary><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kali,linux,windows,nix,powershell,bash,raspberrypi,mint,redhat,arch&perline=16" />
+</p>
+</details>
+
+<details>
+<summary><b>⚔️ &nbsp;Cybersecurity Arsenal</b></summary><br/>
+<p align="center">
+
+**`📡 WIRELESS & NETWORK`**
+
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d1117?style=flat-square&logo=wifi&logoColor=00ff88)
+![Kismet](https://img.shields.io/badge/Kismet-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff88)
+![Airgeddon](https://img.shields.io/badge/Airgeddon-0d1117?style=flat-square&logo=linux&logoColor=00ff88)
+![Wifite](https://img.shields.io/badge/Wifite-0d1117?style=flat-square&logo=python&logoColor=00ff88)
+![Bettercap](https://img.shields.io/badge/Bettercap-0d1117?style=flat-square&logo=go&logoColor=00ff88)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff88)
+![TCPDump](https://img.shields.io/badge/TCPDump-0d1117?style=flat-square&logo=linux&logoColor=00ff88)
+![MITM Proxy](https://img.shields.io/badge/MITM_Proxy-0d1117?style=flat-square&logo=python&logoColor=00ff88)
+![Reaver](https://img.shields.io/badge/Reaver-0d1117?style=flat-square&logoColor=00ff88)
+![Fern Wifi](https://img.shields.io/badge/Fern_Wifi-0d1117?style=flat-square&logoColor=00ff88)
+![Evil Twin](https://img.shields.io/badge/Evil_Twin-0d1117?style=flat-square&logoColor=ff3333)
+![Killer Bee](https://img.shields.io/badge/Killer_Bee-0d1117?style=flat-square&logoColor=00ff88)
+
+<br/>
+
+**`🕷️ RECONNAISSANCE`**
+
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=00ff88)
+![Shodan](https://img.shields.io/badge/Shodan-0d1117?style=flat-square&logoColor=ff3333)
+![Maltego](https://img.shields.io/badge/Maltego-0d1117?style=flat-square&logoColor=00ff88)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-0d1117?style=flat-square&logo=gnu&logoColor=00ff88)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0d1117?style=flat-square&logo=python&logoColor=00ff88)
+![TheHarvester](https://img.shields.io/badge/TheHarvester-0d1117?style=flat-square&logoColor=00ff88)
+![Google Dorks](https://img.shields.io/badge/Google_Dorks-0d1117?style=flat-square&logo=google&logoColor=00ff88)
+![Sherlock](https://img.shields.io/badge/Sherlock-0d1117?style=flat-square&logo=github&logoColor=00ff88)
+![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-0d1117?style=flat-square&logo=firefox&logoColor=00ff88)
+![Netcraft](https://img.shields.io/badge/Netcraft-0d1117?style=flat-square&logoColor=00ff88)
+
+<br/>
+
+**`🔓 PENTESTING`**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logoColor=ff3333)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=ff3333)
+![SQLMap](https://img.shields.io/badge/SQLMap-0d1117?style=flat-square&logo=postgresql&logoColor=ff3333)
+![Nikto](https://img.shields.io/badge/Nikto-0d1117?style=flat-square&logoColor=ff3333)
+![Gobuster](https://img.shields.io/badge/Gobuster-0d1117?style=flat-square&logo=go&logoColor=ff3333)
+![WPScan](https://img.shields.io/badge/WPScan-0d1117?style=flat-square&logo=wordpress&logoColor=ff3333)
+![BeEF](https://img.shields.io/badge/BeEF-0d1117?style=flat-square&logo=javascript&logoColor=ff3333)
+![Commix](https://img.shields.io/badge/Commix-0d1117?style=flat-square&logo=python&logoColor=ff3333)
+![Acunetix](https://img.shields.io/badge/Acunetix-0d1117?style=flat-square&logoColor=ff3333)
+![XSSer](https://img.shields.io/badge/XSSer-0d1117?style=flat-square&logo=javascript&logoColor=ff3333)
+
+<br/>
+
+**`🔑 PRIVESC & CRACKING`**
+
+![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=flat-square&logoColor=ffaa00)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-0d1117?style=flat-square&logoColor=ffaa00)
+![Hydra](https://img.shields.io/badge/Hydra-0d1117?style=flat-square&logoColor=ffaa00)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-0d1117?style=flat-square&logo=windows&logoColor=ffaa00)
+![Empire](https://img.shields.io/badge/Empire-0d1117?style=flat-square&logo=powershell&logoColor=ffaa00)
+![BloodHound](https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logo=neo4j&logoColor=ffaa00)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-0d1117?style=flat-square&logo=linux&logoColor=ffaa00)
+![Responder](https://img.shields.io/badge/Responder-0d1117?style=flat-square&logo=python&logoColor=ffaa00)
+
+</p>
+</details>
+
+---
+
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=✰%20Starred%20Repos&repeat=false" alt="stack typing" />
+
+
+<a href="https://github.com/ARCANGEL0/NekoCLI"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoCLI&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/tor-chat"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=tor-chat&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/EVA"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/EzyMap"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/dotfiles-kde"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/netrunner-cli"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+
 </div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=C%20o%20n%20t%20a%20c%20t%20%20-%20%20%20m%20e%20↴&repeat=false" alt="stack typing" />
+
+<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/img/hackerman.gif" height="140px"/>
+
+[![ArcangelOS](https://img.shields.io/badge/ArcangelOS-000?style=for-the-badge&logo=uikit&logoColor=aaa)](https://arcangelo.net)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00aaff)](https://discord.com/users/716015207713079447)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=lospec&logoColor=00ccff)](https://www.linkedin.com/in/henryarcangelo/)
+[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:henry@arcangelo.net)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=00ff88)](https://wa.me/351927285125)
+[![Steam](https://img.shields.io/badge/steam-000?style=for-the-badge&logo=steam&logoColor=c7d5e0)](https://www.steamcommunity.com/id/arcxlo)
+[![Spotify](https://img.shields.io/badge/spotify-000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31jditvlpdtkmavupdm35nnxxdx4)
+
+<br/>
+
+---
+
+<sub>Arcangelo &copy;2026 &nbsp;·&nbsp;</sub>
+
+<br/>
+
+<a href='https://ko-fi.com/J3J7WTYV7' target='_blank'>
+  <img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
+<br/><br/>
+
+**Profile Views**
+
 <a href="https://github.com/sponsors/ARCANGEL0/">
-<img src="https://count.getloli.com/@ARCANGEL0?name=ARCANGEL0&theme=booru-lewd&padding=10&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1">
+  <img src="https://count.getloli.com/@ARCANGEL0?name=ARCANGEL0&theme=booru-lewd&padding=10&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1"/>
+</a>
+
+</div>
