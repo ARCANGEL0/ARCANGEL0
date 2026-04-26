@@ -1,6 +1,8 @@
 <div align="center">
  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&repeat=false&weight=700&size=42&pause=800&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=%24+whoami;developer+%2F+hacker+%2F+musician;%E2%9F%90+%CE%BBRCANGEL0" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&repeat=false&weight=700&size=42&pause=800&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=%24+whoami;developer+%2F+hacker+%2F+musician;%E2%9F%AC%E2%8A%B3+%CE%BBrcangel%C3%B8+%E2%8A%B2%E2%9F%AD" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -79,12 +81,11 @@ langs    = PT · EN · FR
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=✰%20Starred%20Repos&repeat=false" alt="stack typing" />
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=<%20/%20My%20Repos%20>&repeat=false" alt="stack typing" />
 
-
+<a href="https://github.com/ARCANGEL0/EVA"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/NekoCLI"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoCLI&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/tor-chat"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=tor-chat&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/EVA"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/EzyMap"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/dotfiles-kde"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/netrunner-cli"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
@@ -243,7 +244,7 @@ langs    = PT · EN · FR
 
 ---
 
-<sub>· Arcangelo &copy;2026 &nbsp;·&nbsp;</sub>
+<sub>·&nbsp; Arcangelo &copy;2026 &nbsp;·&nbsp;</sub>
 
 <br/>
 
