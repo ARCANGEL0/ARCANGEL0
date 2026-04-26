@@ -28,17 +28,19 @@ root@arcangel0 ~ $ cat about.conf
 name   = Henry Arcangelo
 handle = ARCANGEL0
 role   = Developer
-degree = Computer Engineering (enrolled)
+degree = Computer Engineering (studying)
 age    = √( 5! / 4! )⁴ 
 
 [stack]
 os       = Arch 𖤂
 editor   = Helix / Nano
 langs    = TypeScript · Python · PHP · Java
-frontend = React · Next.js · Vue.js · TailwindCSS
-backend  = Node.js · Django · Flask · Laravel
-infra    = Docker · Cloudflare · AWS · Azure · Nginx
-db       = PostgreSQL · MongoDB · SQLite · Firebase
+frontend = React.js + Native · Next.js · Vue.js · TailwindCSS
+backend  = Node.js · Django · Flask · Laravel · Express 
+infra    = Docker · Nginx · MS Server · Apache
+cloud    = Cloudflare, AWS, Azure, DigitalOcean, Vercel
+ci-cd    = GitHub Actions · GitLab CI · Jenkins
+db       = PostgreSQL · MongoDB · SQLite · Firebase · MySQL
 
 [mission]
 target   = Offensive Security · Backend · DevOps
@@ -63,16 +65,33 @@ langs    = PT · EN · FR
 <div align="center">
 
 ```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  "If you want to keep a secret, you must also hide it from       │
-  │   yourself."                         — George Orwell · 1984      │
-  └──────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│  "Intelligence is the ability to avoid doing work,  │
+│   yet getting the work done."                       │
+│                                    — Linus Torvalds │
+└─────────────────────────────────────────────────────┘
+
 ```
 
 </div>
 
 ---
 
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=✰%20Starred%20Repos&repeat=false" alt="stack typing" />
+
+
+<a href="https://github.com/ARCANGEL0/NekoCLI"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoCLI&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/tor-chat"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=tor-chat&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/EVA"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/EzyMap"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/dotfiles-kde"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/netrunner-cli"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+
+</div>
+
+---
 <div align="center">
 
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=<%20/%20Git%20Stats%20>&repeat=false" alt="stack typing" />
@@ -107,7 +126,7 @@ langs    = PT · EN · FR
 <details>
 <summary><b>⌿ &nbsp;Languages & Scripting</b></summary><br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,typescript,javascript,tailwind,jquery,react,redux,nextjs,java,lua,cs,dotnet,ruby,bash,powershell,cpp&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,typescript,javascript,tailwind,jquery,react,nextjs,java,lua,ruby,bash,powershell&perline=14" />
 </p>
 </details>
 
@@ -121,14 +140,14 @@ langs    = PT · EN · FR
 <details>
 <summary><b>⎋ &nbsp;Web & Frameworks</b></summary><br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,electron,nodejs,express,django,flask,laravel,spring,bootstrap,nginx,heroku,babel,cf,jquery&perline=16" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,electron,nodejs,express,django,flask,laravel,spring,bootstrap,nginx,heroku,babel,cf,jquery&perline=16" />
 </p>
 </details>
 
 <details>
 <summary><b>♾ &nbsp;Tools & DevOps</b></summary><br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,githubactions,github,emacs,vscode,sublime,atom,eclipse,postman,blender,illustrator,photoshop,figma,godot,unity,cmake,androidstudio&perline=16" />
+<img src="https://skillicons.dev/icons?i=docker,git,jenkins,githubactions,github,emacs,vscode,sublime,atom,eclipse,postman,blender,illustrator,photoshop,figma,godot,unity,cmake,androidstudio&perline=16" />
 </p>
 </details>
 
@@ -206,23 +225,6 @@ langs    = PT · EN · FR
 
 ---
 
-
-<div align="center">
-
-## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=✰%20Starred%20Repos&repeat=false" alt="stack typing" />
-
-
-<a href="https://github.com/ARCANGEL0/NekoCLI"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoCLI&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/tor-chat"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=tor-chat&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/EVA"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EVA&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/EzyMap"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/dotfiles-kde"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/netrunner-cli"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-
-</div>
-
----
-
 <div align="center">
 
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=00FF00&center=true&vCenter=true&width=900&lines=C%20o%20n%20t%20a%20c%20t%20%20-%20%20%20m%20e%20↴&repeat=false" alt="stack typing" />
@@ -241,7 +243,7 @@ langs    = PT · EN · FR
 
 ---
 
-<sub>Arcangelo &copy;2026 &nbsp;·&nbsp;</sub>
+<sub>· Arcangelo &copy;2026 &nbsp;·&nbsp;</sub>
 
 <br/>
 
