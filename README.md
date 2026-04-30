@@ -87,7 +87,7 @@ langs    = PT · EN · FR
 <a href="https://github.com/ARCANGEL0/NekoCLI"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=NekoCLI&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/tor-chat"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=tor-chat&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/EzyMap"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=EzyMap&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
-<a href="https://github.com/ARCANGEL0/dotfiles-kde"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=dotfiles-kde&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
+<a href="https://github.com/ARCANGEL0/ResumeMe"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=ResumeMe&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 <a href="https://github.com/ARCANGEL0/netrunner-cli"><img src="https://github-readme-stats.zcy.dev/api/pin?username=ARCANGEL0&repo=netrunner-cli&theme=transparent&bg_color=00000000&border_radius=14&show_owner=true&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88" /></a>
 
 </div>
