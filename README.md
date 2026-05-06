@@ -100,15 +100,7 @@ langs    = PT · EN · FR
 ![3D](https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/profile-3d-contrib/profile-night-green.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&theme=transparent&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00cc66&dates=00cc66&card_width=1000" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&show_icons=true&theme=transparent&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88&ring_color=00ff88&include_all_commits=true&count_private=true&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&layout=compact&theme=transparent&hide_border=true&title_color=00ff88&text_color=00cc66&icon_color=00ff88&langs_count=8&hide=CSS,HTML,ROFF,LESS,blade,GLSL,Jupyter%20Notebook,SCSS" />
-
-<br/>
  
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCANGEL0&theme=high-contrast&hide_border=true&bg_color=00000000&color=00ff88&line=00cc66&point=00ff88&area=true&area_color=00ff8822" />
 
 </div>
@@ -235,6 +227,7 @@ langs    = PT · EN · FR
 [![ArcangelOS](https://img.shields.io/badge/ArcangelOS-000?style=for-the-badge&logo=uikit&logoColor=aaa)](https://arcangelo.net)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00aaff)](https://discord.com/users/716015207713079447)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=lospec&logoColor=00ccff)](https://www.linkedin.com/in/henryarcangelo/)
+[![Codepen](https://img.shields.io/badge/CodePen-000?style=for-the-badge&&logoColor=fff&logo=mingww64)](https://codepen.io/arcxlo_)
 [![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:henry@arcangelo.net)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=00ff88)](https://wa.me/351927285125)
 [![Steam](https://img.shields.io/badge/steam-000?style=for-the-badge&logo=steam&logoColor=c7d5e0)](https://www.steamcommunity.com/id/arcxlo)
