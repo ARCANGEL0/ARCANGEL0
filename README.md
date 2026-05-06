@@ -12,7 +12,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/CODING%20SINCE%200b1111-000000?style=for-the-badge&color=111)
 &nbsp;
-[![CV](https://img.shields.io/badge/MY%20CV-000?style=for-the-badge&logo=googledocs&logoColor=00ff88&color=111)](https://arcangelo.net/home/arcangelo/resume.pdf)
+[![CV](https://img.shields.io/badge/MY%20CV-000?style=for-the-badge&logo=googledocs&logoColor=00ff88&color=111)](https://arcangelo.net/resume.pdf)
 
 </div>
 
@@ -54,7 +54,7 @@ langs    = PT · EN · FR
 ```
 
 </td> <td width="15"  >
-  <a href="https://fallout.arcangelo.net">
+  <a href="https://arcangelo.net/1">
     <img src="https://media.tenor.com/3v2pOuthO0UAAAAM/gaming.gif" width="420" height="460"/>
   </a>
   <br/>
