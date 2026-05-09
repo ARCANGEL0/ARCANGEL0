@@ -12,7 +12,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/CODING%20SINCE%200b1111-000000?style=for-the-badge&color=111)
 &nbsp;
-[![CV](https://img.shields.io/badge/MY%20CV-000?style=for-the-badge&logo=googledocs&logoColor=00ff88&color=111)](https://arcangelo.net/resume.pdf)
+[![CV](https://img.shields.io/badge/MY%20CV-000?style=for-the-badge&logo=googledocs&logoColor=00ff88&color=111)](https://arcangelo.net/home/arcangelo/resume.pdf)
 
 </div>
 
