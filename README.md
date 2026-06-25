@@ -1,18 +1,8 @@
 <div align="center">
  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&repeat=false&weight=700&size=42&pause=800&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=%24+whoami;developer+%2F+hacker+%2F+musician;%E2%9F%AC%E2%8A%B3+%CE%BBrcangel%C3%B8+%E2%8A%B2%E2%9F%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&repeat=false&weight=700&size=42&pause=800&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=%24+whoami;%CE%BBrcangel%C3%B8+%E2%8A%B2" alt="Typing SVG" />
 </div>
-
-<br/>
-
-![](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20WORK-000000?style=for-the-badge&color=0066f88)
-&nbsp;
-![](https://img.shields.io/badge/Porto%20%F0%9F%87%B5%F0%9F%87%B9%20PT-000000?style=for-the-badge&color=111)
-&nbsp;
-![](https://img.shields.io/badge/CODING%20SINCE%200b1111-000000?style=for-the-badge&color=111)
-&nbsp;
-[![CV](https://img.shields.io/badge/MY%20CV-000?style=for-the-badge&logo=googledocs&logoColor=00ff88&color=111)](https://arcangelo.net/home/arcangelo/resume.pdf)
 
 </div>
 
@@ -26,7 +16,7 @@
 root@arcangel0 ~ $ cat about.conf
 ```
 ```ini
-[identity]
+[me]
 name   = Henry Arcangelo
 handle = ARCANGEL0
 role   = Developer
@@ -34,9 +24,9 @@ degree = Computer Engineering (studying)
 age    = √( 5! / 4! )⁴ 
 
 [stack]
-os       = Arch 𖤂
-editor   = Helix / Nano
-langs    = TypeScript · Python · PHP · Java
+os       = Arch 𖤂 (btw)
+editor   = Fresh / Nano
+langs    = TypeScript · Python · PHP · Java (Studying)
 frontend = React.js + Native · Next.js · Vue.js · TailwindCSS
 backend  = Node.js · Django · Flask · Laravel · Express 
 infra    = Docker · Nginx · MS Server · Apache
@@ -44,9 +34,9 @@ cloud    = Cloudflare, AWS, Azure, DigitalOcean, Vercel
 ci-cd    = GitHub Actions · GitLab CI · Jenkins
 db       = PostgreSQL · MongoDB · SQLite · Firebase · MySQL
 
-[mission]
-target   = Offensive Security · Backend · DevOps
-status   = OPEN TO WORK ●
+[field]
+main   = Software Development · Backend · DevOps
+goal   = Cybersecurity · Network Engineering
 
 [locale]
 location = Porto, Portugal
@@ -228,7 +218,6 @@ langs    = PT · EN · FR
 
 [![ArcangelOS](https://img.shields.io/badge/ArcangelOS-000?style=for-the-badge&logo=uikit&logoColor=aaa)](https://arcangelo.net)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=00aaff)](https://discord.com/users/716015207713079447)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=lospec&logoColor=00ccff)](https://www.linkedin.com/in/henryarcangelo/)
 [![Codepen](https://img.shields.io/badge/CodePen-000?style=for-the-badge&&logoColor=fff&logo=mingww64)](https://codepen.io/arcxlo_)
 [![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:henry@arcangelo.net)
 [![WhatsApp](https://img.shields.io/badge/whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=00ff88)](https://wa.me/351927285125)
@@ -247,12 +236,10 @@ langs    = PT · EN · FR
   <img height='36' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
-<br/><br/>
-
 **Profile Views**
 
 <a href="https://github.com/sponsors/ARCANGEL0/">
-  <img src="https://count.getloli.com/@ARCANGEL0?name=ARCANGEL0&theme=booru-lewd&padding=10&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1"/>
+  <img src="https://count.getloli.com/@ARCANGEL0?name=ARCANGEL0&theme=minecraft&padding=10&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1"/>
 </a>
 
 </div>
