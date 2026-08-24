@@ -91,8 +91,7 @@ langs    = PT · EN · FR
 
 ![3D](https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/refs/heads/master/profile-3d-contrib/profile-night-green.svg)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&theme=transparent&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00cc66&dates=00cc66&card_width=1000" />
- 
+ ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&theme=transparent&ring=00ff88&fire=00ff88&hide_border=true&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=00cc66&sideLabels=00cc66&dates=00cc66&card_width=1000)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCANGEL0&theme=high-contrast&hide_border=true&bg_color=00000000&color=00ff88&line=00cc66&point=00ff88&area=true&area_color=00ff8822" />
 
 </div>
