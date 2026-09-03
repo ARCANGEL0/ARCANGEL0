@@ -26,7 +26,7 @@ age    = √( 5! / 4! )⁴
 [stack]
 os       = Arch 𖤂 (btw)
 editor   = Fresh / Nano
-langs    = TypeScript · Python · PHP · Java (Studying)
+langs    = TypeScript · Python · Lua · PHP · C++ (Studying)
 frontend = React.js + Native · Next.js · Vue.js · TailwindCSS
 backend  = Node.js · Django · Flask · Laravel · Express 
 infra    = Docker · Nginx · MS Server · Apache
@@ -39,8 +39,8 @@ main   = Software Development · Backend · DevOps
 goal   = Cybersecurity · Network Engineering
 
 [locale]
-location = Porto, Portugal
-langs    = PT · EN · FR  
+langs   = pt-PT, en-UK, es-ES
+charset = UTF-8
 ```
 
 </td> <td width="15"  >
