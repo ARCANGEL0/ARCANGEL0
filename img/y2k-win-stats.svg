@@ -1,44 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-label="stats.exe — GitHub stats for ARCANGEL0, Win95 style">
-  <!-- window frame -->
   <rect width="900" height="160" fill="#C0C0C0"/>
   <rect x="0" y="0" width="900" height="1" fill="#FFFFFF"/>
   <rect x="0" y="0" width="1" height="160" fill="#FFFFFF"/>
   <rect x="0" y="159" width="900" height="1" fill="#404040"/>
   <rect x="899" y="0" width="1" height="160" fill="#404040"/>
-
-  <!-- titlebar -->
-  <rect x="1" y="1" width="898" height="18" fill="#000080"/>
+  <rect x="1" y="1" width="900" height="18" fill="#000080"/>
   <text x="5" y="13" font-family="MS Sans Serif,Verdana,sans-serif" font-weight="bold" font-size="11" fill="#FFFFFF">STATS.exe — ARCANGEL0</text>
-  <rect x="846" y="3" width="16" height="14" fill="#C0C0C0"/>
-  <rect x="846" y="3" width="16" height="1" fill="#FFFFFF"/>
-  <rect x="846" y="3" width="1" height="14" fill="#FFFFFF"/>
-  <rect x="846" y="16" width="16" height="1" fill="#404040"/>
-  <rect x="861" y="3" width="1" height="14" fill="#404040"/>
-  <rect x="850" y="12" width="6" height="2" fill="#000000"/>
-  <rect x="864" y="3" width="16" height="14" fill="#C0C0C0"/>
-  <rect x="864" y="3" width="16" height="1" fill="#FFFFFF"/>
-  <rect x="864" y="3" width="1" height="14" fill="#FFFFFF"/>
-  <rect x="864" y="16" width="16" height="1" fill="#404040"/>
-  <rect x="879" y="3" width="1" height="14" fill="#404040"/>
-  <rect x="869" y="7" width="7" height="6" fill="none" stroke="#000000" stroke-width="1"/>
-  <rect x="869" y="7" width="7" height="2" fill="#000000"/>
-  <rect x="882" y="3" width="16" height="14" fill="#C0C0C0"/>
-  <rect x="882" y="3" width="16" height="1" fill="#FFFFFF"/>
-  <rect x="882" y="3" width="1" height="14" fill="#FFFFFF"/>
-  <rect x="882" y="16" width="16" height="1" fill="#404040"/>
-  <rect x="897" y="3" width="1" height="14" fill="#404040"/>
-  <path d="M886.5,6.5 L893.5,13.5 M893.5,6.5 L886.5,13.5" stroke="#000000" stroke-width="2"/>
+    <rect x="765" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="765" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="765" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="765" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="781" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="783" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="783" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="783" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="783" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="799" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="801" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="801" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="801" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="801" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="817" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="777" y="12" width="6" height="2" fill="#000000"/>
+  <rect x="795" y="7" width="7" height="7" fill="none" stroke="#000000" stroke-width="0.8"/>
+  <rect x="813" y="7" width="7" height="6" fill="none" stroke="#000000" stroke-width="1"/>
+  <rect x="813" y="7" width="7" height="2" fill="#000000"/>
 
-  <!-- stats panel -->
-  <rect x="8" y="24" width="884" height="127" fill="#FFFFFF"/>
-  <rect x="8" y="24" width="884" height="1" fill="#808080"/>
-  <rect x="8" y="24" width="1" height="127" fill="#808080"/>
-  <rect x="8" y="150" width="884" height="1" fill="#DFDFDF"/>
-  <rect x="891" y="24" width="1" height="127" fill="#DFDFDF"/>
+  <path d="M787,6.5 L805,13.5 M805,6.5 L787,13.5" stroke="#000000" stroke-width="2"/>
+
+  <rect x="8" y="23" width="884" height="128" fill="#FFFFFF"/>
+  <rect x="8" y="23" width="884" height="1" fill="#808080"/>
+  <rect x="8" y="23" width="1" height="128" fill="#808080"/>
+  <rect x="8" y="151" width="884" height="1" fill="#DFDFDF"/>
+  <rect x="892" y="23" width="1" height="128" fill="#DFDFDF"/>
+
 
   <text x="18" y="44" font-family="MS Sans Serif,Verdana,sans-serif" font-weight="bold" font-size="11" fill="#000080">GitHub statistics</text>
 
-  <!-- 4 stat cells -->
   <g font-family="MS Sans Serif,Verdana,sans-serif">
     <!-- repos -->
     <rect x="18" y="60" width="210" height="50" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
@@ -46,7 +44,7 @@
     <rect x="18" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="18" y="109" width="210" height="1" fill="#404040"/>
     <rect x="227" y="60" width="1" height="50" fill="#404040"/>
-    <text x="28" y="80" font-size="13" fill="#000000">44</text>
+    <text x="28" y="80" font-size="13" fill="#000000">33</text>
     <text x="28" y="99" font-size="9" fill="#404040">public repos</text>
 
     <!-- stars -->
@@ -55,7 +53,7 @@
     <rect x="240" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="240" y="109" width="210" height="1" fill="#404040"/>
     <rect x="449" y="60" width="1" height="50" fill="#404040"/>
-    <text x="250" y="80" font-size="13" fill="#000000">1122</text>
+    <text x="250" y="80" font-size="13" fill="#000000">1124</text>
     <text x="250" y="99" font-size="9" fill="#404040">stars</text>
 
     <!-- forks -->
@@ -72,12 +70,11 @@
     <rect x="684" y="60" width="208" height="1" fill="#FFFFFF"/>
     <rect x="684" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="684" y="109" width="208" height="1" fill="#404040"/>
-    <rect x="891" y="60" width="1" height="50" fill="#404040"/>
+    <rect x="892" y="60" width="1" height="50" fill="#404040"/>
     <text x="694" y="80" font-size="13" fill="#000000">91</text>
     <text x="694" y="99" font-size="9" fill="#404040">followers</text>
   </g>
 
-  <!-- bottom row: account age + top langs -->
   <rect x="18" y="120" width="264" height="22" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
   <rect x="18" y="120" width="264" height="1" fill="#FFFFFF"/>
   <rect x="18" y="120" width="1" height="22" fill="#FFFFFF"/>
@@ -85,10 +82,10 @@
   <rect x="281" y="120" width="1" height="22" fill="#404040"/>
   <text x="28" y="134" font-size="10" fill="#000000">member since Jul 24, 2018 · 91 followers · 13 following</text>
 
-  <rect x="284" y="120" width="598" height="22" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
-  <rect x="284" y="120" width="598" height="1" fill="#FFFFFF"/>
+  <rect x="284" y="120" width="608" height="22" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
+  <rect x="284" y="120" width="608" height="1" fill="#FFFFFF"/>
   <rect x="284" y="120" width="1" height="22" fill="#FFFFFF"/>
-  <rect x="284" y="141" width="598" height="1" fill="#404040"/>
-  <rect x="881" y="120" width="1" height="22" fill="#404040"/>
-  <text x="294" y="134" font-size="10" fill="#000000">top languages: Python · JavaScript · TypeScript · QML · PHP</text>
+  <rect x="284" y="141" width="608" height="1" fill="#404040"/>
+  <rect x="892" y="120" width="1" height="22" fill="#404040"/>
+  <text x="294" y="134" font-size="10" fill="#000000">top languages: Python · JavaScript · Unknown · TypeScript · QML</text>
 </svg>

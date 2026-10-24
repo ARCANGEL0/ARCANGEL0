@@ -1,0 +1,21 @@
+name: profile stats
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/profile_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          git config user.name "arcxlo"
+          git config user.email "henry@arcangelo.net"
+          git add img/y2k-win-stats.svg img/y2k-win-achievements.svg
+          git diff --cached --quiet || git commit -m "profile stats - [Skip GitHub Action]"
+          git push
