@@ -46,7 +46,7 @@
   <text x="14" y="89">handle = arcxlo</text>
   <text x="14" y="105">role   = Developer</text>
   <text x="14" y="121">degree = Computer Engineering (studying)</text>
-  <text x="14" y="137">age    = √( 5! / 4! )⁴</text>
+  <text x="14" y="137">age    = <tspan font-size="18">∫</tspan><tspan dy="-7" font-size="9">3</tspan><tspan dy="14" font-size="9">1</tspan><tspan dy="-7" font-size="12"> 3x</tspan><tspan dy="-5" font-size="9">2</tspan><tspan dy="5" font-size="12"> dx</tspan></text>
   <text x="14" y="169">[stack]</text>
   <text x="14" y="185">os       = Arch 𖤂 (btw)</text>
   <text x="14" y="201">editor   = Fresh / Nano</text>
