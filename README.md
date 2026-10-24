@@ -79,7 +79,7 @@
 <div align="center">
 
 <details>
-<summary><b>telemetry.exe</b> <sub>· click to expand ·</sub></summary>
+<summary><b>telemetry.exe</b></summary>
 <br/>
 
 <div align="center">
