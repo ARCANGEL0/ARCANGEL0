@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="achievements.exe — GitHub profile achievements for ARCANGEL0, Win95 style">
+  <!-- window frame -->
+  <rect width="900" height="200" fill="#C0C0C0"/>
+  <rect x="0" y="0" width="900" height="1" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1" height="200" fill="#FFFFFF"/>
+  <rect x="0" y="199" width="900" height="1" fill="#404040"/>
+  <rect x="899" y="0" width="1" height="200" fill="#404040"/>
+
+  <!-- titlebar -->
+  <rect x="1" y="1" width="898" height="18" fill="#000080"/>
+  <text x="5" y="13" font-family="MS Sans Serif,Verdana,sans-serif" font-weight="bold" font-size="11" fill="#FFFFFF">ACHIEVEMENTS.exe — ARCANGEL0</text>
+  <rect x="846" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="846" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="846" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="846" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="861" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="850" y="12" width="6" height="2" fill="#000000"/>
+  <rect x="864" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="864" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="864" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="864" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="879" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="869" y="7" width="7" height="6" fill="none" stroke="#000000" stroke-width="1"/>
+  <rect x="869" y="7" width="7" height="2" fill="#000000"/>
+  <rect x="882" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="882" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="882" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="882" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="897" y="3" width="1" height="14" fill="#404040"/>
+  <path d="M886.5,6.5 L893.5,13.5 M893.5,6.5 L886.5,13.5" stroke="#000000" stroke-width="2"/>
+
+  <!-- content pane -->
+  <rect x="8" y="23" width="884" height="169" fill="#FFFFFF"/>
+  <rect x="8" y="23" width="884" height="1" fill="#808080"/>
+  <rect x="8" y="23" width="1" height="169" fill="#808080"/>
+  <rect x="8" y="191" width="884" height="1" fill="#DFDFDF"/>
+  <rect x="891" y="23" width="1" height="169" fill="#DFDFDF"/>
+
+  <text x="18" y="46" font-family="MS Sans Serif,Verdana,sans-serif" font-weight="bold" font-size="11" fill="#000080">Profile achievements</text>
+  <text x="18" y="64" font-family="'Courier New',Courier,monospace" font-size="10" fill="#404040">account · created Jul 24, 2018</text>
+  <text x="18" y="82" font-family="'Courier New',Courier,monospace" font-size="10" fill="#404040">public repositories · 44</text>
+  <text x="18" y="100" font-family="'Courier New',Courier,monospace" font-size="10" fill="#404040">stars · 1122 · forks · 162</text>
+  <text x="18" y="118" font-family="'Courier New',Courier,monospace" font-size="10" fill="#404040">followers · 91 · following · 13</text>
+  <rect x="18" y="134" width="864" height="1" fill="#C0C0C0"/>
+  <text x="18" y="154" font-family="MS Sans Serif,Verdana,sans-serif" font-size="10" fill="#000080">badge icons: 0 unlocked · 0 pending · no data</text>
+  <rect x="18" y="168" width="48" height="48" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
+  <rect x="18" y="168" width="48" height="1" fill="#FFFFFF"/>
+  <rect x="18" y="168" width="1" height="48" fill="#FFFFFF"/>
+  <rect x="18" y="215" width="48" height="1" fill="#404040"/>
+  <rect x="65" y="168" width="1" height="48" fill="#404040"/>
+  <text x="42" y="192" text-anchor="middle" font-family="MS Sans Serif,Verdana,sans-serif" font-size="8" fill="#000000">none</text>
+  <text x="78" y="188" font-family="MS Sans Serif,Verdana,sans-serif" font-size="10" fill="#000000">· no data ·</text>
+</svg>
