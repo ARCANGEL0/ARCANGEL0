@@ -16,6 +16,6 @@ jobs:
       - run: |
           git config user.name "arcxlo"
           git config user.email "henry@arcangelo.net"
-          git add img/y2k-win-stats.svg img/y2k-win-achievements.svg
+          git add img/y2k-win-stats.svg img/y2k-top-langs.svg img/y2k-win-achievements.svg
           git diff --cached --quiet || git commit -m "profile stats - [Skip GitHub Action]"
           git push

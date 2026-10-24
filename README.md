@@ -85,7 +85,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=false&border_radius=0&background=C0C0C0&ring=000080&fire=FF8C00&currStreakNum=000080&sideNums=000000&currStreakLabel=000080&sideLabels=404040&dates=606060" width="49%" alt="streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&layout=compact&bg_color=C0C0C0&title_color=000080&text_color=000000&border_color=000080&border_radius=0&langs_count=10" width="49%" alt="top languages"/>
+<a href="#"><img src="img/y2k-top-langs.svg" width="49%" alt="top languages"/></a>
 <a href="#"><img src="img/y2k-win-stats.svg" width="100%" alt="GitHub stats — ARCANGEL0"/></a>
 
 </div>
