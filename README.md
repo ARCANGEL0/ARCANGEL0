@@ -81,7 +81,7 @@
 <div align="center">
 
 <details>
-<summary><img src="img/y2k-win-telemetry.svg" width="640" alt="telemetry.exe — click to expand"/></summary>
+<summary><b>telemetry.exe</b> <sub>· click to expand ·</sub></summary>
 <br/>
 
 <div align="center">
@@ -101,7 +101,7 @@
 
 <img src="img/y2k-chess.svg" width="100%" alt="chess.exe — arcxl0 on chess.com"/>
 
-<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/profile-metrics/steam.svg" width="60%" alt="steam — arcxlo"/>
+<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/profile-metrics/steam.svg" width="49%" alt="steam — arcxlo"/>
 
 <div align="center">
 
