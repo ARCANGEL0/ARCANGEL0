@@ -1,0 +1,60 @@
+name: metrics
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+permissions:
+  contents: write
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ARCANGEL0/metrics@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ARCANGEL0
+          filename: profile-metrics/isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ARCANGEL0/metrics@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ARCANGEL0
+          filename: profile-metrics/habits.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+  stargazers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ARCANGEL0/metrics@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ARCANGEL0
+          filename: profile-metrics/stargazers.svg
+          base: ""
+          plugin_stargazers: yes
+  steam:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ARCANGEL0/metrics@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ARCANGEL0
+          filename: profile-metrics/steam.svg
+          base: ""
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561198154690284"
+          plugin_steam_sections: player, recently-played, most-played
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 3

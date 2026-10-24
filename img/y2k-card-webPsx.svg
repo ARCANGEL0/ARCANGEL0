@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="124" viewBox="0 0 320 124" role="img" aria-label="webPsx download">
+  <rect width="320" height="124" fill="#F5EFDC"/>
+  <rect x="2" y="2" width="316" height="120" fill="none" stroke="#8A6D4B" stroke-width="2" stroke-dasharray="5 3"/>
+  <g>
+    <rect x="14" y="12" width="24" height="18" fill="#8A6D4B"/>
+    <rect x="16" y="14" width="20" height="13" fill="#7EC8E8"/>
+    <rect x="22" y="30" width="8" height="2" fill="#5A4632"/>
+  </g>
+  <text x="46" y="22" font-family="'Comic Sans MS','Comic Neue',cursive" font-weight="bold" font-size="15" fill="#5A4632">webPsx</text>
+  <text x="46" y="35" font-family="'Courier New',Courier,monospace" font-size="8" fill="#8A6D4B">vanilla js · three.js · webgl</text>
+  <text x="12" y="52" font-family="'Courier New',Courier,monospace" font-size="8" fill="#6B553D">A framework-free indie portfolio built with vanilla</text>
+  <text x="12" y="61" font-family="'Courier New',Courier,monospace" font-size="8" fill="#6B553D">JavaScript, HTML/CSS, Three.js, and WebGL. It features</text>
+  <text x="12" y="70" font-family="'Courier New',Courier,monospace" font-size="8" fill="#6B553D">a walkable PS1-inspired apartment, multilingual</text>
+  <text x="12" y="79" font-family="'Courier New',Courier,monospace" font-size="8" fill="#6B553D">interface, music player, browser games, and custom</text>
+  <text x="12" y="88" font-family="'Courier New',Courier,monospace" font-size="8" fill="#6B553D">shaders for its retro rendering effects.</text>
+  <text x="160" y="112" text-anchor="middle" font-family="'Comic Sans MS','Comic Neue',cursive" font-weight="bold" font-size="10" fill="#8A6D4B">· download ·</text>
+  <g stroke="#D6A800" stroke-width="1.2" fill="none">
+    <path d="M286 16V24 M282 20H290 M283 17L289 23 M289 17L283 23"/>
+    <animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1.5s" repeatCount="indefinite"/>
+  </g>
+</svg>

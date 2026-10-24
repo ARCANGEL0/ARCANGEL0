@@ -1,0 +1,19 @@
+name: chess
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/chess_card.py
+      - run: |
+          git config user.name "arcxlo"
+          git config user.email "henry@arcangelo.net"
+          git add img/y2k-chess.svg
+          git diff --cached --quiet || git commit -m "chess card - [Skip GitHub Action]"
+          git push
