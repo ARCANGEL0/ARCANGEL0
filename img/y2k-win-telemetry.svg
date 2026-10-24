@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30" role="img" aria-label="telemetry.exe window title bar, Win95 style, click to expand">
+  <rect width="900" height="30" fill="#C0C0C0"/>
+  <rect x="0" y="0" width="900" height="1" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1" height="30" fill="#FFFFFF"/>
+  <rect x="0" y="29" width="900" height="1" fill="#404040"/>
+  <rect x="899" y="0" width="1" height="30" fill="#404040"/>
+  <rect x="1" y="1" width="898" height="18" fill="#000080"/>
+  <text x="5" y="14" font-family="MS Sans Serif,Verdana,sans-serif" font-weight="bold" font-size="12" fill="#FFFFFF">▸ telemetry.exe</text>
+  <text x="838" y="14" text-anchor="end" font-family="MS Sans Serif,Verdana,sans-serif" font-size="10" fill="#9FC3E8">· click to expand ·</text>
+  <rect x="846" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="846" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="846" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="846" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="861" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="850" y="12" width="6" height="2" fill="#000000"/>
+  <rect x="864" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="864" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="864" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="864" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="879" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="869" y="7" width="7" height="6" fill="none" stroke="#000000" stroke-width="1"/>
+  <rect x="869" y="7" width="7" height="2" fill="#000000"/>
+  <rect x="882" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="882" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="882" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="882" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="897" y="3" width="1" height="14" fill="#404040"/>
+  <path d="M886.5,6.5 L893.5,13.5 M893.5,6.5 L886.5,13.5" stroke="#000000" stroke-width="2"/>
+</svg>

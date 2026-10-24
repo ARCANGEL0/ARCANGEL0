@@ -31,12 +31,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&show_icons=true&hide_border=false&hide_rank=true&border_radius=0&include_all_commits=true&count_private=true&bg_color=C0C0C0&title_color=000080&text_color=000000&icon_color=000080&border_color=000080" width="61%" alt="GitHub stats — ARCANGEL0"/>
-<img src="img/y2k-win-nav.svg" width="37%" alt="NAVIGATION.exe"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&show_icons=true&hide_border=false&hide_rank=true&border_radius=0&include_all_commits=true&count_private=true&bg_color=C0C0C0&title_color=000080&text_color=000000&icon_color=000080&border_color=000080" width="100%" alt="GitHub stats — ARCANGEL0"/>
 
 </div>
 
 <div align="left">
+
+<img src="img/y2k-win-nav.svg" width="340" alt="Socialring.html"/>
 
 **C:\ARCANGEL0**
 
@@ -80,7 +81,7 @@
 <div align="center">
 
 <details>
-<summary><b>telemetry</b></summary>
+<summary><img src="img/y2k-win-telemetry.svg" width="640" alt="telemetry.exe — click to expand"/></summary>
 <br/>
 
 <div align="center">
@@ -100,7 +101,7 @@
 
 <img src="img/y2k-chess.svg" width="100%" alt="chess.exe — arcxl0 on chess.com"/>
 
-<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/profile-metrics/steam.svg" width="100%" alt="steam — arcxlo"/>
+<img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/profile-metrics/steam.svg" width="60%" alt="steam — arcxlo"/>
 
 <div align="center">
 
@@ -169,7 +170,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-050008?style=flat-square&logo=fastapi&logoColor=FF2FD6)
 ![GraphQL](https://img.shields.io/badge/GraphQL-050008?style=flat-square&logo=graphql&logoColor=FF2FD6)
 
-**`▪ ops & infra`**
+**`▪ InfraOps / Cloud / Databases`**
 
 ![Docker](https://img.shields.io/badge/Docker-050008?style=flat-square&logo=docker&logoColor=39FF14)
 ![Nginx](https://img.shields.io/badge/Nginx-050008?style=flat-square&logo=nginx&logoColor=39FF14)
@@ -181,12 +182,22 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-050008?style=flat-square&logo=jenkins&logoColor=39FF14)
 ![Terraform](https://img.shields.io/badge/Terraform-050008?style=flat-square&logo=terraform&logoColor=39FF14)
 ![Ansible](https://img.shields.io/badge/Ansible-050008?style=flat-square&logo=ansible&logoColor=39FF14)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-050008?style=flat-square&logo=kubernetes&logoColor=39FF14)
+![Proxmox](https://img.shields.io/badge/Proxmox-050008?style=flat-square&logo=proxmox&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050008?style=flat-square&logo=postgresql&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-050008?style=flat-square&logo=mongodb&logoColor=39FF14)
+![SQLite](https://img.shields.io/badge/SQLite-050008?style=flat-square&logo=sqlite&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-050008?style=flat-square&logo=mysql&logoColor=39FF14)
+![MS SQL](https://img.shields.io/badge/MS_SQL-050008?style=flat-square&logo=microsoftsqlserver&logoColor=39FF14)
+![MariaDB](https://img.shields.io/badge/MariaDB-050008?style=flat-square&logo=mariadb&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/Redis-050008?style=flat-square&logo=redis&logoColor=39FF14)
+![Firebase](https://img.shields.io/badge/Firebase-050008?style=flat-square&logo=firebase&logoColor=39FF14)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-050008?style=flat-square&logo=phpmyadmin&logoColor=39FF14)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-050008?style=flat-square)
+![DBeaver](https://img.shields.io/badge/DBeaver-050008?style=flat-square)
 
 **`▪ data & tools`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-050008?style=flat-square&logo=postgresql&logoColor=FFD319)
-![MongoDB](https://img.shields.io/badge/MongoDB-050008?style=flat-square&logo=mongodb&logoColor=FFD319)
-![SQLite](https://img.shields.io/badge/SQLite-050008?style=flat-square&logo=sqlite&logoColor=FFD319)
 ![VS Code](https://img.shields.io/badge/VS_Code-050008?style=flat-square&logo=visualstudiocode&logoColor=FFD319)
 ![Postman](https://img.shields.io/badge/Postman-050008?style=flat-square&logo=postman&logoColor=FFD319)
 ![Figma](https://img.shields.io/badge/Figma-050008?style=flat-square&logo=figma&logoColor=FFD319)

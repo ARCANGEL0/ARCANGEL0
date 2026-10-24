@@ -20,13 +20,28 @@
   <text x="160" y="37" text-anchor="middle" font-family="'Arial Black',Arial,sans-serif" font-style="italic" font-size="19" letter-spacing="1" fill="#3ED7FF" stroke="#000000" stroke-width="0.5" filter="url(#glow)">SIGN THE GUESTBOOK
     <animate attributeName="fill" values="#3ED7FF;#7FDCF5;#3ED7FF" dur="2.2s" repeatCount="indefinite"/>
   </text>
-  <path d="M52 8v6 M49 11h6 M263 60v6 M260 63h6" stroke="#3ED7FF" stroke-width="1.2" fill="none">
+  <path d="M52 8v6 M49 11h6" stroke="#3ED7FF" stroke-width="1.2" fill="none">
     <animate attributeName="opacity" values="0;1;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
   </path>
-  <path d="M270 10v5 M267.5 12.5h5 M46 58v5 M43.5 60.5h5" stroke="#FFE066" stroke-width="1" fill="none">
+  <path d="M270 10v5 M267.5 12.5h5" stroke="#FFE066" stroke-width="1" fill="none">
     <animate attributeName="opacity" values="1;0;1" calcMode="discrete" dur="1.5s" repeatCount="indefinite"/>
   </path>
-  <text x="160" y="58" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#B9C4D4">✉ click to sign — it's free ✉
+  <text x="120" y="58" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#B9C4D4">✉ click to sign — it's free ✉
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.6;0.6;1" dur="1.4s" repeatCount="indefinite"/>
   </text>
+  <g>
+    <text x="222" y="59" text-anchor="end" font-family="'Courier New',Courier,monospace" font-size="7" fill="#B9C4D4">hits</text>
+    <rect x="230" y="50" width="11" height="12" fill="#000000" stroke="#2FB9E8" stroke-width="0.8"/>
+    <rect x="243" y="50" width="11" height="12" fill="#000000" stroke="#2FB9E8" stroke-width="0.8"/>
+    <rect x="256" y="50" width="11" height="12" fill="#000000" stroke="#2FB9E8" stroke-width="0.8"/>
+    <rect x="269" y="50" width="11" height="12" fill="#000000" stroke="#2FB9E8" stroke-width="0.8"/>
+    <rect x="282" y="50" width="11" height="12" fill="#000000" stroke="#2FB9E8" stroke-width="0.8"/>
+    <rect x="295" y="50" width="11" height="12" fill="#000000" stroke="#2FB9E8" stroke-width="0.8"/>
+    <text x="235.5" y="59" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="9" fill="#39FF14">0</text>
+    <text x="248.5" y="59" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="9" fill="#39FF14">4</text>
+    <text x="261.5" y="59" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="9" fill="#39FF14">2</text>
+    <text x="274.5" y="59" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="9" fill="#39FF14">0</text>
+    <text x="287.5" y="59" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="9" fill="#39FF14">6</text>
+    <text x="300.5" y="59" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="9" fill="#39FF14">9</text>
+  </g>
 </svg>

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# y2k chess card for arcxl0 (chess.com) -> img/y2k-chess.svg
+# y2k chess card for arcxl0 (chess.com) -> img/y2k-chess.svg (win95 window style)
 import json, sys, urllib.request
 from collections import Counter
 from datetime import datetime, timezone
@@ -56,43 +56,86 @@ puzzle = stats.get("tactics", {}).get("highest", {}).get("rating")
 last_online = datetime.fromtimestamp(profile["last_online"], tz=timezone.utc)
 ago = (datetime.now(timezone.utc) - last_online).days
 ago_txt = "today" if ago < 1 else f"{ago}d ago"
-fav = opp_counter.most_common(1)[0][0] if opp_counter else "-"
+fav = esc(opp_counter.most_common(1)[0][0]) if opp_counter else "-"
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="chess card for {esc(USER)} on chess.com">
-  <defs>
-    <linearGradient id="tb" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#000080"/><stop offset="1" stop-color="#1084d0"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="140" fill="#0A0A12"/>
-  <rect x="1.5" y="1.5" width="897" height="137" fill="none" stroke="#3A3A4A" stroke-width="3"/>
-  <rect x="4" y="4" width="892" height="22" fill="url(#tb)"/>
-  <text x="14" y="20" font-family="Tahoma,Verdana,sans-serif" font-weight="bold" font-size="12" fill="#FFFFFF">CHESS.EXE</text>
-  <rect x="858" y="8" width="14" height="13" fill="#C0C0C0" stroke="#000" stroke-width="1"/>
-  <text x="861" y="18" font-family="Tahoma,Verdana,sans-serif" font-size="10" fill="#000">x</text>
-  <rect x="838" y="8" width="14" height="13" fill="#C0C0C0" stroke="#000" stroke-width="1"/>
-  <rect x="841" y="11" width="8" height="7" fill="none" stroke="#000" stroke-width="1"/>
+# win95 window: 1px #FFFFFF top/left, 1px #404040 bottom/right, #000080 titlebar
+SANS = "MS Sans Serif,Verdana,sans-serif"
+MONO = "'Courier New',Courier,monospace"
+
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="CHESS.EXE - arcxl0 on chess.com, Win95 style">
+  <rect width="900" height="140" fill="#C0C0C0"/>
+  <rect x="0" y="0" width="900" height="1" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1" height="140" fill="#FFFFFF"/>
+  <rect x="0" y="139" width="900" height="1" fill="#404040"/>
+  <rect x="899" y="0" width="1" height="140" fill="#404040"/>
+  <rect x="1" y="1" width="898" height="18" fill="#000080"/>
+  <text x="5" y="13" font-family="{SANS}" font-weight="bold" font-size="11" fill="#FFFFFF">CHESS.EXE</text>
+  <rect x="846" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="846" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="846" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="846" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="861" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="850" y="12" width="6" height="2" fill="#000000"/>
+  <rect x="864" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="864" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="864" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="864" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="879" y="3" width="1" height="14" fill="#404040"/>
+  <rect x="869" y="7" width="7" height="6" fill="none" stroke="#000000" stroke-width="1"/>
+  <rect x="869" y="7" width="7" height="2" fill="#000000"/>
+  <rect x="882" y="3" width="16" height="14" fill="#C0C0C0"/>
+  <rect x="882" y="3" width="16" height="1" fill="#FFFFFF"/>
+  <rect x="882" y="3" width="1" height="14" fill="#FFFFFF"/>
+  <rect x="882" y="16" width="16" height="1" fill="#404040"/>
+  <rect x="897" y="3" width="1" height="14" fill="#404040"/>
+  <path d="M886.5,6.5 L893.5,13.5 M893.5,6.5 L886.5,13.5" stroke="#000000" stroke-width="2"/>
   <g>
 '''
-# 8x8 board
-sq = 11
-bx, by = 24, 40
+# 8x8 board in a sunken panel
+sq = 9
+bx, by = 16, 31
 for row in range(8):
     for col in range(8):
-        fill = "#9A9AA8" if (row + col) % 2 == 0 else "#2A2A38"
+        fill = "#FFFFFF" if (row + col) % 2 == 0 else "#A8A8B0"
         svg += f'  <rect x="{bx + col * sq}" y="{by + row * sq}" width="{sq}" height="{sq}" fill="{fill}"/>\n'
-# opening position pieces (glyphs)
-pieces = {(7, 4): ("♙", "#E8E8F0"), (6, 4): ("♟", "#101018"), (5, 5): ("♘", "#E8E8F0"), (1, 2): ("♞", "#F0F0FF")}
-for (row, col), (glyph, fill) in pieces.items():
-    svg += f'  <text x="{bx + col * sq + 1}" y="{by + row * sq + 10}" font-size="10" fill="{fill}">{glyph}</text>\n'
-svg += f'''  <rect x="{bx}" y="{by}" width="{8 * sq}" height="{8 * sq}" fill="none" stroke="#5A5A6A" stroke-width="1"/>
+# decorative opening position pieces
+pieces = {(7, 4): ("♙", "#FFFFFF", "#404040"), (6, 4): ("♟", "#101010", "none"),
+          (5, 4): ("♘", "#FFFFFF", "#404040"), (1, 3): ("♞", "#101010", "none")}
+for (row, col), (glyph, fill, stroke) in pieces.items():
+    extra = f' stroke="{stroke}" stroke-width="0.4"' if stroke != "none" else ""
+    svg += f'  <text x="{bx + col * sq + 1}" y="{by + row * sq + 8}" font-size="8.5"{extra} fill="{fill}">{glyph}</text>\n'
+svg += f'''  <rect x="{bx}" y="{by}" width="{8 * sq}" height="{8 * sq}" fill="none" stroke="#404040" stroke-width="1"/>
+  <rect x="8" y="23" width="88" height="88" fill="none" stroke="#FFFFFF" stroke-width="1" transform="translate(1,1)"/>
   </g>
-  <text x="140" y="52" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="15" fill="#FFFFFF">arcxl0 <tspan fill="#5A5A6A">·</tspan> <tspan fill="#00F0FF">chess.com</tspan></text>
-  <text x="140" y="70" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8A8A9A">daily games · mostly vs {esc(fav)}</text>
-  <text x="140" y="92" xml:space="preserve" font-family="'Courier New',Courier,monospace" font-weight="bold" font-size="13"><tspan fill="#39FF14">W {w}</tspan><tspan fill="#8A8A9A"> · </tspan><tspan fill="#FF4040">L {l}</tspan><tspan fill="#8A8A9A"> · </tspan><tspan fill="#C0C0C0">D {d}</tspan><tspan fill="#8A8A9A">   streak </tspan><tspan fill="#FFD319">{streak}</tspan></text>
-  <text x="140" y="110" font-family="'Courier New',Courier,monospace" font-size="9" fill="#8A8A9A">puzzles {puzzle if puzzle is not None else "-"} · last online {ago_txt} · {len(games)} game{'s' if len(games) != 1 else ''} tracked</text>
-  <text x="836" y="118" font-size="56" fill="#F0F0FF">♞</text>
-  <rect x="4" y="131" width="892" height="5" fill="#00F0FF" opacity="0.35"/>
+  <rect x="104" y="23" width="788" height="88" fill="#FFFFFF"/>
+  <rect x="104" y="23" width="788" height="1" fill="#808080"/>
+  <rect x="104" y="23" width="1" height="88" fill="#808080"/>
+  <rect x="104" y="110" width="788" height="1" fill="#DFDFDF"/>
+  <rect x="891" y="23" width="1" height="88" fill="#DFDFDF"/>
+  <text x="118" y="46" font-family="{SANS}" font-weight="bold" font-size="13" fill="#000000">arcxl0 <tspan fill="#000080">· chess.com</tspan></text>
+  <text x="118" y="68" xml:space="preserve" font-family="{SANS}" font-weight="bold" font-size="13" fill="#000000"><tspan fill="#008000">W {w}</tspan><tspan fill="#808080"> · </tspan><tspan fill="#800000">L {l}</tspan><tspan fill="#808080"> · </tspan><tspan fill="#000080">D {d}</tspan><tspan fill="#404040">   streak {streak}</tspan></text>
+  <text x="118" y="88" font-family="{MONO}" font-size="9" fill="#404040">daily games · mostly vs {fav} · puzzles {puzzle if puzzle is not None else "-"} · last online {ago_txt}</text>
+  <text x="118" y="102" font-family="{MONO}" font-size="9" fill="#808080">{len(games)} games tracked · data from the chess.com public api</text>
+  <rect x="8" y="119" width="190" height="15" fill="#C0C0C0"/>
+  <rect x="8" y="119" width="190" height="1" fill="#808080"/>
+  <rect x="8" y="119" width="1" height="15" fill="#808080"/>
+  <rect x="8" y="133" width="190" height="1" fill="#FFFFFF"/>
+  <rect x="197" y="119" width="1" height="15" fill="#FFFFFF"/>
+  <text x="14" y="130" font-family="{SANS}" font-size="10" fill="#000000">chess.com public api</text>
+  <rect x="202" y="119" width="110" height="15" fill="#C0C0C0"/>
+  <rect x="202" y="119" width="110" height="1" fill="#808080"/>
+  <rect x="202" y="119" width="1" height="15" fill="#808080"/>
+  <rect x="202" y="133" width="110" height="1" fill="#FFFFFF"/>
+  <rect x="311" y="119" width="1" height="15" fill="#FFFFFF"/>
+  <text x="208" y="130" font-family="{SANS}" font-size="10" fill="#000000">player: arcxl0</text>
+  <rect x="316" y="119" width="540" height="15" fill="#C0C0C0"/>
+  <rect x="316" y="119" width="540" height="1" fill="#808080"/>
+  <rect x="316" y="119" width="1" height="15" fill="#808080"/>
+  <rect x="316" y="133" width="540" height="1" fill="#FFFFFF"/>
+  <rect x="855" y="119" width="1" height="15" fill="#FFFFFF"/>
+  <text x="322" y="130" font-family="{SANS}" font-size="10" fill="#000000">games tracked: {len(games)} · updated daily</text>
+  <path d="M880 132 l7 -7 M884 132 l7 -7 M888 132 l7 -7 M892 132 l7 -7" stroke="#808080" stroke-width="1"/>
+  <path d="M880 133 l7 -7 M884 133 l7 -7 M888 133 l7 -7 M892 133 l7 -7" stroke="#FFFFFF" stroke-width="1"/>
 </svg>
 '''
 open(OUT, "w").write(svg)
