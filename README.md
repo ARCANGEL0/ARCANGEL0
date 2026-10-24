@@ -31,13 +31,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&show_icons=true&hide_border=false&hide_rank=true&border_radius=0&include_all_commits=true&count_private=true&bg_color=C0C0C0&title_color=000080&text_color=000000&icon_color=000080&border_color=000080" width="100%" alt="GitHub stats — ARCANGEL0"/>
+<img src="img/y2k-win-nav.svg" width="100%" alt="Socialring.html"/>
 
 </div>
 
 <div align="left">
-
-<img src="img/y2k-win-nav.svg" width="340" alt="Socialring.html"/>
 
 **C:\ARCANGEL0**
 
@@ -88,6 +86,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCANGEL0&hide_border=false&border_radius=0&background=C0C0C0&ring=000080&fire=FF8C00&currStreakNum=000080&sideNums=000000&currStreakLabel=000080&sideLabels=404040&dates=606060" width="49%" alt="streak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCANGEL0&layout=compact&bg_color=C0C0C0&title_color=000080&text_color=000000&border_color=000080&border_radius=0&langs_count=10" width="49%" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ARCANGEL0&show_icons=true&hide_border=false&hide_rank=true&border_radius=0&include_all_commits=true&count_private=true&bg_color=C0C0C0&title_color=000080&text_color=000000&icon_color=000080&border_color=000080" width="100%" alt="GitHub stats — ARCANGEL0"/>
 
 </div>
 
