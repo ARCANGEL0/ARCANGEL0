@@ -53,7 +53,7 @@
     <rect x="240" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="240" y="109" width="210" height="1" fill="#404040"/>
     <rect x="449" y="60" width="1" height="50" fill="#404040"/>
-    <text x="250" y="80" font-size="13" fill="#000000">1124</text>
+    <text x="250" y="80" font-size="13" fill="#000000">1125</text>
     <text x="250" y="99" font-size="9" fill="#404040">stars</text>
 
     <!-- forks -->
