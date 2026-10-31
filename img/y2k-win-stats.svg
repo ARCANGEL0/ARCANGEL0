@@ -53,7 +53,7 @@
     <rect x="240" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="240" y="109" width="210" height="1" fill="#404040"/>
     <rect x="449" y="60" width="1" height="50" fill="#404040"/>
-    <text x="250" y="80" font-size="13" fill="#000000">1125</text>
+    <text x="250" y="80" font-size="13" fill="#000000">1131</text>
     <text x="250" y="99" font-size="9" fill="#404040">stars</text>
 
     <!-- forks -->
@@ -62,7 +62,7 @@
     <rect x="462" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="462" y="109" width="210" height="1" fill="#404040"/>
     <rect x="671" y="60" width="1" height="50" fill="#404040"/>
-    <text x="472" y="80" font-size="13" fill="#000000">162</text>
+    <text x="472" y="80" font-size="13" fill="#000000">163</text>
     <text x="472" y="99" font-size="9" fill="#404040">forks</text>
 
     <!-- followers -->
@@ -71,7 +71,7 @@
     <rect x="684" y="60" width="1" height="50" fill="#FFFFFF"/>
     <rect x="684" y="109" width="208" height="1" fill="#404040"/>
     <rect x="892" y="60" width="1" height="50" fill="#404040"/>
-    <text x="694" y="80" font-size="13" fill="#000000">91</text>
+    <text x="694" y="80" font-size="13" fill="#000000">90</text>
     <text x="694" y="99" font-size="9" fill="#404040">followers</text>
   </g>
 
@@ -80,7 +80,7 @@
   <rect x="18" y="120" width="1" height="22" fill="#FFFFFF"/>
   <rect x="18" y="141" width="264" height="1" fill="#404040"/>
   <rect x="281" y="120" width="1" height="22" fill="#404040"/>
-  <text x="28" y="134" font-size="10" fill="#000000">member since Jul 24, 2018 · 91 followers · 13 following</text>
+  <text x="28" y="134" font-size="10" fill="#000000">member since Jul 24, 2018 · 90 followers · 13 following</text>
 
   <rect x="284" y="120" width="608" height="22" fill="#C0C0C0" stroke="#808080" stroke-width="1"/>
   <rect x="284" y="120" width="608" height="1" fill="#FFFFFF"/>
