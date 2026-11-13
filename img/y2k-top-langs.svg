@@ -41,8 +41,8 @@
   <text x="416" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">25%</text>
   <text x="16" y="100" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">TypeScript</text>
   <rect x="150" y="90" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
-  <rect x="151" y="91" width="156" height="9" fill="#000080"/>
-  <text x="416" y="100" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">15%</text>
+  <rect x="151" y="91" width="182" height="9" fill="#000080"/>
+  <text x="416" y="100" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">17%</text>
   <text x="16" y="119" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">QML</text>
   <rect x="150" y="109" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="110" width="52" height="9" fill="#000080"/>
