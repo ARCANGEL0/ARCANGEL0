@@ -34,11 +34,11 @@
   <text x="16" y="62" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">Python</text>
   <rect x="150" y="52" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="53" width="260" height="9" fill="#000080"/>
-  <text x="416" y="62" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">25%</text>
+  <text x="416" y="62" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">24%</text>
   <text x="16" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">JavaScript</text>
   <rect x="150" y="71" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="72" width="260" height="9" fill="#000080"/>
-  <text x="416" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">25%</text>
+  <text x="416" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">24%</text>
   <text x="16" y="100" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">TypeScript</text>
   <rect x="150" y="90" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="91" width="182" height="9" fill="#000080"/>
@@ -46,9 +46,9 @@
   <text x="16" y="119" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">QML</text>
   <rect x="150" y="109" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="110" width="52" height="9" fill="#000080"/>
-  <text x="416" y="119" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">5%</text>
+  <text x="416" y="119" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">4%</text>
   <text x="16" y="138" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">PHP</text>
   <rect x="150" y="128" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="129" width="52" height="9" fill="#000080"/>
-  <text x="416" y="138" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">5%</text>
+  <text x="416" y="138" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">4%</text>
 </svg>
