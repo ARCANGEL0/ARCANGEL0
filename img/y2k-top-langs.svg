@@ -31,11 +31,11 @@
   <rect x="8" y="141" width="444" height="1" fill="#DFDFDF"/>
   <rect x="452" y="23" width="1" height="118" fill="#DFDFDF"/>
   <text x="16" y="42" font-family="MS Sans Serif,Verdana,sans-serif" font-weight="bold" font-size="10" fill="#000080">Most used languages</text>
-  <text x="16" y="62" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">Python</text>
+  <text x="16" y="62" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">TypeScript</text>
   <rect x="150" y="52" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="53" width="260" height="9" fill="#000080"/>
   <text x="416" y="62" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">22%</text>
-  <text x="16" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">TypeScript</text>
+  <text x="16" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#000000">Python</text>
   <rect x="150" y="71" width="260" height="11" fill="#FFFFFF" stroke="#808080" stroke-width="1"/>
   <rect x="151" y="72" width="260" height="9" fill="#000080"/>
   <text x="416" y="81" font-family="'Courier New',Courier,monospace" font-size="9" fill="#404040">22%</text>
